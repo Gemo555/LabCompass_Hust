@@ -26,6 +26,7 @@ OUTPUT_DIR = ROOT / "output"
 
 USER_AGENT = "LabCompass-HUST-EIC/0.1 public academic profile collection; no login"
 NOT_FOUND = "未找到"
+SUMMARY_CHAR_LIMIT = 120
 
 COLUMNS = [
     "姓名",
@@ -43,6 +44,20 @@ COLUMNS = [
     "原始文本路径",
     "抓取状态",
     "备注",
+]
+
+SUMMARY_COLUMNS = [
+    "姓名",
+    "职称",
+    "导师类别",
+    "所属专业/院系",
+    "邮箱",
+    "研究方向摘要",
+    "项目/论文关键词摘要",
+    "本科生切入点",
+    "抓取状态",
+    "人工核验提示",
+    "来源URL",
 ]
 
 
@@ -341,17 +356,103 @@ def safe_filename(url: str, name_hint: str) -> str:
     return f"{readable}_{digest}"
 
 
+def compact_cell(value: str, limit: int = SUMMARY_CHAR_LIMIT) -> str:
+    value = clean_text(value)
+    if not value or value == NOT_FOUND:
+        return NOT_FOUND
+    if len(value) <= limit:
+        return value
+    cut = value[:limit].rstrip("，,；;。 ")
+    return f"{cut}..."
+
+
+def summary_row(row: dict[str, str]) -> dict[str, str]:
+    return {
+        "姓名": row.get("姓名", ""),
+        "职称": row.get("职称", ""),
+        "导师类别": row.get("导师类别", ""),
+        "所属专业/院系": row.get("所属专业/院系", ""),
+        "邮箱": row.get("邮箱", ""),
+        "研究方向摘要": compact_cell(row.get("研究方向", "")),
+        "项目/论文关键词摘要": compact_cell(row.get("代表性项目或论文关键词", "")),
+        "本科生切入点": compact_cell(row.get("可能适合本科生参与的任务类型", ""), 90),
+        "抓取状态": row.get("抓取状态", ""),
+        "人工核验提示": compact_cell(row.get("备注", ""), 90),
+        "来源URL": row.get("来源URL", ""),
+    }
+
+
+def markdown_escape(value: str) -> str:
+    return (value or "").replace("|", "\\|")
+
+
+def write_readable_markdown(rows: list[dict[str, str]], path: Path) -> None:
+    lines = [
+        "# HUST EIC Teacher Research Samples",
+        "",
+        "本文件由 `src/scrape_teachers.py` 自动生成，面向 GitHub 预览阅读。字段为空或无法确认时保留为“未找到”，请以导师公开主页和人工核验为准。",
+        "",
+        "## 摘要表",
+        "",
+        "| 姓名 | 职称 | 导师类别 | 院系 | 研究方向摘要 | 本科生切入点 | 状态 |",
+        "| --- | --- | --- | --- | --- | --- | --- |",
+    ]
+
+    for row in rows:
+        summary = summary_row(row)
+        lines.append(
+            "| "
+            + " | ".join(
+                markdown_escape(summary[column])
+                for column in ["姓名", "职称", "导师类别", "所属专业/院系", "研究方向摘要", "本科生切入点", "抓取状态"]
+            )
+            + " |"
+        )
+
+    lines.extend(["", "## 逐位导师卡片", ""])
+    for row in rows:
+        summary = summary_row(row)
+        name = summary["姓名"] or NOT_FOUND
+        lines.extend(
+            [
+                f"### {name}",
+                "",
+                f"- 职称：{summary['职称']}",
+                f"- 导师类别：{summary['导师类别']}",
+                f"- 所属专业/院系：{summary['所属专业/院系']}",
+                f"- 邮箱：{summary['邮箱']}",
+                f"- 研究方向摘要：{summary['研究方向摘要']}",
+                f"- 项目/论文关键词摘要：{summary['项目/论文关键词摘要']}",
+                f"- 本科生切入点：{summary['本科生切入点']}",
+                f"- 抓取状态：{summary['抓取状态']}",
+                f"- 人工核验提示：{summary['人工核验提示']}",
+                f"- 来源URL：{summary['来源URL']}",
+                "",
+            ]
+        )
+
+    path.write_text("\n".join(lines), encoding="utf-8")
+
+
 def save_outputs(rows: list[dict[str, str]]) -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     csv_path = OUTPUT_DIR / "teachers.csv"
+    summary_csv_path = OUTPUT_DIR / "teachers_summary.csv"
     xlsx_path = OUTPUT_DIR / "teachers.xlsx"
+    readable_md_path = OUTPUT_DIR / "teachers_readable.md"
 
     with csv_path.open("w", encoding="utf-8-sig", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=COLUMNS)
         writer.writeheader()
         writer.writerows(rows)
 
+    with summary_csv_path.open("w", encoding="utf-8-sig", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=SUMMARY_COLUMNS)
+        writer.writeheader()
+        writer.writerows(summary_row(row) for row in rows)
+
     write_minimal_xlsx(rows, xlsx_path)
+    write_readable_markdown(rows, readable_md_path)
 
 
 def excel_col_name(index: int) -> str:

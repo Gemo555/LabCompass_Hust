@@ -14,8 +14,10 @@ hust-eic-teacher-research/
     raw_html/                # 抓取到的原始 HTML
     raw_text/                # 从 HTML 提取的纯文本，便于人工检查
   output/
-    teachers.csv             # 输出表格
-    teachers.xlsx            # 输出表格
+    teachers.csv             # 完整自动提取结果，字段较长，适合留档
+    teachers_summary.csv     # 短字段摘要，适合快速浏览
+    teachers_readable.md     # GitHub 预览友好的导师卡片
+    teachers.xlsx            # Excel 表格
   src/
     scrape_teachers.py       # 主脚本
   analysis_template.md       # 人工匹配度分析模板
@@ -54,7 +56,9 @@ python src/scrape_teachers.py --limit 10 --delay 3
 
 运行完成后查看：
 
-- `output/teachers.csv`
+- `output/teachers_readable.md`：最适合在 GitHub 上直接阅读
+- `output/teachers_summary.csv`：短字段摘要 CSV
+- `output/teachers.csv`：完整字段 CSV，保留较长原文片段
 - `output/teachers.xlsx`
 - `data/raw_html/`
 - `data/raw_text/`
