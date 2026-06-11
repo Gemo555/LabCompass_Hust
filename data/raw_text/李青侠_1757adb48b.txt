@@ -1,0 +1,128 @@
+﻿
+电子信息与通信学院教师资料
+基本信息
+姓名
+李青侠
+性别
+男
+籍贯
+湖北省
+出生年月日
+1966
+相片
+专业职称
+教授
+导师代码
+315
+导师类别
+博士生导师
+学术兼职
+IEEE会员
+兼职导师
+社会兼职
+一级学科代码
+809
+一级学科名称
+电子科学与技术
+二级学科代码
+80904
+二级学科名称
+电磁场与微波技术
+联系方式
+固定电话
+传真
+手机
+邮件
+即时通信
+网站
+个人简介
+个人介绍
+授课课程
+研究领域
+微波遥感与深空探测、电磁理论与应用、天线阵列及信号处理
+博导研究方向
+2011年 08090401 电磁理论与应用
+2011年 08090403 微波遥感与成象
+2011年 08090405 无源探测理论与技术
+2011年 08100203 现代信号处理
+2012年 08090401 电磁理论与应用
+2012年 08090403 微波遥感与成象
+2012年 08090405 无源探测理论与技术
+硕导研究方向
+2011年 08090401 微波、毫米波技术及应用
+2011年 08090403 无源探测理论与技术
+2011年 08090404 微波遥感与成像
+2011年
+08090405 电磁理论与应用
+2011年 08100102 现代信号处理
+2011年 08100203 现代信号处理
+2011年 08102004 空间信息获取与处理
+2012年 08090401 微波、毫米波技术及应用
+2012年 08090403 无源探测理论与技术
+2012年 08090404 微波遥感与成像
+2012年 08090405 电磁理论与应用
+主要业绩
+主要著作
+1、著作名称：Antenna Array Design
+in Aperture Synthesis Radiometers，出版时间：2010-06-20，出版社名称：Vienna
+IN-TECH，本人署名次序：2；
+主要科研项目
+1、2012.01.-2015.12.
+项目名称：海面盐度遥感镜像综合孔径微波辐射测量理论与方法，项目来源：国家自然科学基金委员会，项目级别：国家级，总经费：72（万），分解经
+费：72（万），是否为主要负责人：是，本人承担任务：项目负责人；
+2、2011-2014
+项目名称：全极化综合孔径微波辐射计，项目来源：十二五预研，项目级别：省部级，总经费：150（万），分解经费：150（万），是否为主要负责人：是，本人承担任务：项目负责人
+3、2010-2011
+项目名称：月球微波辐射传输过程地面模拟实验与月壤厚度反演，项目来源：国家科技部（863子项目），项目级别：国家级，总经费：63（万），分解经费：63（万），是否为主要负责人：是，本人承担任务：项目负责人；
+主要论文
+1、201111 论文题目：The Placement
+of Antenna Elements in Aperture Synthesis Microwave Radiometers for Optimum
+Radiometric Sensitivity，刊物名称：IEEE Transactions on Antennas and
+Propagation，卷数：59，期数：11，页数：4103-4114，作者名次排名：2，三大索引收录
+号：SCI:000296474200018，刊物类别:A类，收录类别：SCI；
+2、201006
+论文题目：A Method for Seeking Low-Redundancy Large Linear Arrays in Aperture
+Synthesis Microwave Radiometers ，刊物名称：IEEE TRANSACTIONS ON ANTENNAS AND
+PROPAGATION ，卷数：58，期数：6，页数：1913-1921
+，作者名次排名：2，三大索引收录号：SCI收录号000278531600011，EI收录号：20102312990218，刊物类别:A类，收录类
+别：SCI；
+3、201004
+论文题目：One-Dimensional Mirrored Interferometric Aperture Synthesis，刊物名称：IEEE
+GEOSCIENCE AND REMOTE SENSING
+LETTERS，卷数：7，期数：2，页数：357-361，作者名次排名：2，三大索引收录号：SCI:000276683000028，刊物类别:B
+类，收录类别：SCI；
+4、201004
+论文题目：A Multichannel Passive Imaging Radiometer Using DBF Technique，刊物名称：IEEE
+GEOSCIENCE AND REMOTE SENSING
+LETTERS，卷数：7，期数：2，页数：329-332，作者名次排名：2，三大索引收录号：SCI:000276683000022，刊物类别:B
+类，收录类别：SCI；
+5、201001
+论文题目：地海面复合场景的杂波建模方法，刊物名称：微波学报，卷数：26，期数：1，页数：22-26，作者名次排名：1，三大索引收录号：，刊物类别:D类，收录类别：无；
+6、200908
+论文题目：A Combinatorial Method for Antenna Array Design in Minimum
+Redundancy，刊物名称：IEEE ANTENNAS AND WIRELESS PROPAGATION
+LETTERS，卷数：8，期数：，页数：1150-1153，作者名次排名：2，三大索引收录号：SCI:000271607900003，刊物类
+别:B类，收录类别：SCI；
+7、200807
+论文题目：A General Platform for Millimeter Wave Synthetic Aperture
+Radiometers，刊物名称：Proc. IEEE International Geoscience & Remote Sensing
+Symposium (IGARSS 2008)，卷数：vol.2，期数：，页数：pp. 1156-1159，作者名次排名：1，三大索引收录号：EI收录号
+20092412127916，刊物类别:C类，收录类别：EI；
+8、200804
+论文题目：An aperture synthesis radiometer at millimeter wave band，刊物名称：Proc. IEEE
+International Conference on Microwave and Millimeter Wave Technology ( ICMMT
+2008)，卷数：vol. 4，期数：，页数：pp.
+1699–1701，作者名次排名：1，三大索引收录号：EI收录号：20083711539961，刊物类别:C类，收录类别：EI；
+9、200706
+论文题目：汽车轮胎压力监测系统中的动态天线研究，刊物名称：汽车工程，卷数：29，期数：6，页数：470-473，作者名次排名：1，三大索引收录号：，刊物类别:D类，收录类别：无；
+10、200703
+论文题目：OFDM蜂窝移动通信中一种自适应干扰抑制算法，刊物名称：华中科技大学学报，卷数：35，期数：3，页数：12-15，作者名次排名：1，三
+大索引收录号：EI:20071910594744，刊物类别:D类，收录类别：EI；
+11、200610
+论文题目：基于虚拟仪器的压力传感器自动补偿校正系统，刊物名称：仪表技术与传感器，卷数：，期数：10，页数：21-23，作者名次排名：1，三大索引收录号：，刊物类别:D类，收录类别：无；
+12、200501
+论文题目：Microwave Brightness Temperature Prediction of Plane Targets by a Neural
+Network，刊物名称：IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING，卷数：vol.41
+，期数：no.1，页数：pp 160-162 ，作者名次排名：1，三大索引收录号：SCI收录号：653ZZ ; EI收录号：03147426039
+，刊物类别:A类，收录类别：SCI；
+主要获奖情况

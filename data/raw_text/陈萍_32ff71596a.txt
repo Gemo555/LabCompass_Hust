@@ -1,0 +1,102 @@
+华中科技大学主页平台管理系统 陈萍--中文主页--首页
+English
+首页
+科学研究
+研究领域
+论文成果
+专利
+著作成果
+科研项目
+教学研究
+教学资源
+授课信息
+教学成果
+获奖信息
+招生信息
+学生信息
+我的相册
+教师博客
+教师个人主页
+EN
+首页
+科学研究
+研究领域
+论文成果
+专利
+著作成果
+科研项目
+教学研究
+教学资源
+授课信息
+教学成果
+获奖信息
+招生信息
+学生信息
+我的相册
+教师博客
+陈萍
+研究员
+博士生导师
+硕士生导师
+个人信息
+更多+
+性别： 女
+所在单位： 电子信息与通信学院
+学历： 研究生(博士)毕业
+学位： 工学博士学位
+其他联系方式
+邮编：a0fc59827cd5338899f331d531f5915207cec030baf2f2bc95b85d55e22539f42a98bb0b6180e50e96c12627bf5637cc76c314d84a2bee4aaec92b9a58b4852a38c92e3c8538528e6417166e5e118d3711a39d6aea4a45ebe35bbcbb2ed73f85bd96d7888f64422ff979af4b9d4a88c37f69d082332eea079fc9de5db468d91a
+邮箱：98ba627257f0f4830a5f52ea058b3cb696de0da9a7f398f646f99f444d6c269307ddcaffa082e86ed13d398b55bd9f8f5ec8bb312bcdc6b52a9f456841d557f6660be75782c3fdc9535435c36a530509a5f1ecd2cb8b41e9af49da7cd345c6e6bc8f2a7d32cef7cb20f29c48190ff009512ebd54627cd0743a50b6d6f6d1683a
+个人简介
+陈萍，女，研究员，硕士生导师，博士生导师。2002年获华中科技大学电子与信息系统博士学位。2014年3月至2015年2月，法国大气与环境LATMOS实验室访问学者，师从中法海洋卫星法方首席科学家Daniele HAUSER 教授。目前的主要研究方向：海洋微波遥感探测与信息提取，具体包括：海面/目标微波散射特性、微波/毫米波雷达系统（天线阵列、射频通道和FPGA数字板、上位机等的设计开发）、雷达回波信号处理、海面/目标特性提取（物理模型与深度学习结合）。在波谱仪海浪谱探测与海洋信息提取领域具有深厚的研究积累，获海洋工程科学技术一等奖。主持国家重点研发计划课题、国基金面上项目和卫星专项项目，研制了星载波谱仪有源定标器系统、中法海洋卫星...
+查看更多>
+教育经历
+1995.9~1998.6
+武汉水利水电大学
+研究生(硕士)毕业
+1998.9~2002.12
+华中科技大学
+研究生(博士)毕业
+工作经历 查看更多
+2019.11~2025.7
+华中科技大学
+电子信息与通信学院
+研究员
+2014.3~2015.2
+法国LATMOS实验室
+师从中法海洋卫星法方首席科学家Daniele Hauser 教授，开展波谱仪海浪探测研究
+2004.11~2019.11
+华中科技大学
+电子信息与通信学院
+副教授
+论文成果
+专利成果
+著作成果
+Ping Chen,Chujian Huang.Calibration of Directional Wave Height Spectra by SWIM Through an AU-Net.IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING,2025,
+Hailong Peng,Bo Mu,Xiangjie Li,Daniele Hauser.Ping Chen.Calibration of omnidirectional wave height spectra by SWIM through an BU-Net.IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING,2024,
+Baptiste Gombert,Ping Chen.Daniele Hauser.Speckle Energy Spectrum in a Complex Radar Viewing Geometry From the Spaceborne SWIM Observations and From Model.IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING,2025,
+YIng Xu,Daniele Hauser.Ping Chen.Statistical Comparison of Ocean Wave Directional Spectra Derived From SWIM/CFOSA T Satellite Observations and From Buoy Observations.IEEE Transactions on Geoscience and Remote Sensing,2022,
+Ping Chen,Daniele Hauser,Shihao Zou.Speckle Noise Spectrum at NearNadir Incidence Angles for a TimeVarying Sea Surface.IEEE Transactions on Geoscience and Remote Sensing,2022,
+Ping Chen,Gang Zheng,Daniele Hauser.Fei Xu.Quasi-Gaussian probability density function of sea wave slopes from near nadir Ku-band radar observations.Remote Sensing of Environment,2018,(11):86-100
+查看更多>
+一种星载海洋波谱仪斑点噪声谱去除方法及其系统.
+一种雷达小入射角下的海面相关时间获取方法和系统.
+一种基于蒙特卡罗法的生成单向传播海浪的海面的方法.
+一种建立改进的准镜像散射模型的海浪斜率反演方法.
+一种建立改进的波谱仪调制信号模型的方法.
+一种海浪斜率分布的微波散射遥感方法.
+查看更多>
+暂无内容
+社会兼职
+2020.7~至今
+中国海洋湖沼学会海湖信息技术专业委员会委员
+研究方向
+海洋微波遥感、波谱仪海浪谱探测、波谱仪有源定标器
+团队成员
+暂无内容
+同专业博导
+同专业硕导
+总访问量
+今日访问量
+月访问量
+地址：湖北省武汉市洪山区珞喻路1037号 邮政编码：430074

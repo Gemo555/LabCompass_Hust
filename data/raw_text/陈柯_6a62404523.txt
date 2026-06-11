@@ -1,0 +1,38 @@
+﻿
+姓名:陈柯
+电子与信息工程系副教授
+个人简介
+陈柯，男，1977年生，博士，华中科技大学副教授。1999年本科毕业于华中科技大学电子与信息工程系通信工程专业并留校任教，2002年获得华中科技大学电子与信息工程系电磁场与微波技术专业硕士学位，2010年获得华中科技大学电子与信息工程系通信与信息系统专业博士学位。2013年12月~2014年12月以访问学者身份选派到美国科罗拉多大学Boulder分校ECEE系CET实验室进行交流学习并开展科研工作。主要的研究方向为无源微波遥感、探测。2010年作为负责人承担完成国家自然科学基金青年基金项目“盐度遥感综合孔径微波辐射计干涉测量理论与方法研究”的科研工作；2011年作为主要执行负责人承担完成了应用单位合作项目“二维毫米波综合孔径辐射计阵列成像系统”、“微波遥感探测仪总体方案指标分析与仿真”的研究工作；2012年作为负责人正在承担国家自然科学基金面上项目“基于综合孔径的地球静止轨道气象卫星毫米波大气探测载荷理论与关键技术研究”。在美国期间参与CET实验室项目‘Hydrometric
+Tracking Simulator’的研究。在IEEE TGRS，IEEE GRSL、Journal of Infrared Millimeter
+and Terahertz Waves、微波学报等权威学术期刊以及国际国内学术会议上发表论文十余篇，多篇被SCI、EI收录。
+个人网站
+http://xxxxxx
+个人邮箱
+chenke@hust.edu.cn
+代表性论文
+• Ke Chen, Yaoting Zhu，XiChen Guo, Wei Guo, QingXia Li, LiangQi
+Gui, Wei Ni. Design of 8mm-band Aperture Synthetic Radiometer and Imaging
+Experiment. Journal of Infrared, Millimeter and Terahertz Waves, 2010, 31
+(6): 724-734.
+• Guoping Hu、*Ke Chen、Quanliang Huang、Wei
+Guo、Qingxia Li、Liangqi Gui、Yingbiao Cheng ，Brightness Temperature Calculation
+of Lunar Crater: Interpretation of Topographic Effect on Microwave Data From
+Chang’E ，IEEE Transactions on Geoscience and Remote Sensing, 52(8), pp
+4499-4510, 2014/08/15
+• 陈柯、赖利、*贺锋、李召阳 ，基于NUFFT算法的综合孔径辐射计图像反演方法 ，微波学报
+• 陈柯，朱耀庭，郭伟，李青侠，桂良启，靳嵘. Ka波段毫米波综合孔径辐射计成像研究.
+微波学报，2010，26（2）：85～89.
+• Ke Chen、 Wei Guo、 Hong Yang、 Rong Jin、 Guanli Yi、 Fei Hu、
+Jinhai Sun ，Error model and calibration 2012of synthetic aperture
+interferometric radiometer based on visibility function ，Geoscience and
+Remote Sensing Symposium (IGARSS), 2012 IEEE International,
+2012/7/22-2012/7/27, pp 4633-4636, Munich, 2012/7/22
+主要奖励或荣誉
+•
+•
+•
+•
+承担课程
+• 微波技术基础
+• 射频电路设计与仿真
+• 微波遥感

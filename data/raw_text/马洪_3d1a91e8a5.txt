@@ -1,0 +1,121 @@
+﻿
+马洪 简介
+专业职称：教授
+导师代码：476
+导师类别：博士生导师，硕士生导师
+一级学科代码：809，810
+一级学科名称：电子科学与技术，信息与通信工程
+二级学科代码：80904，81001
+二级学科名称：电磁场与微波技术，电路与系统，通信与信息系统
+联系方式
+mahong@hust.edu.cn QQ：3261739242
+个人简介
+1984年至1988年本科就读于华中工学院无线电工程系，1989年至1992年硕士就读于华中理工大学电子与信息工程系，1998年获华中理工大学电子科学与技术一级学科工学博士学位。1992年起在华中理工大学电子与信息工程系、华中科技大学电子信息与通信学院工作，先后任职讲师、副教授，2004年起任职教授，2005年起担任博士生导师，现为电子工程系系主任。
+曾于1999年至2002年担任武汉汉网高技术有限公司研发中心负责人、射频微波部经理，负责第三代移动通信系统PDMA-i3G的设备研发和外场试验工作，获2001年至2003年武汉市政府优秀博士津贴、2001年度华工科技股份有限公司优秀技术骨干，2001年湖北省优秀博士学位论文奖，2003年由湖北省通信管理局和湖北省通信学会联合授予“湖北省通信专家”称号。为中国电子学会微波分会第八届和第九届委员、湖北省通信学会无线与移动通信专业委员会委员，长期兼任湖北省/武汉市科技项目咨询评审专家。曾担任中科院武汉物理与数学研究所国家重点研发计划“芯片原子钟技术”项目咨询专家组专家、多家上市公司独立董事，并任某上市公司战略委员会委员、技术顾问。是国家重点研发计划项目“高精度位移传感方法与技术”的项目负责人和首席科学家。
+专业领域涉及：电磁场与微波技术、射频电路与系统、自适应/盲信号/阵列信号处理、非线性信号处理、无线与移动通信、雷达与电子对抗。擅长天线设计与测试、射频微波与数字信号处理硬件/平台设计、数字信号处理与数据处理算法设计及FPGA/DSP实现、通信系统与探测系统的架构设计，在大系统大项目的规划、总体方案设计、项目领导管理等方面具有较丰富的经验。
+目前的主要研究方向为：“互联网+智能频谱监测”及频谱大数据处理、无人机探测与反制、被动探测与电磁频谱监测、无线通信与无线自组网、软件无线电、引力波探测、非稳态核磁共振理论与技术。
+研究生招生专业及方向
+博士生招生专业：电磁场与微波技术、电路与系统、无线电物理，包括以下方向
+无线通信、移动通信与光通信；被动探测理论、技术与系统；
+软件无线电；微弱信号检测与处理 ；引力波探测
+硕士生招生专业：通信与信息系统、电磁场与微波技术、电路与系统、
+无线电物理，包括以下方向
+无线通信、移动通信与光通信；被动探测理论、技术与系统；
+电磁环境与电磁监测；软件无线电、电子对抗与雷达；
+现代电子设备与系统设计、微弱信号检测与处理；引力波探测
+主要业绩
+主要著作
+在各类学术期刊和学术会议上发表论文60余篇、已获授权发明专利30余项、软件著作权多项，编著研究生讲义《近代微波技术》。部分学术论文如下
+(1) 2018年,Method for bearing estimation of target for amplitude modulation
+radio-based passive radar application, ELECTRONICS LETTERS；
+(2) 2018年，DOA estimation for echo signals and experimental results in the AM
+radio-based passive radar，IEEE Access；
+(3) 2018年，Research on Electromagnetic Radiation of Xijiang
+Traction Substation，2018 Joint IEEE International
+Symposium on Electromagnetic Compatibility and Asia-Pacific Symposium on
+Electromagnetic Compatibility；
+(4) 2018年，西江牵引变电所电磁辐射研究，《电波科学学报》；
+(5) 2018年，Nonlinear Blind Compensation for Array Signal Processing
+Application, MDPI Sensors；
+(6) 2017年，Iterative robust adaptive beamforming, EURASIP Journal on Advances
+in Signal Processing；
+(7) 2017年，A Nonlinearity Mitigation Method for a Broadband RF Front-end in a
+Sensor Based on Best Delay Searching, MDPI Sensors；
+(8) 2017年，Improved singular value decomposition-based de-noising algorithm in
+digital receiver front-end, IET Communications；
+(9) 2017年，非线性盲辨识补偿处理的宽带超外差接收机，《信号处理》；
+(10) 2016年，Mitigating RF Front-end Nonlinearity of Sensor Nodes to Enhance
+Spectrum Sensing, MDPI Sensors；
+(11) 2016年，Extended Analysis of Real-Time f0F2 Mapping in Mideastern China
+Based on Shortwave Signals, Radio Science；
+(12) 2016年，Application of singular value decomposition for interference
+cancellation and noise reduction of NMR Data in measuring time-dependent
+magnetic fields，MDPI Sensors；
+(13) 2016年，Iterative Robust Capon Beamforming，Elsevier
+Signal Process；
+(14) 2016年，Broadband Continuous Nuclear Magnetic Resonance Signal in a Pulsed Magentic Field: Numerical Solutions of Bloch Equations
+under Radio Frequency Irradiation，Applied Magnetic
+Resonance；
+(15) 2016年，Numerical solution to the Bloch equations: paramagnetic solutions
+under wideband continuous radio frequency irradiation in a pulsed magnetic
+field，Chinese Physics C；
+(16) 2015年，Cardinality balanced multitarget multiBernoulli
+filter for multipath multitarget tracking in over-the-horizon radar，IET Radar,Sonar and Navigation；
+(17) 2015年，Method and field experiment of target tracking via multi-static Dopplershifts in HF passive radar，IET
+Radar, Sonar and Navigation；
+(18) 2015年，Ionospheric electron density profile estimation using commerical AM broadcast signals，
+Elsevier Journal of Atmospherica and Solar-terrestial Physics；
+(19) 2015年，Ganssian mixture
+probability hypothesis density filter for multipath multitarget tracking in
+over-the-horizon radar，EURASIP Journal on Advances in
+Signal Processing；
+(20) 2015年，Reference signal extraction and direct signal interference
+suppression for HF passive radar，Electronics Letters；
+(21) 2014年，OTHR Multipath Tracking Using the Bernoulli Filter，IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS；
+(22) 2011年，宽带接收机前端非线性的盲辨识与数字后补偿方法，《通信学报》；
+(23) 2011年，Design and Implementation of Software-Defined Radio Receiver Based
+on Blind Nonlinear System Identification and Compensation，IEEE Trans. on Circuits and System-I；
+(24) 2006年，Decimal-coding Chaos Genetic Algorithm for the Envelope-based
+Nonlinear Microwave Circuit Simulation， Int.J. of RF and Microwave CAE；
+(25) 2004年，NRD波导正交场平衡混频器准周期稳态响应分析，《微波学报》；
+(26) 2004年，Performance Requirements and Analysis of RF Receiver for PDMA
+Terminal，Wireless Personal Communications；
+(27) 2004年，NRD波导中部连续性结构的理论分析，《电子学报》。
+承担项目
+（1） 2020-2025年，高精度位移传感方法与技术，国家重点研发计划项目；
+（2） 2020-2025年，高精度多自由度位移传感技术与样机研制，国家重点研发计划课题；
+（3） 2020-2024年，升空散射体辅助的单接收站地基辐射源被动探测定位新体制，国家自然科学基金面上项目；
+（4） 2020-2021年，湖北省无线电监测网分层组网方案与频谱数据挖掘技术研究，湖北省无线电监测中心招标项目，核心成员参加；
+（5） 2017年-2018年，快速部署无线电监测网技术优化，湖北省无线电管理委员会项目；
+（6） 2016年-2018年，作为核心成员参加湖北省无线电管理委员会“便携式快速部署无线电监测网建设项目”；
+（7） 2017年-2018年，高速铁路牵引变电所对外界的电磁辐射测试研究，中铁第四勘察设计院集团有限公司项目；
+（8） 2015年-2018年，纵向脉冲磁场下的非稳态核磁共振研究，华中科技大学创新交叉重点团队项目；
+（9） 2015年-2016年，纵向脉冲磁场下的非稳态核磁共振，脉冲强磁场国家重大科技基础设施开放共享课题；
+（10） 2015年-2017年，网格化宽带无线电监测定位与干扰仪，湖北省科技厅条件领域支撑计划项目；
+（11） 2015年-2016年，智能电磁频谱监测管控技术研究，武汉瑞天波谱信息技术有限公司项目；
+（12） 2015年-2018年，脉冲型纵向磁场下多通道非稳态核磁共振研究，国家自然科学基金项目面上项目；
+（13） 2008年-2013年：雷电灾害监测预警关键技术研究与系统研发，“十二五”国家科技支撑计划重点项目，项目技术总负责人、总体组组长、两个课题的主持完成人；
+（14） 2009年-2012年，超宽带核磁共振法精密测量脉冲强磁场的关键问题，国家自然科学基金面上项目；
+（15） 2008年-2010年，CPT 原子频标机理与微型化研究，武汉光电国家实验室创新基金重点项目；
+（16） 2006年-2008年，被动型CPT 原子频标电子学系统研制，中科院武汉物数所项目；
+（17） 1999年-2002年，宽带无线IP 通信技术，国家“863 计划”重大项目，核心成员；
+（18） 2004年-2006年，B3G-TDD 射频中频分系统与天馈单元研制和现场试验，北京邮电大学项目。
+研究条件
+本团队拥有非常完善优良的科研条件。主要仪器设备价值超千万，包括
+Ø 高端射频/微波矢量信号源，直至40GHz
+Ø 高端射频/微波矢量网络分析仪，直至44GHz
+Ø 高端射频/微波频谱分析仪，直至44GHz
+Ø 各类高端射频/微波辅助测试仪表
+Ø 高端高速逻辑分析仪、数字模拟混合示波器
+Ø 高端PXI/PXIe虚拟仪器系统、阵列采集流盘与实时处理系统
+Ø 多频段测向天线阵和接收处理设备
+Ø 各型各频段全向天线、定向天线、多轴天线转台
+Ø 自研的1.8GHz频段ROF-MIMO-OFDM无线通信基站和终端系统
+Ø 自研的2.1GHz/2.5GHz频段PDMA无线通信基站和终端系统
+Ø 自研的LF频段/VHF频段八通道阵列接收机、高精度DOA/TDOA组合定位系统
+Ø 自研的短波/超短波盲辨识补偿处理接收机系统
+Ø 超宽频率范围软件无线电接收机和发射机设备
+Ø 超宽频率范围测向接收机与信号处理机、多站组网TDOA定位设备
+Ø 电磁屏蔽室
+Ø 脉冲磁体及配套的高能脉冲电源和控制系统、微波发射/接收分析系统
+Ø 各类EDA软件
