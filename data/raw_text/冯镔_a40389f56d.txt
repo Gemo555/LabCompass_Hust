@@ -1,0 +1,92 @@
+华中科技大学主页平台管理系统 冯镔--中文主页--首页
+English
+首页
+科学研究
+研究领域
+论文成果
+专利
+著作成果
+科研项目
+教学研究
+教学资源
+授课信息
+教学成果
+获奖信息
+招生信息
+学生信息
+我的相册
+教师博客
+教师个人主页
+EN
+首页
+科学研究
+研究领域
+论文成果
+专利
+著作成果
+科研项目
+教学研究
+教学资源
+授课信息
+教学成果
+获奖信息
+招生信息
+学生信息
+我的相册
+教师博客
+冯镔
+教授
+博士生导师
+硕士生导师
+个人信息
+更多+
+性别： 男
+在职信息： 在职
+所在单位： 电子信息与通信学院
+学历： 研究生(博士)毕业
+学位： 工学博士学位
+其他联系方式
+邮编：a0fc59827cd5338899f331d531f5915207cec030baf2f2bc95b85d55e22539f42a98bb0b6180e50e96c12627bf5637cc76c314d84a2bee4aaec92b9a58b4852a38c92e3c8538528e6417166e5e118d3711a39d6aea4a45ebe35bbcbb2ed73f85bd96d7888f64422ff979af4b9d4a88c37f69d082332eea079fc9de5db468d91a
+邮箱：516d3dcda9b9a0f0220b766a65b0ed8356f179214be06f153012fbc553b6e39eb0cb2d5c7f3b5cc3aa9e314660feead83dfa9fbdd8ab639303f58ea2bc1813ed646065a766f00a32a795c21813c468a859b25397ce2f761e120aa3c897dbcd8bdf2819312c80ff4e66ee3575dcd36c9f68689701cb1d648d48f00b35c4547901
+个人简介
+2006年毕业于华中科技大学电子与信息工程系，获信息与通信工程一级学科博士学位；2009年-2010年赴香港科技大学访问交流。目前主要研究方向是人体动作行为分析，包括手势识别、声纹识别、步态识别等。先后主持国家自然科学基金，湖北省自然科学基金，以及多项横向合作课题。已发表论文30多篇，包括TIP，CSVT，Pattern Recognition，ICCV等国际顶级期刊和会议，获国内授权技术发明专利6项。担任TIP，CSVT，TMS，ICV等多个期刊的常邀审稿人。
+查看更多>
+教育经历
+2001.9~2006.6
+华中科技大学
+研究生(博士)毕业
+1997.9~2001.6
+华中科技大学
+本科(学士)
+工作经历
+暂无内容
+论文成果
+专利成果
+著作成果
+GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models.ICASSP2026,
+TriC-Motion: Tri-Domain Causal Modeling Grounded Text-to-Motion Generation.ICLR 2026,
+Gait Recognition via Collaborating Discriminative and Generative Diffusion Models.AAAI 2026,
+Fourier-Based Adaptive Counterfactual Intervention for Object Re-Identification.Neural Networks 2025,
+CGTGait: Collaborative Graph and Transformer for Gait Emotion Recognition.IJCB2025,
+Collaborative Spatial and Channel Attention for Structural Vibration-based Gait Recognition.IJCB2025,
+查看更多>
+一种基于多维度注意力融合网络的多模态情绪分析方法.发明,ZL 202010292014.0,
+基于时间域-空间域特征联合增强的步态识别方法与系统.ZL 202110404465.3,
+一种基于主动学习的步态识别方法.ZL 202110041665.7,
+一种基于强化学习的双流特征融合图像识别方法.发明,ZL 201911038698.5,
+一种基于动作边界概率的级联动作候选框生成方法与系统.发明,ZL 201910394488.3,
+一种基于深度图像的手势识别方法与系统.ZL 201510058032.1,
+查看更多>
+暂无内容
+社会兼职
+暂无内容
+研究方向
+人体动作行为分析
+团队成员
+暂无内容
+同专业博导
+同专业硕导
+总访问量
+今日访问量
+月访问量
+地址：湖北省武汉市洪山区珞喻路1037号 邮政编码：430074

@@ -1,0 +1,123 @@
+﻿
+[Biography] [Students] [Grants]
+[Publications] [Awards] [Activities] [Courses]
+Haojun Huang (黄浩军)
+PhD,
+Associate Professor, PhD Supervisor
+IEEE / ACM Senior Member
+School of Electronic Information and Communications
+Huazhong University of Science and Technology
+Wuhan, Hubei, 430074 P.R. China
+Email: hjhuang@hust.edu.cn
+Office: Room West 316, South Building 1, HUST
+Biography
+Dr. Haojun Huang is currently an Associate Professor in the Department of Information Engineering at Huazhong University of Science and Technology (HUST), China. He received his BS degree from the School of Computer Science and Technology, Wuhan University of Technology (WHUT), in 2005, and PhD degree from the School of Communication and Information Engineering, University of Electronic Science and Technology of China (UESTC), in 2012. He worked as a postdoctor in the Research Institute of Information Technology, Tsinghua University (THU), from 2012 to 2015, a visiting scholar in computing science at the University of Exeter (UNEXE) from Jan. 1 to June 30, 2015, an assistant professor in communication engineering within the College of Electronic Information Engineering at Wuhan University (WHU) from 2015 to 2017, and a professor in the Department of Network Engineering within the College of Computer at the China University of Geosciences (CUG) in 2018. His current research interests include Internet of Things (IoT), Software-Defined Networking (SDN), Network Functions Virtualization (NFV), and Artificial Intelligence (AI) for networking.
+He has established a solid track record in publications in international journals and at reputable conferences, and been invited to give more than 8 talks in international conferences and reputable universities. So far, his research has resulted in 20 refereed journal papers (with 10 papers published or accepted for publication in IEEE/ACM Transactions or Journals), 5 refereed conference papers, 2 scientific books, and 1 patent. He has co-authored research publications with excellent researchers from 12 different universities, and has been invited to contribute four overview articles published in IEEE Communications Magazine (IF=10.356) and IEEE Networks (IF=7.503). He has been serving as an executive associate editor for Springer Peer-to-Peer Networking and Applications from 10/10/2013, guest editor for ACM/Springer Mobile Networks & Applications Special Issue on Deep Learning for Big Data Analytics in 2018, and also serving as a TPC Vice Chair for IEEE IUCC 2017 and GreenCom 2017. Besides, he has served as a TPC member for several important conferences such as IEEE INFOCOM 2018/2017/2015, HPCC 2019/2018, DSS 2018, ICC 2018/2017/2013, GLOBECOM 2019/2016, IUCC 2019/2018/2017, CIT 2017/2016/2015, CPSCom 2017, SmartData 2018/2017, GreenCom 2017, and WNM-2015, and as a reviewer for more than 20 various prestigious journals, including IEEE/ACM JSAC, TMC, TSC, TII, TSUSC, and ToN, etc.
+Dr. Huang is currently looking for highly self-motivated PhD/MS/undergraduate students who are strongly committed to multi-disciplinary research on AI, NFV, SDN, IoT, and Future Networks. Candidates are expected to have solid background in programming, mathematics and writing in English. If you are interested and have the right background, please feel to contact Dr. Huang via email hjhuang@hust.edu.cn.
+Students
+PhD Students
+Li Li (2020, MS from OSU)
+Gaoyang Liu (2019, in collaboration with Prof. Chen Wang)
+MS Students
+Zhaoxi Li (2020, BS from CUG)
+Jialin Tian (2019, BS from NEU)
+Cheng Zeng (2019, BS from WHUT)
+Zifu Song (2019, BS from WHU)
+Hao Ku (2019, BS from HUST)
+Forat Sleman (2019, BS from USTO, Oran-Algeria)
+Mamane Sani Ibrahim Nafiou (2019, BS from)
+Bayarsaikhan Tumurbaatar (2019, BS from)
+Arkel malest Lopez (2019, BS from)
+Undergraduate Students
+Haoran Cheng (2019)
+Liangchen Hang (2019)
+Zhiyuan Hu (2019)
+Zhuo Su (2019)
+Yunhao Yuan (2018)
+Research Grants
+Data-driven Network Distance Prediction, PI, China Postdoctoral Science Foundation(Success ratio=9%), 2017-2018
+Redundant Secure Communication Mechanism in Internet of Things, PI, Science Foundation of Department of Communications of China, 2016-2016
+Data-driven Network Measurement in NFV-based Networks, PI, Jiangsu Natural Science Foundation, 2017-2018
+Network Distance Prediction in the Non-Euclidean Space, PI, China Postdoctoral Science Foundation (Success ratio=15%), 2016-2016
+3D Geographic Routing Protocols for Wireless Sensor Networks Deployed in the Complicate Environment, PI, Natural Science Foundation of China (Success ratio=16.2%), 2014-2017
+Experiment Demonstration of 3D Geographic Routing Protocols in Wireless Sensor Networks, PI, China Postdoctoral Science Foundation (Success ratio=9%), 2014-2016
+QUICK: Quality-of-Experience Improvement for Mobile Multimedia across Heterogeneous Wireless Networks, Co-PI, European FP7, 2014-2018
+Selected Publications
+H. Huang, W. Miao, G. Min, C. Huang, X. Zhang, and C. Wang, Resilient Range-based d-dimensional Localization for Mobile Sensor Networks, to appear in IEEE/ACM Transactions on Networking, 2020.
+H. Huang, W. Miao, G. Min, C. Huang, J. Tian, and A. Alamri, NFV-enabled 5G for URLLC in Industry: Architecture and Performance Evaluation, to appear in IEEE Transactions on Industrial Informatics, 2020.
+J. Zhang, H. Huang*, G. Min, W. Miao and D. Oliver Wu, Social-aware Routing in Mobile Opportunistic Networks, to appear in IEEE Wireless Communications, 2020.
+C. Wang, G.Liu, H. Huang*, W. Feng, K. Peng, and L. Wang, MIASec: Enabling Data Indistinguishability Against Membership Inference Attacks in MLaaS, IEEE Transactions on Sustainable Computing, 5(3):365-376, 2020.
+X. Zhang, H. Yin, D. Wu, H. Huang, G. Min, and Y. Zhang, SSL: A Surrogate-based Method for Large-scale Statistical Delay Measurement, to appear in IEEE Transactions on Services Computing, 2020.
+Q. Fan, H. Yin, L. Jiao, Y. Lv, H. Huang, and X. Zhang, Towards Optimal Request Mapping and Response Routing for Content Delivery Networks, to appear in IEEE Transactions on Services Computing, 2020.
+W. Miao, G. Min, Y. Wu, H. Huang, Z. Zhao, and C. Luo, Stochastic Performance Analysis of Network Function Virtualization in Future Internet, IEEE Journal on Selected Areas in Communications, 37(3):613-626, 2019.
+X. Zhang, H. Huang*, H. Yin, D. Wu, G. Min, and Z. Ma, Resource Provisioning in the Edge for IoT Applications with Multilevel Services, IEEE Internet of Things Journal, 6(3):4262-4271, 2019.
+P. Zhao, H. Jiang, C. Wang, H. Huang, Y. Yang, and G. Liu, On the Performance of K-anonymity against Inference Attacks with Background Information, IEEE Internet of Things Journal, 6(1):808-819, 2019.
+H. Huang*, S. Pang, G. Min, and J. Zhang, Multipath Routing Identification Approach for Internet Built on End-to-End Packet Order, to appear in Wireless Networks, 2019.
+J. Zhang, H. Huang*, C. Yang, J. Liu, Y. Fan, and G. Yang, Destination-aware Metric based Social Routing for Mobile Opportunistic Networks, to appear in Wireless Networks, 2019.
+X. Zhang , H. Chen, Y. Zhao, Z. Ma, Y. Xu, H. Huang, Y. Hao, and D. Wu, Improving Cloud Gaming Experience through Mobile Edge Computing, IEEE Wireless Communications, 26(4):178-183, 2019.
+H. Huang*, H. Yin, G. Min, X. Zhang, and J. Zhang, Energy-aware Dual-path Geographic Routing to Bypass Routing Holes in Wireless Sensor Networks, IEEE Transactions on Mobile Computing, 17(6):1339-1352, 2018.
+H. Huang*, J. Zhang, X. Zhang, B. Yi, Q. Fan, and F. Li, EMGR: Energy-aware Multicast Geographic Routing in Wireless Sensor Networks, Computer Networks, 129:51-63, 2018.
+H. Huang*, H. Yin, G. Min, H. Jiang, J. Zhang, and Y. Wu, Data-driven Information Plane in Software-Defined Networking, IEEE Communications Magazine, 55(6):218-224, 2017.
+H. Huang*, H. Yin, G. Min, X. Zhang, W. Zhu, and Y. Wu, Coordinate-assisted Routing Approach to Bypass Routing Hole in Wireless Sensor Networks, IEEE Communications Magazine, 55(7):180-185, 2017.
+H. Huang*, H. Yin, Y. Luo, X. Zhang, G. Min, and Q. Fan, Three-dimensional Geographic Routing in Wireless Mobile Ad Hoc and Sensor Networks, IEEE Networks, 30(2):82-90, 2016.
+H. Huang*, H. Yin, G. Min, D. Wu, Y. Wu, and K. Li, Network Distance Prediction for Enabling Service-oriented Applications over Large-scale Networks, IEEE Communications Magazine, 53(8):166-174, 2015.
+Honors and Awards
+100 Representative Grantees, China Postdoctoral Science Foundation, 2017
+Graduate Academic Innovation Award, UESTC, 2012
+Excellent Graduate Scholarship, UESTC, 2008-2012
+Professional Activities
+Membership
+IEEE International Conference on Computer Communications (INFOCOM): 2018, 2017, 2015
+IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA): 2020
+IEEE International Conference on High Performance Computing and Communications (HPCC): 2019, 2018
+IEEE International Conference on Smart City (SmartCity), 2018, 2017
+IEEE International Conference on Data Science and Systems (DSS), 2018
+IEEE International Conference on Computing, Networking and Communications (ICNC):2017
+IEEE International Conference on Ubiquitous Computing and Communications (IUCC): 2019, 2018, 2017
+IEEE Green Computing and Communications Conference (GreenCom): 2017
+IEEE Global Communication Conference (GLOBECOM): 2019, 2016
+IEEE International Conference on Communications (ICC): 2018, 2017, 2013
+IEEE International Conference on Internet of Things (iThings): 2017, 2016
+IEEE International Conference on Cyber, Physical and Social Computing (CPSCom):2017, 2016
+IEEE International Conference on Smart Data (SmartData): 2017
+IEEE Workshop on Network Measurements Conference (WNM): 2015
+IEEE International Conference on Computer and Information Technology (CIT): 2017, 2016, 2015
+Workshop Chair, IEEE HPCC 2018, Exeter, UK, 28-30/6/2018
+Poster Chair, IEEE SECON 2013, New Orleans, LA, 24-27/6/2013
+Web Chair, IEEE INFOCOM 2012, Orlando, FL, 25-30/3/2012
+Editorial Board Member
+Executive Associate Editor (EAE), Springer, Peer-to-Peer Networking and Applications, 8/10/2013 - present
+Guest Editor, ACM/Springer Mobile Networks & Applications (MONET), Special Issue on Deep Learning for Big Data Analytics, 2018
+Technical Program Committee Vice Chair
+Ubiquitous Communications Track, IEEE Ubiquitous Computing and Communications Conference (IUCC), Guangzhou, China, 1-15/12/2017
+Green Computing and Communication Technologies Track, IEEE Green Computing and Communications Conference (GreenCom), Exeter, UK, 21-23/6/2017
+Selected Invited Talks
+SDN-based Information Plane in Future Networks, HUST, Wuhan, China, 3/4/2017.
+3D Geographic Routing in Wireless Mobile Ad Hoc and Sensor Networks--Wireless Communications and Networking, ChinaCom 2016, ChongQing, China, 25/9/2016.
+Book Editing
+Blockchains in Networks: Principles, Technologies, and Applications (In press),H. Huang (HUST, China), L. Wang (CUG, China), Y. Wu (UNEXE, UK), and K. R. Choo (University of Texas at San Antonio, USA), IET/SciTech, ISBN: 9781785618734, 2020.
+5G-Enabled Internet of Things (In press), Y. Wu (UNEXE, UK), H. Huang (HUST, China), C. Wang (Heriot-Watt University, UK), and K. R. Choo (University of Texas at San Antonio, USA), Taylor & Francis, CRC, ISBN: 9780367190101, 2019.
+Journal Reviewer
+IEEE Journal on Selected Areas in Communications
+IEEE/ACM Transactions on Networking
+IEEE Transactions on Mobile Computing
+IEEE Transactions on Parallel and Distributed Systems
+IEEE Transactions on Services Computing
+IEEE Communications
+IEEE Network Magazine
+IEEE Transactions on Sustainable Computing
+IEEE Transactions on Computational Social Systems
+IEEE Internet of Things Journal
+Computer Communications
+Wireless Communications and Mobile Computing
+Wireless Networks
+Future Generation Computer Systems
+China Communications
+Courses
+ECE 4893: Digital Networking
+Spring'20
+ECE 4823/6823: Digital Communications
+Fall'12|Spring'18
+ECE 8823: Wireless Networks
+Spring'12|Fall'13|Fall'14|Fall'15|Fall'16
+Last updated: 2020-09-14

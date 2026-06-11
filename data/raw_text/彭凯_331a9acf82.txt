@@ -1,0 +1,175 @@
+彭凯 Kai Peng
+HOME
+个人简介
+研究方向
+论文精选
+主要项目
+授权专利
+Kai Peng 彭凯
+Ph.D., Professor
+School of Electronic Information and Communications 电子信息与通信学院
+Huazhong University of Science and Technology 华中科技大学
+华中科技大学 南一楼西南204
+pkhust@hust.edu.cn
+个人简介
+研究方向
+论文精选
+主要项目
+授权专利
+Dr. Kai Peng received his BE, MS, and PHD degrees from Huazhong University
+of Science and Technology in 1999, 2002, and 2006, respecitvely. He is currently a professor in the
+School of Electronic Information and Communications at Huazhong University of Science and Technology.
+His research interests are in the areas of edge computing, artificial intelligence, cloud computing,
+blockchain technology and network security.
+研究方向
+Research Interests
+Edge Computing
+边缘计算
+Artificial Intelligence
+人工智能
+Cloud Computing
+云计算
+Blockchain Technology
+区块链
+Network Security
+网络安全
+论文精选
+Selected Publications
+C. Wang, M. Yuan, R. Zhang, K. Peng* and L. Liu. "Efficient Point-of-Interest Recommendation
+Services with Heterogenous Hypergraph Embedding." IEEE Transactions on Services Computing.
+2022, doi: 10.1109/TSC.2022.3187038. SCI, 影响因子：11.019
+M. Hu, M. Xiao, C. Cai, Y. Dong, K. Peng*. "Traffic Engineering for Software Defined LEO
+Constellations." IEEE Transactions on network and service management. 2022, doi:10.1109/TNSM.2022.3186716.
+SCI, 影响因子：4.758
+M. Hu, K. Peng*, et al. "QoS-Aware Software Defined Multicast in LEO Satellite Networks. IEEE Transactions
+on Aerospace and Electronic Systems." 2022, doi: 10.1109/TAES.2022.3169732. SCI, 影响因子：3.491
+L. Liu, Y. Wang, G. Liu, K. Peng and C. Wang. "Membership Inference Attacks against
+Machine Learning Models via Prediction Sensitivity." IEEE Transactions on Dependable and
+Secure Computing. 2022, doi: 10.1109/TDSC.2022.3180828. SCI, 影响因子：6.791
+J. Chen, Y. Gao, J. Shan, K. Peng, C. Wang and H. Jiang. "Manipulating Supply Chain Demand
+Forecasting with Targeted Poisoning Attacks." IEEE Transactions on Industrial
+Informatics. 2022, doi: 10.1109/TII.2022.3175958. SCI, 影响因子：11.648
+X. Ma, F. Ding, K. Peng, Y. Yang and C. Wang. "CP-Link: Exploiting Continuous Spatio-Temporal Check-in
+Patterns for User Identity Linkage." IEEE Transactions on Mobile Computing. 2022, doi: 10.1109/TMC.2022.3157292.
+SCI, 影响因子：6.075
+K. Peng, M. Li, H. Huang, et al. "Security Challenges and Opportunities for Smart
+Contracts in Internet of Things: A Survey." IEEE Internet of Things Journal, vol. 8, no. 15,
+pp. 12004-12020, 1 Aug.1, 2021. SCI, 影响因子：10.238
+K. Peng , J. Nie, N. Kumar, et al. "Joint optimization of service chain caching and task offloading
+in mobile edge computing." Applied Soft Computing. 2021, 103.3(3). SCI, 影响因子：8.263
+C. Wang, X. Wu, G. Liu, T. Deng, K. Peng, S. Wan. "Safeguarding cross-silo federated learning
+with local differential privacy." Digital Communications and Networks. 2021, doi:10.1016/j.dcan.2021.11.006.
+SCI, 影响因子：6.348
+M. Hu, W. Liu, K. Peng*, et al. "Joint Routing and Scheduling for Vehicle-Assisted
+Multi-Drone Surveillance." IEEE Internet of Things Journal, vol. 6, no. 2, pp. 1781-1790, April
+2019. SCI, 影响因子：10.238
+C. Cai, M. Hu, X. Ma, K. Peng*. "Accurate Ranging on Acoustic-enabled IoT Devices." IEEE
+Internet of Things Journal, vol. 6, no. 2, pp. 3164-3174, April 2019. SCI, 影响因子：10.238
+G. Liu, C. Wang, K. Peng*, H. Huang, Y. Li and W. Cheng, "SocInf: Membership Inference Attacks
+on Social Media Health Data With Machine Learning. IEEE Transactions on Computational Social
+Systems, vol. 6, no. 5, pp. 907-921, Oct. 2019. SCI, 影响因子：4.747
+M. Hu, W. Liu, J. Lu, R. Fu, K. Peng*, X. Ma, et al. "On the joint
+design of routing and scheduling for vehicle-assisted multi-uav inspection." Future Generation
+Computer Systems, vol. 94, pp. 214-223, 2019. SCI, 影响因子：7.307
+K. Peng, et al. "Wide-Area Vehicle-Drone Cooperative Sensing: Opportunities and Approaches."
+IEEE Access, vol. 7, pp. 1818-1828, 2019. SCI, 影响因子：3.476
+K. Peng, et al. "A Hybrid Genetic Algorithm on Routing and Scheduling for Vehicle-Assisted
+Multi-Drone Parcel Delivery." IEEE Access, vol. 7, pp. 49191-49200, 2019. SCI, 影响因子：3.476
+K. Peng, M. Hu,C. Cai, et al. "On Simultaneous Power Replenishment for Wireless Sensor
+Networks with Multiple Portable Chargers." IEEE Access, vol. 6, pp. 63120-63130, 2018. SCI,
+影响因子：3.476
+X. Ma, X. Fan, J. Liu, H. Jiang, and K. Peng*, "VLocality: Revisiting Data Locality for
+MapReduce in Virtualized Clouds." IEEE Network, 2017,vol. 31, no. 1, pp.:28–35. SCI,
+影响因子：10.294
+W. Liu, Y.Yang, K. Peng*, et al. "A General Framework of Skeleton Extraction in Sensor
+Networks." IEEE Sensors Journal, 2016, 16(4):1103-1116. SCI, 影响因子：4.325
+K. Peng, W. Xu, J. Zheng, et al. "The Disease and Gene Annotations (DGA): an annotation resource
+for human disease." Nucleic acids research, 2012, 41(D1): D553-D560. SCI, 影响因子：19.16
+J. Ye, K. Peng, C. Wang, et al. "Lifetime optimization by load-balanced and energy efficient tree in
+wireless sensor networks." Mobile Networks and Applications, 2013, 18(4): 488-499. SCI, 影响因子：3.4
+主要科研项目
+Research Projects
+国家自然科学基金面上项目，62171189，基于服务图的微服务细粒度智能放置策略研究，2022/01-2025/12，56万，主持。
+国家自然科学基金面上项目，61871436，基于光场子孔径条纹图像的三维重建关键技术研究，2019/01-2019/12，16万，主持。
+国家自然科学基金面上项目，61671216，基于骨架的传感器网络充电和路由联合设计研究，2017/01-2020/12，58万，主持。
+国家自然科学基金面上项目，61272410，基于多解析度近似和时序分析的传感器网络数据模型研究，2013/01-2016/12，65万，主持。
+2022年1月-2023年12月，湖北省自主可控区块链底层关键技术研发,湖北省重点研发计划项目，60万，主持。
+2017年11月-2018年12月，高压隔离开关状态图像分析及监控系统供能研究，国家电网科技项目，43万，主持。
+2022年6月-2023年12月，区块链技术在供应链管理中的应用，武汉市首批数字经济揭榜挂帅项目，200万，主持。
+2022年6月-2024年12月，基于态势感知的智能化WAF防火墙设备研究，武汉市人工智能创新专项项目，50万，主持。
+2015年1月—2016年12月，基于动态生物网络的复杂疾病基因识别方法研究，武汉市应用基础研究项目，30万，主持。
+2013年2月—2014年12月，基于智能无线传感器的水质监测系统，武汉市科技局平台应用基础，20万，主持。
+2012年1月—2013年12月，基于云计算的网络舆论安全监测与预警服务系统，武汉市电子信息产业发展基金，40万，主持。
+2011年1月—2013年12月，区域网内容安全网关研究，武汉市科技局科技攻关项目，60万，主持。
+2022年1月-2025年12月，支持SRV6的智能网络设备开发，企业横向合作项目，湖北微源卓越科技有限公司，200万，主持。
+2022年1月-2023年12月，智能视频流处理混合云服务平台开发，企业横向合作项目，武汉烽火凯卓科技有限公司，150万，主持。
+2012年1月—2014年12月，金融票据防伪与检测关键技术及应用，国家国际科技合作计划，383万。
+2012年5月—2015年4月，综合防伪关键技术研究及系统应用，国家支撑计划，843万。
+授权专利
+Authorized Patents
+专利名称
+专利编号
+发明人
+一种边防视频智能分析方法及系统
+ZL202210164370.3
+彭凯;陈程鹏;桂宾;周昂;徐晓慧;
+一种基于CT切片的肾结石检测方法及系统
+ZL202210168866.8
+彭凯;肖若雪;李聪;王少刚;寻阳;李震;朱颖心;桂宾;王栋云;胡国亮;刘威;
+一种基于群体智能的LEO卫星网络拥塞规避组播路由方法 授权
+ZL202210165978.8
+彭凯;桂宾;毛薇;邓天平;周昂;陈程鹏;
+一种基于网络边缘系统的微服务部署和路由方法
+ZL202210249897.6
+彭凯;桂宾;毛薇;邓天平;周昂;陈程鹏;
+一种基于梯度扰动的联邦学习数据隐私保护方法及系统
+ZL202110635849.6
+王琛;刘高扬;伍新奎;彭凯;
+一种机器学习中训练数据隐私度量的方法和系统
+ZL202110596832.4
+王琛;刘高扬;徐天龙;彭凯;
+一种基于机器学习成员推断攻击的数据集认证方法及系统
+ZL202110614017.6
+王琛;刘高扬;徐天龙;彭凯;
+一种度量数据样本与模型决策边界相关性的方法及系统
+ZL202111188034.4
+王琛;刘高扬;田泽豪;彭凯;
+一种无人机与无人船协同的水域清理方法及系统
+ZL202011067325.3
+彭凯;丁泽彦;胡国亮;彭麟雅;邓天平;王栋云;赵庆珍;
+一种事故灾难应急广播系统及方法
+ZL202011489197.1
+胡萌;王学;彭凯;邓天平;周昂;冯文顺;
+一种机器学习训练数据受投毒攻击的防御方法
+ZL202010694241.6
+王琛;陈健;张旭鑫;彭凯;
+一种基于线性核SVM的物联网智能模型的局部解释方法
+ZL202010425869.6
+王琛;刘高扬;赵健雄;彭凯;
+一种基于小波变换和支持向量机的人群密度估计方法
+ZL201810942748.1
+薛彧;陈泽宇;彭凯;彭麟雅;谭衡睿;刘强;桂宾;胡国亮;王栋云;
+一种适用于多服务器自适应流媒体系统的流连接调度方法
+ZL201810904114.7
+彭凯;肖勤邦;彭麟雅;谭蘅睿;张胜凯;桂宾;王栋云;胡国亮;
+一种适用于多服务器自适应流媒体系统的数据传输方法
+ZL201810469237.2
+彭凯;肖勤邦;张胜凯;彭麟雅;陈泽宇;刘强;
+一种无线传感器网络通信负载均衡方法
+ZL201811608254.6
+彭凯;刘强;彭麟雅;桂宾;王栋云;胡国亮;
+一种无线传感器网络中的无人机充电任务调度方法
+ZL201811608253.1
+薛彧;彭凯;涂方蕾;彭麟雅;桂宾;王栋云;胡国亮;
+一种基于虚拟存储盘的Hadoop架构及调度策略
+ZL201710086242.0
+彭凯;王靖静;桂宾;马威;
+一种物联网设备节点间的路由方法
+ZL201510232819.5
+彭凯;冯文顺;陈凯;张先愉;王学;徐万彪;李俊峰;
+一种视频图像帧内编码单元纹理分析及编码单元选择方法
+ZL201510219514.0
+彭凯;冯文顺;陈凯;张先愉;王学;徐万彪;李俊峰;
+一种网络设备间的消息传递方法
+ZL200810048816.6
+彭凯;王学;卢刚;

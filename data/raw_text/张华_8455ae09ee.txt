@@ -1,0 +1,35 @@
+﻿
+个人简介
+张华，男，博士，华中科技大学电子信息与通信学院副教授
+联系方式
+zhanghua@hust.edu.cn
+硕士生招生专业：信息与通信工程、电子科学与技术
+主要研究方向：目标探测与定位、无线电监测、软件无线电
+主要论文
+l Nonlinear Blind
+Compensation for Array Signal Processing Application[J]. Sensors,2018,
+18(4)
+l A Nonlinearity Mitigation Method for a Broadband RF Front-End in a
+Sensor Based on Best Delay Searching[J].Sensors,2017, 17(10)
+l Improved singular value decomposition based de-noising algorithm in
+digital receiver front-end[J].IET Communications，2017,11（13）
+l SVD-based technique for interference
+cancellation and noise reduction in NMR measurement of time-dependent magnetic
+fields [J]. Sensors, 2016, 16(3)
+l Mitigating RF Front-end Nonlinearity of Sensor
+Nodes to Enhance Spectrum Sensing[J]. Sensors, 2016,16(12).
+l 非线性盲辨识补偿处理的宽带超外差接收机[J].信号处理，2017，33(9)
+主持或参与的主要科研项目
+（1） 湖北省无线电监测中心招标项目，湖北省无线电监测网分层组网方案与频谱数据挖掘技术研究，2020-2021年
+（2） 国家重点研发计划项目，高精度位移传感方法与技术，2020-2025年
+（3） 国家自然科学基金面上项目，升空散射体辅助的单接收站地基辐射源被动探测定位新体制，2020-2024年
+（4） 湖北省无线电管理委员会项目，快速部署无线电监测网技术优化，2017年-2018年
+（5） 湖北省科技支撑计划项目，网格化宽带无线电监测定位与干扰仪，2015年-2017年
+（6） 湖北省无线电管理委员会项目，便携式快速部署无线电监测网建设项目，2016年-2018年
+（7） 武汉瑞天波谱信息技术有限公司项目，智能电磁频谱监测管控技术研究，2015年-2016年
+主要奖励或荣誉
+l 教育部提名国家科技进步二等奖，宽波束数字化雷达高度表关键技术研究，2009年
+l 华中科技大学教师教学竞赛一等奖，2020年
+l 华中科技大学第十一届实验技术成果一等奖，基于USRP的通信原理实验平台建设，2018年
+承担课程
+通信原理，软件无线电，电子线路设计、测试及实验

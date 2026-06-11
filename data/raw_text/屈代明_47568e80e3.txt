@@ -1,0 +1,86 @@
+Information Communications And Networking Laboratory
+Daiming Qu Professor
+School of Electronic Information and Communications
+Huazhong University of Science and Technology
+E-mail: qudaiming@163.com
+Mail Address: F-400, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology 1037 Luoyu Road, Wuhan, 430074, P. R. China.
+屈代明 教授
+华中科技大学 电子信息与通信学院
+邮 箱：qudaiming@163.com
+联系地址：华中科技大学 武汉光电国家实验室 F-400室
+邮 编：430074
+Education and Work Experience
+Professor, School of Electronic Information and Communications, Huazhong University of Science and Technology, 2004
+Visiting scholar, Department of Electrical and Computer Engineering, The University of Utah, 10/2014-10/2015
+Postdoctoral, Department of Information Engineering, The Chinese University of Hong Kong 05/2005-10/2006
+PhD, Department of Electronics and Information Engineering, Huazhong University of Science and Technology, 2003
+B.A., Department of Radio Electronics, University of Science and Technology of China, 1994
+教育工作经历
+教授, 华中科技大学电子信息与通信学院, 2004
+访问学者, 犹他大学电子与计算机工程系, 10/2014-10/2015
+博士后, 香港中文大学信息工程系, 05/2005-10/2006
+博士, 华中科技大学电子与信息工程系, 2003
+本科, 中国科技大学无线电系, 1994
+Research Interest
+Wireless Communications, Channel Coding, IoT and M2M, Massive MIMO, Filterbank Multicarrier (FBMC), Cognitive Radio
+研究兴趣
+无线通信, 信道编码, 物联网和机器通信, 大规模多天线技术, 滤波器组多载波技术（FBMC）, 认知无线电
+无线通信
+无线通信信道编码、调制、相关信号处理和算法。
+信道编码
+信道编码是通信系统的核心，其发展经历了经典线性分组码、卷积码、Turbo码、LDPC码和极化码（Polar）码等多个阶段新。未来通信系统需要面向更多不同特征的信道和场景，这对信道编码技术提出了新的挑战。
+物联网和M2M
+万物互联是未来的发展趋势。物联网依赖无线通信技术的支撑，尤其需要能实现高可靠、低延时、低功耗、低成本、和远距离数据传输的低功耗广域网无线通信（LPWAN）新技术。
+大规模多天线技术（Massive MIMO）
+多天线已经是当今无线通信的关键特征之一，未来通信设备的天线数量将进一步增加，达到惊人的数量。大规模多天线系统可以支持对频谱资源的高度空间复用，实现显著的容量提升。显然，在容量增益和实现复杂度之间实现平衡是一个困难的问题。
+滤波器组多载波技术（FBMC）
+作为当今无线通信标准大多采用的多载波技术，正交频分复用（OFDM）不能适应一些不断涌现的无线通信新场景，例如机器类通信、低时延高可靠通信、抗干扰通信和认知无线电。FBMC弥补了OFDM的不足，是未来无线通信最值得关注的新波形技术之一。
+智能/认知无线电
+无线电频谱是至为宝贵的自然资源。未来无线通信需要越来越多的频谱，然而可供分配的频谱资源已经濒临枯竭。因此，频谱资源的共享和分享是未来的必然发展趋势，基于机器学习和人工智能的认知无线电是实现这一未来的核心技术。
+研究成果
+基于大规模多天线阵列的免授权随机接入技术（mGFRA）
+基于大规模多天线阵列的免授权随机接入（缩写：mGFRA）是一种新型的低功率广域网（LPWAN）技术。mMIMO-GFRA可以看成是多信道时隙ALOHA与mMIMO接收机的结合；其核心思想是在最小化用户接入信令开销的同时，利用频分复用和空分复用以支持大量用户的并行接入。[详情]
+校验级联极化码（Parity-Check-Concatenated Polar Codes，PCC-polar）
+Polar码是目前唯一被证明可以达到香农容量限的结构化编码方法，已经被确定为5G的控制信道编码方案。然而，在码长较短的情况下，因为比特信道极化不充分，导致polar码性能损失。PCC-polar是利用未充分极化比特信道的一般形式，通过优化构造，PCC-polar相比传统polar码可获得可观的性能提升。[详情]
+可反转子集LDPC码（IS-LDPC）
+OFDM多载波通信信号的幅度起落很大，也即具有很高的峰值均值功率比（PAPR）。抑制PAPR有助于提升功放效率，减少信号的带内失真和带外干扰。IS-LDPC码作为一种信道编码方案，既具有接近香农极限的纠错性能，又具有抑制信号PAPR的能力。[详情]
+FBMC拖尾抑制
+滤波器组多载波（FBMC）信号前后会产生较长的拖尾，导致通信系统频谱利用率明显降低。基于虚拟符号的信号拖尾抑制方法能够使得拖尾起始点之后的信号大部分被抵消，同时旁瓣能量较低，不会造成带外频谱泄露。[详情]
+部分论文
+Selected Publications
+Jie Ding, Daiming Qu and Jinho Choi, "Analysis of Non-Orthogonal Sequences for Grant-Free RA With Massive MIMO," IEEE Transactions on Communications, vol. 68, no. 1 pp. 150-160, Jan. 2020
+Hao Jiang, Daiming Qu, Jie Ding, and Tao Jiang, "Multiple Preambles for High Success Rate of Grant-Free Random Access with Massive MIMO," IEEE Transactions on Wireless Communications, DOI 10.1109/TWC.2019.2929126.
+Jun Li, Da Chen, Daiming Qu, Yue Zhang, and Tao Jiang, "Receiver Design for Alamouti Coded FBMC System in Highly Frequency Selective Channels," IEEE Transactions on Broadcasting, DOI: 10.1109/TBC.2018.2874547.
+Yuan Tian, Da Chen, Daiming Qu, Kai Luo, and Tao Jiang, "Short Prototype Filter with Constrained Frequency Spreading for OQAM/FBMC Systems," IEEE Wireless Communications Letters, DOI: 10.1109/LWC.2019.2903473.
+Tao Wang, Daiming Qu, and Tao Jiang, "Polar Codes With Repeating Bits and the Construction by Cluster Pairwise Error Probability," IEEE Access, vol. 7, 2019.
+Yuan Tian, Da Chen, Kai Luo, and Tao Jiang, "Prototype Filter Design to Minimize Stopband Energy With Constraint on Channel Estimation Performance for OQAM/FBMC Systems," IEEE Transactions on Broadcasting, vol. 65, no. 2, pp. 260 - 269, June 2019.
+Jie Ding, Daiming Qu, Hao Jiang, and Tao Jiang, "Success Probability of Grant-Free Random Access With Massive MIMO," IEEE Internet Of Things Journal, vol. 6, no. 1, pp. 506 - 516, February 2019.
+Jie Ding, Daiming Qu, Hao Jiang, and Tao Jiang, "Virtual Carrier Sensing-Based Random Access in Massive MIMO Systems," IEEE Transactions on Wireless Communications, vol. 17, no. 10, pp. 6590 - 6600, October 2018.
+Da Chen, Yuan Tian, Daiming Qu, and Tao Jiang, "OQAM-OFDM for Wireless Communications in Future Internet of Things: A Survey on Key Technologies and Challenges," IEEE Internet Of Things Journal, vol. 5, no. 5, pp. 3788 - 3809, October 2018.
+Wenfeng Liu, Da Chen, Kai Luo, Tao Jiang, and Daiming Qu, "FDM-Structured Preamble Optimization for Channel Estimation in MIMO-OQAM/FBMC Systems," IEEE Transactions on Wireless Communications, vol. 17, no. 12, pp. 8433 - 8443, December 2018.
+Wei Li, Daiming Qu, and Tao Jiang, "An Efficient Preamble Design Based on Comb-Type Pilots for Channel Estimation in FBMC/OQAM Systems," IEEE Access, vol. 6, 2018.
+Daiming Qu, Fang Wang, Yan Wang, Tao Jiang, and Behrouz Farhang-Boroujeny, "Improving Spectral Efficiency of FBMC-OQAM Through Virtual Symbols," IEEE Transactions on Wireless Communications, vol. 16, no. 7, pp. 4204 - 4215, July 2017.
+Shuang Qiu, Da Chen, Kai Luo, Daiming Qu, and Tao Jiang, "Downlink Precoding with Mixed Statistical and Imperfect Instantaneous CSI for Massive MIMO Systems," IEEE Transactions on Vehicular Technology, vol. PP, no. 99, pp. 1-1, Nov. 2017.
+Tao Wang, Daiming Qu, and Tao Jiang, "Parity-Check-Concatenated Polar Codes," IEEE Communications Letters, vol. 20, no. 12, pp. 2342-2345, Dec. 2016.
+Wenjia Cui, Daiming Qu, Tao Jiang, and Behrouz Farhang-Boroujeny, "Coded Auxiliary Pilots for Channel Estimation in FBMC-OQAM Systems," IEEE Transactions on Vehicular Technology, vol. 65, no. 5, pp. 2936–2946, May 2016.
+Qibiao Zhu, Tao Jiang, and Daiming Qu, "Radio Vortex–Multiple-Input Multiple-Output Communication Systems With High Capacity," IEEE Access, vol. 3, pp. 2456-2464, 2015.
+Deying Kong, Daiming Qu, Kai Luo, and Tao Jiang, "Channel Estimation under Staggered Frame Structure for Uplink Massive MIMO System," IEEE Transactions on Wireless Communications, vol. 15, no. 2, pp. 1469 - 1479, 2015.
+Si Shu, Daiming Qu, Li Li, and Tao Jiang, “Invertible Subset QC-LDPC Codes for PAPR Reduction of OFDM Signals,” IEEE Transactions on Broadcasting, vol. 61, no. 2, pp. 290-298, 2015.
+Guohui Zhong, Jiaming Guo, Daiming Qu, Tao Jiang, and Jingchao Sun, “Generalized Likelihood Ratio Test For Cyclostationary Multi-Antenna Spectrum Sensing,” KSII Transactions on Internet and Information Systems, vol. 8, no. 8, pp. 2763-2782, Aug. 2014.
+Tao Jiang, Chunxing Ni, Daiming Qu, and Chonggang Wang, “Energy-Efficient NC-OFDM/OQAM-Based Cognitive Radio Networks,” IEEE Communications Magazine, vol. 52, no. 7, July 2014.
+Dejin Kong, Daiming Qu, and Tao Jiang, “Time Domain Channel Estimation for OQAM-OFDM Systems: Algorithms and Performance Bounds,” IEEE Transactions on Signal Processing, vol. 62, no. 2, Jan. 2014.
+Li Li, Daiming Qu, and Tao Jiang, “Partition Optimization in LDPC-Coded OFDM Systems With PTS PAPR Reduction,” IEEE Transactions on Vehicular Technology, vol. 63, no. 8, pp. 4108–4113, Oct. 2014.
+Daiming Qu, Li Li and Tao Jiang, “Invertible Subset LDPC Code For PAPR Reduction In OFDM Systems With Low Complexity,” IEEE Transactions on Wireless Communications, vol. 13, no. 4, pp. 2204–2213, Apr. 2014.
+Daiming Qu, Shixian Lu, and Tao Jiang, “Multi-Block Joint Optimization for the Peak-to-Average Power Ratio Reduction of FBMC-OQAM Signals,” IEEE Transactions on Signal Processing, vol. 61, no. 7, Apr. 2013.
+Da Chen, Daiming Qu, Tao Jiang, and Yejun He, “Prototype Filter Optimization to Minimize Stopband Energy with NPR Constraint for filter Bank Multicarrier Modulation Systems,” IEEE Transactions on Signal Processing, vol. 61, no. 1, pp. 159-169, Jan. 2013.
+Li Li and Daiming Qu, “Joint Decoding of LDPC Code and Phase Factors for OFDM Systems With PTS PAPR Reduction,” IEEE Transactions on Vehicular Technology, vol. 62, no. 1, pp. 444-449, Jan. 2013.
+Zhiqiang Wang, Daiming Qu, and Tao Jiang, “Novel Adaptive Collaboration Sensing for Efficient Acquisition of Spectrum Opportunities in Cognitive Radio Networks, ” Wireless Networks, vol. 19, no. 2, pp. 247-258, Feb. 2013.
+Shixian Lu, Daiming Qu, and Yejun He, “Sliding Window Tone Reservation Technique for the Peak-to-Average Power Ratio Reduction of FBMC-OQAM Signals,” IEEE Wireless Communications Letters, vol. 1, no. 4, pp. 268-271, Aug. 2012.
+Daiming Qu, Youwen Yi, Tao Jiang and Guangxi Zhu, “EM-Based Noise Plus Interference Estimation for OFDM-Based Cognitive Radio Systems”, Wiley Journal of Wireless Communications and Mobile Computing, vol. 12, no. 12, pp. 1066–1076, Aug. 2012.
+Yang Cao, Daiming Qu and Tao Jiang, “Throughput Maximization in Cognitive Radio System with Transmission Probability Scheduling and Traffic Pattern Prediction”, Springer Mobile Networks and Applications (MONET), vol. 17, no. 5, pp. 604-617, Oct. 2012.
+Daiming Qu, Jie Ding, Tao Jiang, Xiaojun Sun, “Detection of Non-Contiguous OFDM Symbols for Cognitive Radio Systems without Out-of-Band Spectrum Synchronization”, IEEE Transactions on Wireless Communications, Vol. 10, No. 2, pp. 693-701, Feb. 2011.
+Zhiqiang Wang, Daiming Qu, Tao Jiang and Mahmoud Daneshmand, “Sidelobe Suppression Using Extended Active Interference Cancellation with Self-Interferences Constraint for Cognitive OFDM Systems”, Springer Mobile Networks and Applications (MONET), vol. 16, no. 5, pp. 544-552, Oct. 2011.
+Daiming Qu, Zhiqiang Wang, and Tao Jiang, “Extended Active Interference Cancellation for Sidelobe Suppression in Cognitive Radio OFDM Systems with Cyclic Prefix”, IEEE Transactions on Vehicular Technology, vol. 59, no. 4, pp. 1689-1695, May 2010.
+Daiming Qu, Guangxi Zhu and Tao Jiang, “Training Sequence Design and Parameter Estimation of MIMO Channels with Carrier Frequency Offsets”, IEEE Transactions on Wireless Communications, Vol. 5, No. 12, pp.3662-3666, Dec. 2006.
+Courses Communication Channel Coding, Principles of Communications, Computer Networks
+教授课程 通信信道编码, 通信原理, 计算机网络

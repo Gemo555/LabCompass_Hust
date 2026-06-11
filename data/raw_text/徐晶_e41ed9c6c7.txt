@@ -1,0 +1,65 @@
+﻿
+姓名 : 徐晶
+职称
+副教授
+邮箱
+xujing@hust.edu.cn
+研究领域
+l 低功耗物联网
+l 无线网络取证
+l 智慧教育
+l 大数据分析
+教育背景
+2011年于华中科技大学获得信息与通信工程博士学位。
+职业经历
+2001年至今，在华中科技大学电子信息与通信学院工作；
+2013-2014年期间，在美国密西根大学访学。
+承担课程
+C语言程序设计，计算机网络
+主要发表文章
+l 低功耗物联网
+[1] Jing Xu, Jiachen Li, Shimin Gong, Kun
+Zhu, Dusit Niyato, “Passive Relaying Game for Wireless Powered Internet of
+Things in Backscatter-Aided Hybrid Radio Networks”, IEEE Internet of Things
+Journal, 2019, 6(5): 8933-8944.
+[2] Shimin Gong, Jing Xu, Dusit Niyato, Xiaoxia Huang,
+Zhu Han, “Backscatte r-Aided Cooperative Relay Communications in
+Wireless-Powered Hybrid Radio Networks”, IEEE Network, 2019, 33(5): 234-241.
+[3] Jing Xu, Yuze Zou, Shimin Gong, Lin Gao,
+Dusit Niyato, Wenqing Cheng, “Robust Transmissions in Wireless-Powered
+Multi-Relay Networks With Chance Interference Constraints”, IEEE Transactions
+on Communications, 2018, 67(2): 973-987.
+l 无线网络取证
+[4] Jing Xu, Shimin Gong, Yuze Zou, Wei Liu,
+Kai Zeng, Dusit Niyato, “Redundant Sniffer Deployment for Multi-Channel
+Wireless Network Forensics with Unreliable Conditions”, IEEE Transactions on
+Cognitive Communications and Networking, 2020, 6(1): 394-407.
+[5] Wenbo Xu, Jing Xu, Jiachen Li, Wei Liu, Shimin
+Gong, Kai Zeng, “Robust Spectrum Monitoring in Cognitive Radio Networks With
+Uncertain Traffic Information”, IEEE Access, no. 6, pp. 34696-34706, 2018.
+[6] Jing Xu, Qingsi Wang, Kai Zeng, Mingyan
+Liu, Wei Liu, “Sniffer Channel Assignment With Imperfect Monitoring for Cognitive
+Radio Networks”, IEEE Transactions on Wireless Communications, 2016, 15(3)
+1703-1715.
+l 智慧教育
+[7] Mengling Yu, Jing Xu, Jinrong Zhong, Wei Liu, Wenqing
+Cheng, “Behavior detection and analysis for learning process in classroom
+environment”, in Proceedings of 2017 IEEE Frontiers in Education Conference
+(FIE), 2017.
+[8] Zijian Fan, Jing Xu, Wei Liu, Wenqing Cheng, “Gesture based misbehavior detection
+in online examination”, in Proceedings of 2016 11th International
+Conference on Computer Science & Education (ICCSE), 2016.
+l 大数据分析
+[9] Peijie Liao, Jing Xu, Shimin Gong, Wei Liu, Wenqing
+Cheng, Yingying Yi, “Clustering Analysis of MOOC Video Watching Behavior Based
+on Behavior Sequences”, in Proceedings of 2021 16th International Conference on
+Computer Science & Education (ICCSE), 2021.
+[10] Xin Gu, Jing Xu, Peijie Liao, Liu Wei, Cheng
+Wenqing, “Are the
+Performance Prediction Models in MOOC General: Perspective from Big Data”,
+in Proceedings of 2020 IEEE
+Learning With MOOCS (LWMOOCS), 2020.
+主要科研项目
+[1] 反向散射通信关键技术研究，湖北省自然科学基金项目
+[2] 认知无线电频谱监测与侵权取证关键技术研究，国家自然科学基金项目
+[3] 面向智能化教学环境的多情境数据感知技术，国家重点研发计划课题

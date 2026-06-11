@@ -1,0 +1,97 @@
+﻿
+董燕，现任华中科技大学电子信息与通信学院教授。1997年毕业于西安电子科技大学，获信号与信息处理专业工学硕士学位，2007年毕业于华中科技大学获通信与信息系统工学博士学位。2005年澳大利亚悉尼大学访问学者。2009年微软亚洲研究院青年访问教师。在无线通信系统、卫星通信网络、自适应传输、无线传感器网络等领域，近年来承担了包括国家自然科学基金重大研究计划、重点项目、十三五航天系统、十二五总装预研、科技部重点研发计划、装备预研教育部联合基金、国家863计划等在内的二十余项国家级课题。担任国家自然科学基金委、教育部、航天系统部等评审专家，电子学报、IEEE TCOM/TMC等学术期刊审稿专家以及多个国际会议的TPC成员或评审人。中国图象图形学学会高级会员，视频通信专委会理事。在国内外主要刊物上发表SCI和EI收录学术论文40多篇，授权国家技术发明专利15项。
+招生方向：招收通信信号处理、调制编码、机器学习、5G应用、自组网方向研究生、博士生、博后等。
+招生要求：如果你是一个充满好奇心，喜欢探索未知，具有自我驱动力的人，欢迎加入我们！
+个人主页：http://eic.hust.edu.cn/professor/dongyan/
+邮箱： dongyan@mail.hust.edu.cn
+主持/参加的相关项目
+[1] 联合基金、宽带高效调制技术，主持。
+[2] 教育部联合基金、基于深度学习的复杂机电装备系统健康监测与管理，主持。
+[3] 专用技术项目、大容量 MIMO传输技术。
+[4] 国家自然科学基金重大研究计划重点项目、空地网络协同信息分发的传输模型与关键技术。
+[5] 863计划、空天信息网络接入技术，主持。
+[6] 重点项目、信道自适应编码调制、解调技术，主持。
+[7] 国家自然科学基金重点项目、基于无线网络的应急搜救关键技术研究、主持。
+近年发表论文
+[1] W. Chen, F. Lu and Y. Dong, “Improved Expression for Rank Distribution of Sparse Random Linear
+Network Coding,“ in IEEE Communications Letters, vol. 25,
+no. 5, pp. 1472-1476, May 2021.
+[2] F. Lu, Y. Dong and C. W. Chen, "Layered
+Decoding Algorithm and Two-Level Quasi-Cyclic Matrix Construction for Rate
+Compatible Modulation," IEEE Trans.
+Circuits Syst. I Reg. Papers, vol.66, pp. 3213 - 3226, Aug. 2019.
+[3] W. Chen, F. Lu and Y. Dong, "The Rank
+Distribution of Sparse Random Linear Network Coding," IEEE Access, vol. 7, pp. 43806-43819, March, 2019.
+[4] K. Peng, J. Du, F. Lu, Q. Sun, Y. Dong,
+"A Hybrid Genetic Algorithm on Routing and Scheduling for Vehicle-Assisted
+Multi-Drone Parcel Delivery," in IEEE Access, vol. 7, pp.
+49191-49200, 2019.
+[5] L. Wen, Y. Dong and L. Gao, “A New Ensemble
+Residual Convolutional Neural Network for Remaining Useful Life Estimation”, Mathematical Biosciences and Engineering,
+16(2): 862-880, 2019.
+[6] L. Wen, L. Gao, Y. Dong and Z. Zhu, “A
+Negative Correlation Ensemble Transfer Learning Method for Fault Diagnosis
+based on Convolutional Neural Network,” Mathematical
+Biosciences and Engineering, 16(5):3311-3330, 2019.
+[7] Feng Feng, Yuqiu Zhou, Yu Zhao, Fang Lu and Yan Dong, “An constant
+envelope RCM signal,” 空间信息网络会议, 乌镇，Sept.
+2019.
+[8] Wengui Rao, Yan Dong, Shaoping Chen, Fang Lu and
+Shu Wang, “Low- complexity rate compatible modulation with hybrid weight set,”
+China Commun., Nov. 2019.
+[9] F. Lu, Y. Dong, C. W. Chen,
+"Fully-parallel stochastic decoder for rate compatible modulation", IEEE Trans. Circuits Syst. I Reg. Papers,
+vol. 65, no. 10, pp. 3555-3567, Oct. 2018.
+[10]
+F. Lu,
+Y. Dong, W. G. Rao, C. W. Chen, "Low complexity decoding algorithms for
+rate compatible modulation", IEEE
+Access, vol. 6, pp. 31417-31429, 2018.
+[11]
+Wengui Rao, Yan
+Dong*, Shaoping Chen, Fang Lu, and Shu Wang. Rate
+compatible modulation with variable weight sets. in IEEE Access, Vol 6，pp. 5064-5074, Dec. 2018.
+[12] Jiang, G., Shen, Y., Chen, J. Yan, D., Fang,
+L., “Wireless Network Egocentric network focused community aware multicast
+routing for DTNs.” Wireless Netw (2018) 24: 1217.
+[13] Run Zhe Hu, Fang
+Lu, and Yan Dong, “Relaxed half-stochastic iterative decoding for rate
+compatible modulation,” in APCCAS 2018.
+[14] Lu, Fang, Yan Dong, and Wengui
+Rao. "A Parallel Belief Propagation Decoding Algorithm for Rate Compatible
+Modulation." IEEE Communications Letters, 21(8):1735-1738, 2017.
+[15] Zeng, Bing; Dong, Yan; Li, Xinyu，IHSCR
+Energy-efficient clustering and routing for wireless sensor networks based on
+harmony search algorithm,
+International journal of distributed sensor networks, 11(13), 2017.
+[16] Zeng, Bing, Yan Dong*. "An improved harmony
+search based energy-efficient routing algorithm for wireless sensor
+networks." Applied Soft Computing,Q1 41 (2016): 135-147. (2018年ESI 高被引)
+[17] Wang, Chen, Hongbo Jiang, and Yan Dong*.
+"Connectivity-Based Space Filling Curve Construction Algorithms in High
+Genus 3D Surface WSNs." ACM Transactions on Sensor Networks (TOSN) 12.3
+(2016): 22.
+[18] Pan, Quan-Ke, and Yan
+Dong*. "An improved migrating birds optimisation
+for a hybrid flowshop scheduling with total flowtime minimisation." Information
+Sciences 277 (2014): 643-655.
+[19] Sun, Jingming, Shu
+Wang, and Yan Dong. "Sparse block circulant matrices for compressed
+sensing." IET Communications 7.13 (2013): 1412-1418.
+[20] Sun, Jingming, Shu
+Wang, Yan Dong, and Yuheng Huang. "Non-binary
+sparse measurement matrices for binary signal recovery." Circuits,
+Systems, and Signal Processing 33, no. 3 (2014): 895-908.
+[21]
+Wengui Rao,
+Fang Lu, Shaoping Chen, Yan Dong* and Shu Wang, Low-Complexity Rate Compatible Modulation
+via Variable Weight Sets, IEEE Globecom, Dec. 2014.
+[22] F. Lu, W. G. Rao, Y. Dong, "FPGA-based
+implementation of binary input compressive sensing decoder", Proc. MECO,
+pp. 52-55, Jun. 2014.
+[23] Yuheng Huang, *Yan Dong, *Minho Jo and Yingzhuang
+Liu, "Selective Demodulation Scheme Based on Log-Likelihood Ratio
+Threshold," KSII Transactions on Internet and Information Systems, vol. 7,
+no. 4, pp. 767-783, 2013.
+[24] Wengui Rao, Yan Dong, Fang Lu ,Shu Wang, Log-Likelihood
+Ration Algorithm for Rate Compatible Modulation, IEEE ISCAS, April. 2013

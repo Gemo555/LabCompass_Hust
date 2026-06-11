@@ -1,0 +1,84 @@
+黑晓军
+黑晓军
+办公室: 东校区启明学院大楼712室
+华中科技大学
+电子信息与通信学院
+电话：86-27-87543235
+电子邮件
+学校网站: http://faculty.hust.edu.cn/heixj
+个人网站(校园网可访问): http://122.205.5.3:8084/~heixj
+[Google Scholar]
+[IEEE Xplore]
+[Publons]
+[Scopus]
+[GitHub]
+[ORCiD]
+[DBLP]
+[ACM]
+(英文版English version)
+个人介绍
+在原华中理工大学获得信息工程学士学位，在香港科技大学获得电子电气工程硕士学位，在香港科技大学电子与计算机工程系获得博士学位。2005年9月至2007年9月，在美国布鲁克林理工大学(Polytechnic University)计算机与信息科学系从事对等网络(P2P)的研究工作。我同刘勇和Keith W. Ross的合作论文被IEEE通讯协会多媒体技术委员会评选为2008年度多媒体通讯领域最佳论文。从2008年10月开始，我加入了华中科技大学，现为电子信息与通信学院副教授，点团队导师。2017年4月至2019年5月期间，完成华中科技大学“以学生为中心”课程改革骨干教师培训课程。2019年6月，完成24小时教学技巧工作坊（ISW）培训课程，获ISW国际认证证书。2021年1月，完成32小时教学技巧引导员工作坊（FDW）培训课程，获FDW国际认证证书，担任华中科技大学教师教学发展中心咨询师。
+有意申请研究生，大学生创新计划，生产实习，科研训练的同学，请通过电子邮件联系我。
+课程教学
+计算机网络
+基础信息论
+信息技术导论
+网络系统设计与实验
+通信原理
+通信电子线路
+硬件课程设计
+论文写作与技巧
+网络专题选讲
+互联网测量技术及应用
+研究兴趣
+“AI+X”交叉创新
+工程教育
+智能网络计算
+机器人应用开发
+数字治疗
+学生指导
+博士研究生
+硕士研究生
+本科生
+科研项目
+国家自然科学基金项目：面向个性化学习的软件定义边云协同关键技术研究
+国家自然科学基金项目：大用户量异构软件定义网络关键技术研究
+国家自然科学基金项目：大规模对等网络测量关键技术研究
+教育部产学合作协同育人项目：云端智能机器人实验室建设探索与实践
+教育部产学合作协同育人项目：ADI-HUST SDR实验室建设
+部委项目：Java Web信息系统设计、性能评估和数据分析
+华中科技大学：计算机网络虚拟仿真实验教学研究
+企业横向项目：面向5G无线接入网络的AI/机器学习应用创新
+企业横向项目：5G无线通信原型系统开发及基准测试
+荣誉与奖励
+Best Paper Award Third Place, IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW), 2019
+Best Paper Award Honorable Mention, IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW), 2018
+Excellent Paper Award, The Second International Conference on Computational Intelligence Theory, Systems and Applications (CCITSA), 2017
+Best Paper Award, International Symposium on Security and Privacy in Social Networks and Big Data (SocialSec), 2015
+Best Paper Award, Multimedia Communications Technical Committee of IEEE Communications Society, 2008
+论文节选 (论文列表)
+Hao Yin, Pengyu Liu, Keshu Liu, Liu Cao, Lytianyang Zhang, Yayu Gao, and Xiaojun Hei, NS3-AI: Fostering Artificial Intelligence Algorithms for Networking Research, Workshop on ns-3 (WNS3), June 17-18, 2020.
+Xiaojun Hei, Yong Liu and Keith W. Ross, "Inferring Network-Wide Quality in P2P Live Streaming Systems," IEEE Journal on Selected Areas in Communications, vol. 25, no. 10, pp. 1640-1654, Dec. 2007. (Best Paper Award in Multimedia Communications for 2008 elected by the Multimedia Communications Technical Committee of the IEEE Communications Society)
+Xiaojun Hei, Chao Liang, Jian Liang, Yong Liu and Keith W. Ross, "A Measurement Study of a Large-Scale P2P IPTV System," IEEE Transactions on Multimedia, vol. 9, no. 8, pp. 1672-1687, Dec. 2007.
+计算机网络学习小组
+计算机网络学习资料
+项目展示
+NS3-Lab: 计算机网络在线仿真学习平台前台系统
+NS3-Lab: 计算机网络在线仿真学习平台后台系统
+ns-3中文网
+NS3-AI: Fostering Artificial Intelligence Algorithms for Networking Research
+基于Zybo开发板设计WiFi接入点网络系统
+基于无线信号的跌倒动作检测
+Relay Discovery and Selection
+构建软件定义网络实验平台
+群智感知WiFi网络特性
+常用软件
+华中科技大学非官方文档Latex模板集 （FAQ）
+华中科技大学幻灯片Latex模板
+华中科技大学研究生毕业论文Latex模板
+华中科技大学研究生报告Latex模板
+华中科技大学本科毕业设计翻译报告Latex模板
+华中科技大学本科毕业设计开题报告Latex模板
+华中科技大学本科生毕业论文Latex模板
+互联网中心技术报告Latex模板
+The page is under construction. Last updated on July 2022.

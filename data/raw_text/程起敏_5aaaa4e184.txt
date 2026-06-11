@@ -1,0 +1,97 @@
+﻿
+程起敏
+博士，电子信息与通信学院副教授
+个人简历
+教育背景
+2001/9
+2004/6，中国科学院遥感应用研究所，遥感图像处理与分析，理学博士
+1998/9
+2001/6，武汉大学（原武汉测绘科技大学），地理信息系统，工学硕士
+1994/9
+1998/6，太原理工大学（原山西矿业学院），测量工程，工学学士
+工作经历
+2008/10 – 至今，华中科技大学，电子信息与通信学院，副教授
+2013/7 –
+2014/8，纽约州立大学布法罗学院，Visiting scholar
+2005/8
+2008/10，华中科技大学，电子信息与通信学院，讲师
+2004/8
+2005/8，香港理工大学，土地测量及地理资讯学系，Research associate
+研究兴趣
+深度学习，计算机视觉，高分辨率遥感图像分析和理解。特别是图像检索，图像标注，图像描述生成等。
+联系方式
+电话：13545134531（同微信号）
+邮箱：chengqm@hust.edu.cn
+办公地点：武汉光电国家研究中心B309
+负责及参与项目（近5年）
+主持国家自然科学基金面上项目“基于深度卷积神经网络的遥感图像多层次特征表达及检索研究（41771452）” （2018.1-2021.12，经费63万元）
+参与科技部地球观测与导航专项国家重点研发计划项目“新型城镇化建设与管理空间信息综合服务及应用示范”（No.2018YFB0505400），(2018/05-2022/04)。具体负责子课题“城镇精准时空信息快速获取与处理技术”（子课题经费100万元）
+负责“重点目标影像分析算法研究” 课题的“专题产品生产及精度评价方法研究” 项目，高分辨率对地观测系统重大科技专项外协项目（委托方：中国科学院遥感与数字地球研究所），（2017.6-2018.3）（结题）
+负责中国电子科技集团公司第五十四研究所航天信息应用技术重点实验室开放基金项目“基于内容的遥感影像检索系统技术方案”(EX166290025)（2017.1-2017.12）。（结题）
+参与科技部地球观测与导航专项重点研发计划项目“区域协同遥感监测与应急服务技术体系”（No.2016YFB0502601）（2016.8-2019.7），负责其中子课题“时序遥感影像异常目标检索”，研究异常目标的稀疏特征表达及相似性度量方法，可为本项目的相似性度量模型建立提供研究基础。（结题）
+著作
+程起敏，《遥感图像智能检索技术》，武汉大学出版社，2021
+发表论文(近5年)
+Cheng Q* , Zhang Q , Fu P , et
+al. A survey and analysis on automatic image annotation[J]. Pattern
+Recognition, 79(2018):242-259. DOI: 10.1016/j.patcog.2018.02.017
+Qimin
+Cheng*,
+Yuan Xu, Peng Fu, Jinling Li, Wei Wang, Yingchao Ren. Scene Classification of
+Remotely Sensed Images via Densely Connected Convolutional Neural Networks and
+an Ensemble Classifier. Journal of Photogrammetric Engineering & Remote
+Sensing, 2021. DOI：10.14358/PERS.87.3.295
+Cheng Q* , Zhou Y , Fu P , et al.
+A Deep Semantic Alignment Network for Cross-Modal Image-Text Retrieval in
+Remote Sensing[J]. IEEE Journal of Selected Topics in Applied Earth
+Observations and Remote Sensing, 2021, PP(99):1-1. DOI: 10.1109/JSTARS.2021.3070872
+Maoding
+Zhang, Qimin Cheng*, Fang Luo and Lan Ye, A Triplet Non-Local Neural
+Network with Dual-Anchor Triplet Loss for High Resolution Remote Sensing Image
+Retrieval, February 2021, IEEE Journal of Selected Topics in Applied Earth Observations
+and Remote Sensing PP(99):1-1, DOI: 10.1109/JSTARS.2021.3058691
+Huq M E , Cheng
+Q* , Altan O , et al. Assessing vulnerability for inhabitants of Dhaka City
+considering flood-hazard exposure[J]. Geofizika, 2020, 37(2):97-130. DOI:10.15233/gfz.2020.37.5
+W Hou，S
+Mei，Q Gui，Y Zou，Y
+Wang，X Deng*，Q
+Cheng*.
+1D CNN-Based Intracranial Aneurysms Detection in 3D TOF-MRA[J]. Complexity,
+2020:1-13 DOI: 10.1155/2020/7023754
+Z. Shao, W.
+Zhou, X. Deng, M. Zhang and Q. Cheng. Multilabel Remote Sensing Image
+Retrieval Based on Fully Convolutional Network[J]. IEEE Journal of Selected
+Topics in Applied Earth Observations and Remote Sensing, 2020, 13(1):318-328. 10.1109/JSTARS.2019.2961634
+Linjing
+Zhang, Zhenfeng Shao, Jianchen Liu and Qimin Cheng. Deep Learning Based
+Retrieval of Forest Aboveground Biomass from Combined LiDAR and Landsat 8 Data.
+Remote Sens. 2019.6.20, 11(01459):1~17; doi:10.3390/rs11121459
+会议论文(近5年)
+Yan Hu, Yuan
+Xu, Xiaosong Huang, Deqiao Gan, Haiyan Huang，Liyuan
+Shao, Qimin Cheng and Deng Xianbo, CARNet: Automatic Cerebral Aneurysm
+classification in Time-of-flight MR Angiography by leveraging Recurrent Neural
+Networks. CAAI International Conference on Artificial Intelligence,
+in Hangzhou, China on June 6th, 2021
+Cheng Q* , Shao Z , Shao K , et
+al. A distributed system architecture for high-resolution remote sensing image
+retrieval by combining deep and traditional features[C], Proc. SPIE 10789,
+Image and Signal Processing for Remote Sensing XXIV, 1078918 (9 Oct 2018); doi
+10.1117/12.2323310
+发明专利
+程起敏，许圆，张倩，邵康，李森，李金玲，一种基于深度学习的图像自动标注方法及装置（专利号：201811007151.4)
+程起敏，周玉琢，甘德樵，一种基于注意力机制和门控机制的图文检索方法和系统（申请号：202110160697.9）
+程起敏, 甘德樵，李丹，周玉琢，黄海燕，黄小松，一种基于残差注意力的遥感图像检索方法及装置（申请号：202110477016.1）
+程起敏, 许圆, 邵丽媛,
+李丹, 周玉琢, 甘德樵,
+黄海燕. 一种遥感图像描述生成方法及系统 （申请号：202110475173.9）
+程起敏, 邵丽媛, 许圆,
+李丹, 周玉琢, 甘德樵,
+黄海燕. 一种类别级语义哈希的遥感图像检索方法及装置（申请号：202110528115.8）
+获奖
+中国测绘学会“2019年测绘科技进步奖二等奖（排名第二）。
+课程教学
+数字电路与逻辑设计（本科，必修）
+数字图像处理（本科，选修）
+数字语音处理（本科，选修）

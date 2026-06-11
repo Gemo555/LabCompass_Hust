@@ -1,0 +1,679 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<link rel="shortcut icon" href="favicon48x48.ico" type="image/x-icon">
+<link href='' rel='stylesheet' type='text/css' /><link href='' rel='stylesheet' type='text/css' />
+<style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
+.mac-os-11 { --title-bar-height:28px; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+  .typora-export-show-outline .typora-export-sidebar { display: none; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+.MathJax_ref { fill: currentcolor; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.6; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background: inherit; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex:2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
+@media screen and (max-width: 1024px) {
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
+}
+@media screen and (max-width: 800px) {
+  .typora-export-sidebar { display: none; }
+}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.42857rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ""; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left: 28px solid transparent; border-right: 28px solid transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ""; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right: 8px solid transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: "−"; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
+.md-inline-math-container mjx-container { zoom: 0.95; }
+
+
+@include-when-export url();
+@include-when-export url();
+
+:root {
+	--control-text-color: #777;
+}
+
+/**
+ * forked from pixyll.com
+ * MIT license
+ */
+
+h1,
+.h1,
+.f1 {
+	font-size: 2rem;
+	line-height: 2.5rem;
+}
+h2,
+.h2,
+.f2 {
+	font-size: 1.5rem;
+	line-height: 2rem;
+}
+h3,
+.h3,
+.f3 {
+	font-size: 1.25rem;
+	line-height: 1.5rem;
+}
+p,
+.p,
+.f4,
+h4,
+h5,
+h6,
+dl,
+ol,
+ul,
+pre[cid],
+div[cid],
+#typora-source {
+	font-size: 1.125rem;
+	line-height: 1.5rem;
+}
+
+h4 {
+	font-size: 1.13rem;
+}
+/*
+ Pixyll
+ A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
+ Best served with BASSCSS (http://jxnblk.github.io/basscss)
+ Crafted with <3 by John Otander (@4lpine) - ©2015 John Otander MIT License http://opensource.org/licenses/MIT
+
+*/
+
+body {
+	font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", "STSong", 'Segoe UI Emoji', Serif;
+	line-height: 1.5rem;
+	font-weight: 400;
+}
+
+#write {
+	max-width: 914px;
+	color: #333;
+}
+
+@media only screen and (min-width: 1400px) {
+	#write {
+		max-width: 1100px;
+	}
+}
+
+@media only screen and (min-width: 1700px) {
+	#write {
+		max-width: 1200px;
+	}
+}
+
+img {
+	width: auto;
+	max-width: 100%;
+}
+body {
+	font-size: 1.5rem;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+.ty-table-edit {
+	background: #ededed;
+}
+
+table {
+	width: 100%;
+	font-size: 1.125rem;
+}
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td,
+table > tfoot > tr > th,
+table > tfoot > tr > td {
+	padding: 12px;
+	line-height: 1.2;
+	vertical-align: top;
+	border-top: 1px solid #333;
+}
+table > thead > tr > th {
+	vertical-align: bottom;
+	border-bottom: 2px solid #333;
+}
+table > caption + thead > tr:first-child > th,
+table > caption + thead > tr:first-child > td,
+table > colgroup + thead > tr:first-child > th,
+table > colgroup + thead > tr:first-child > td,
+table > thead:first-child > tr:first-child > th,
+table > thead:first-child > tr:first-child > td {
+	border-top: 0;
+}
+table > tbody + tbody {
+	border-top: 2px solid #333;
+}
+p {
+	font-weight: 300;
+	line-height: 1.5;
+}
+abbr {
+	border-bottom: 1px black dotted;
+	cursor: help;
+}
+pre,
+code {
+	font-family: Menlo, Monaco, "Courier New", monospace;
+}
+
+code,
+.md-fences  {
+	color: #7a7a7a;
+}
+
+.md-fences {
+	padding: 1.125em;
+	margin-bottom: 0.88em;
+	font-size: 1rem;
+	border: 1px solid #7a7a7a;
+	padding-bottom: 0.5rem;
+	padding-top: 0.5rem;
+}
+
+blockquote {
+	padding: 1.33em;
+	font-style: italic;
+	border-left: 5px solid #7a7a7a;
+	color: #555;
+}
+blockquote em {
+	color: #000;
+}
+blockquote footer {
+	font-size: .85rem;
+	font-style: normal;
+	background-color: #fff;
+	color: #7a7a7a;
+	border-color: transparent;
+}
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+	font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
+	font-weight: bold;
+	line-height: 1.2;
+	margin: 1em 0 0.5em;
+}
+@media screen and (min-width: 48em) {
+	.h1,
+	h1 {
+		font-size: 3.250rem;
+	}
+	.h2,
+	h2 {
+		font-size: 2.298rem;
+	}
+	.h3,
+	h3 {
+		font-size: 1.625rem;
+	}
+	.h4,
+	h4 {
+		font-size: 1.3rem;
+	}
+	#write>h4.md-focus:before,
+	#write>h5.md-focus:before,
+	#write>h6.md-focus:before{
+		top: 1px;
+	}
+	.p,
+	p,
+	li {
+		font-size: 1.25rem;
+		line-height: 1.8;
+	}
+	table {
+		font-size: 1.25rem;
+	}
+}
+@media (max-width: 48em) {
+	blockquote {
+		margin-left: 1rem;
+		margin-right: 0;
+		padding: 0.5em;
+	}
+	.h1,
+	h1 {
+		font-size: 2.827rem;
+	}
+	.h2,
+	h2 {
+		font-size: 1.999rem;
+	}
+	.h3,
+	h3 {
+		font-size: 1.413rem;
+	}
+	.h4,
+	h4 {
+		font-size: 1.3rem;
+	}
+}
+@media screen and (min-width: 64em) {
+	.h1,
+	h1 {
+		font-size: 4.498rem;
+	}
+	.h2,
+	h2 {
+		font-size: 2.29rem;
+	}
+	.h3,
+	h3 {
+		font-size: 1.9rem;
+	}
+	.h4,
+	h4 {
+		font-size: 1.591rem;
+	}
+	#write>h4.md-focus:before{
+		top:4px;
+	}
+}
+a {
+	color: #463F5C;
+	text-decoration: underline;
+}
+
+#write {
+	padding-top: 2rem;
+}
+
+#write pre.md-meta-block {
+	min-height: 35px;
+	padding: 0.5em 1em;
+	white-space: pre;
+	border: 0px;
+
+	border-left: 30px #f8f8f8 solid;
+	border-right: 30px #f8f8f8 solid;
+	width: 100vw;
+	max-width: calc(100% + 60px);
+
+	margin-left: -30px;
+	margin-bottom: 2em;
+	margin-top: -2010px;
+	padding-top: 2000px;
+	padding-bottom: 10px;
+	line-height: 1.5em;
+	color: #7a7a7a;
+	background-color: #fafafa;
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+	font-weight: 300;
+	clear: both;
+	padding-left: 0;
+	font-size:1.125rem;
+}
+.md-image>.md-meta {
+	color: #463F5C
+}
+.footnotes {
+	font-size:1.1rem;
+}
+.md-tag {
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+}
+.code-tooltip {
+	background: white;
+}
+.code-tooltip-content {
+	font-size: 1.1rem;
+}
+
+.task-list{
+	padding-left: 0;
+}
+
+.md-task-list-item {
+	padding-left:34px;
+}
+
+.md-task-list-item > input{
+	width: 1.25rem;
+	height: 1.25rem;
+	display: block;
+	-webkit-appearance: initial;
+	top: -0.2rem;
+	margin-left: -1.6em;
+	margin-top: calc(1rem - 7px);
+	border: none;
+}
+
+.md-task-list-item > input:focus{
+	outline: none;
+	box-shadow: none;
+}
+
+.md-task-list-item > input:before{
+	border: 1px solid #555;
+	border-radius: 1.5rem;
+	width: 1.5rem;
+	height: 1.5rem;
+	background: #fff;
+	content: ' ';
+	transition: background-color 200ms ease-in-out;
+	display: block;
+}
+
+.md-task-list-item > input:checked:before,
+.md-task-list-item > input[checked]:before{
+	background: #333;
+	border-width: 2px;
+	display:inline-block;
+	transition: background-color 200ms ease-in-out;
+}
+
+.md-task-list-item > input:checked:after,
+.md-task-list-item > input[checked]:after {
+	opacity: 1;
+}
+
+.md-task-list-item > input:after {
+	opacity: 1;
+	-webkit-transition: opacity 0.05s ease-in-out;
+	-moz-transition: opacity 0.05s ease-in-out;
+	transition: opacity 0.05s ease-in-out;
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+	position: absolute;
+	top: 0.4375rem;
+	left: 0.28125rem;
+	width: 0.9375rem;
+	height: 0.5rem;
+	border: 3px solid #fff;
+	border-top: 0;
+	border-right: 0;
+	content: ' ';
+	opacity: 0;
+}
+
+.md-tag {
+	color:inherit;
+}
+
+.md-toc:focus .md-toc-content{
+	margin-top: 19px;
+}
+
+#typora-sidebar {
+	font-size:1rem !important;
+}
+
+.html-for-mac #typora-sidebar {
+	background-color:white;
+}
+
+.outline-content li, .outline-content ul {
+	font-size:1rem !important;
+}
+
+.outline-title {
+	line-height: inherit;
+	margin-top: 10px;
+}
+
+.outline-expander {
+	width: 18px;
+}
+
+.outline-expander:before {
+ 	content: "+";
+	font-family: inherit;
+	color: rgb(108, 108, 108); 
+  font-size: 1.5rem;
+ 	top: -0.1rem;
+}
+
+.outline-expander:hover:before {
+	content: "+";
+}
+
+.outline-item-open>.outline-item>.outline-expander:before{
+	content: "-";
+}
+
+/** source code mode */
+#typora-source {
+	font-family: Courier, monospace;
+    color: #6A6A6A;
+}
+
+.os-windows #typora-source {
+	font-family: inherit;
+}
+
+.cm-s-typora-default .cm-header, 
+.cm-s-typora-default .cm-property,
+.CodeMirror.cm-s-typora-default div.CodeMirror-cursor {
+	color: #428bca;
+}
+
+.cm-s-typora-default .cm-atom, .cm-s-typora-default .cm-number {
+	color: #777777;
+}
+
+.md-diagram-panel {
+	margin-top: 24px;
+	margin-left: -1.2em;
+}
+
+.md-mathjax-midline {
+	background: #fafafa;
+}
+
+.enable-diagrams pre.md-fences[lang="sequence"] .code-tooltip,
+.enable-diagrams pre.md-fences[lang="flow"] .code-tooltip,
+.enable-diagrams pre.md-fences[lang="mermaid"] .code-tooltip {
+    bottom: -3.4em;
+}
+
+.dropdown-menu .divider {
+	border-color: #e5e5e5;
+}
+
+
+</style><title>Tao Han&#39;s Homepage 韩涛的主页</title>
+</head>
+<body class='typora-export os-windows typora-export-show-outline typora-export-no-collapse-outline'><div class='typora-export-content'>
+<div class="typora-export-sidebar"><div class="outline-content"><li class="outline-item-wrapper outline-h1"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#tao-han-韩涛"> Tao Han 韩涛 </a></div><ul class="outline-children"><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#简介">简介</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#short-biography">Short Biography</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#主持或个人独立完成）的项目">主持（或个人独立完成）的项目</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#参与的部分项目">参与的部分项目</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#正在讲授和曾经讲授过的课程">正在讲授和曾经讲授过的课程</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#selected-publications">Selected Publications</a></div><ul class="outline-children"></ul></li></ul></li></div></div><div id='write'  class=''><h1 id='tao-han-韩涛'><img src="taohan.jpg" alt="taohan" title="Tao Han" width="45" height="60" /><span> Tao Han 韩涛 </span><img src="email_address.gif" referrerpolicy="no-referrer"></h1><p><span>Professor, PHD 教授，博士</span>
+<span>School of Electronic Information and Communications, 电子信息与通信学院</span>
+<span>Huazhong University of Science and Technology, 华中科技大学</span>
+<span>Wuhan, China 中国武汉</span></p><hr /><p><strong><span>韩涛老师招收学术型（信息与通信工程）和专业型（电子与通信工程/电子信息工程）硕士研究生。其中学术型硕士将主要从事无线通信方面的研究，欢迎立志于研究工作的学生报名；而专业型硕士将主要从事网络通信和软件开发的项目，目前主要包括Android（以及Linux）内核和应用开发、网络传输优化以及机器学习软件开发，欢迎广大爱好软件开发的学生报名，熟悉C/C++、Java、Python语言或Linux操作系统者优先。联系：</span></strong><span> </span><img src="email_address.gif" referrerpolicy="no-referrer"></p><hr /><p><strong><span>获取更多信息，请点击：</span><a href='http://faculty.hust.edu.cn/taohan/zh_CN/index.htm'><span>我的学校教师主页</span></a><span>。</span></strong></p><hr /><h3 id='简介'><span>简介</span></h3><p><strong><span>韩涛</span></strong><span>，男，现任华中科技大学电子信息与通信学院教授，国家“绿色通信与网络国际联合研究中心”副主任。 1990年于华中理工大学获信息工程专业工学学士学位，1993年于华中理工大学获通信与电子系统工学硕士学位，2001年于华中科技大学获信息与通信工程工学博士学位。 1993年至今任职于华中科技大学，其中2010年至2011年，于美国佛罗里达大学做访问学者，任职客座副教授，2016年于澳大利亚悉尼科技大学任访问教授。主要研究方向为移动通信、计算机网络以及多媒体通信。在重要期刊和会议共发表文章80多篇。曾担任EAI Endorsed Transactions on Cognitive Communications期刊编辑，担任多个本领域顶级期刊的审稿人，担任多个国际学术会议程序委员会成员。多年来主持和参与了多项通信、多媒体等方面的科研项目，因作为核心人员参与“建筑设计方案计算机辅助评审系统”项目，1997年获得湖北省科技进步二等奖。</span></p><hr /><h3 id='short-biography'><span>Short Biography</span></h3><p><strong><span>Tao Han</span></strong><span> received the Bachelor degree in information engineering, Master degree in communication and information system, and Ph.D. degree in information and communication engineering from Huazhong University of Science and Technology (HUST), Wuhan, China, in 1990, 1993, and 2001, respectively.</span></p><p><span>Dr. Han is currently a Professor with the School of Electronic Information and Communications, HUST. He is a Vice Chair of China International Joint Research Center of Green Communications and Networking. From August, 2010 to August, 2011, he was a Visiting Scholar with University of Florida, Gainesville, FL, USA, as a Courtesy Associate Professor. He was a Visiting Professor with University of Technology Sydney, NSW, Australia, in August, 2016. His research interests include wireless communications, multimedia communications, and computer networks. He has published more than 80 papers in refereed journals and conference proceedings. He led and is leading dozens of projects funded by the National Natural Science Foundation of China, the Ministry of Science and Technology of China, and industries. He took part in several international joint projects, such as the EU FP7-PEOPLE-IRSES: project acronym WiNDOW (grant no. 318992) and project acronym CROWN (grant no. 610524).</span></p><p><span>Dr. Han served as an Area Editor for the EAI Endorsed Transactions on Cognitive Communications. He served and is serving as a TPC member for more than 10 international conferences. He was granted the IET Networks Premium Awards in 2017. He was the recipient of the Best Paper Awards from IEEE CIC ICCC 2017, IEEE ISCIT 2016, and IEEE GlobeCom 2014.</span></p><hr /><h3 id='主持或个人独立完成）的项目'><span>主持（或个人独立完成）的项目</span></h3><ol start='' ><li><span>某研究所委托项目，“普适传输协议自适应优化研究”，2022</span></li><li><span>某知名通信设备制造商委托项目，“家庭组网识别”，2021</span></li><li><span>某知名手机制造商委托项目，“移动通信终端数据传输优化软件实现”，2019-2020</span></li><li><span>国家自然科学基金项目61471180，“移动融合网中随机拓扑缩放律研究”，2015-2018</span></li><li><span>国家国际科技合作专项2015DFG12580，“5G移动通信能效、频效和干扰消除合作研究”，2015-2018</span></li><li><span>某研究所委托项目，“移动融合网能效研究”，2015-2017</span></li><li><span>国家国际科技合作专项2014DFA11640子课题，“第五代移动通信系统关键技术研究”，2014-2017</span></li><li><span>某信息安全技术公司委托项目，“网络信息安全软件研发”，2009-2011</span></li><li><span>某美国软件公司委托项目，“SENCOM IT Software”，2009-2010</span></li><li><span>某视频传输系统公司委托项目，“数字视频传输交换关键技术研究与开发”，2008-2010</span></li><li><span>某视频传输系统公司委托项目，“IP视频关键技术研究与开发”，2006-2007</span></li><li><span>某手机设计公司委托项目，“GPRS多媒体移动通信终端设计与开发”，2005-2006</span></li><li><span>某研究所委托项目，“ISDN接入模块设计与实现”，2001</span></li><li><span>某研究所委托项目，“光纤环网交换模块设计与实现”，2001</span></li><li><span>某互联网公司委托项目，“大规模web-mail系统”，2000</span></li><li><span>“C-Script语言解释器”，1998</span></li><li><span>某证券公司委托项目，“证券交易软件在线帮助系统”，1997</span></li><li><span>“基于数据流捕获的设备操作监测系统”，1996</span></li><li><span>武汉市政府某部门委托项目，“建筑设计方案计算机辅助评审系统”软件，1994-1995</span></li><li><span>“面向3DS MAX的汉字显示模块”，1993</span></li><li><span>某制药厂委托项目，“某制药厂管理信息系统”仓库管理子系统，1992</span></li><li><span>某水电站委托项目，“某水电站管理信息系统”仓库管理子系统，1991</span></li><li><span>某排版印刷系统开发公司委托项目，“汉字库解码与字形渲染”，1990</span></li></ol><hr /><h3 id='参与的部分项目'><span>参与的部分项目</span></h3><ol start='' ><li><span>国家自然科学基金重点国际(地区)合作研究项目，“面向移动通信与计算融通的信息与能量耦合机理研究”，2022-2026</span></li><li><span>国家重点研发计划（国际合作重点专项）子课题，“中欧物联网及5G合作研究”，2017-2019</span></li><li><span>欧盟FP7国际合作项目（University of Lancaster），“Cross-layer Research on Green Cooperative Cognitive Radio Networks and Services”，2014-2018</span></li><li><span>国家自然科学基金重大国际（地区）合作研究项目，“绿色通信网络信息空间协作优化理论与关键技术研究”，2013-2017</span></li><li><span>国家科技重大专项课题，“TD-LTE-Advanced终端综合测试仪表开发”，2013-2014</span></li><li><span>欧盟FP7国际合作项目（University of Sheffield），“Towards Pervasive Indoor Wireless Networks”，2012-2016</span></li><li><span>某通信设备制造商委托项目，“企业协同通信共性技术”，2012-2014</span></li><li><span>某通信设备制造商委托项目，“xx-xx型VIP内置网关模块”，2012-2014</span></li><li><span>某研究所委托项目，“V5接入模块设计与实现”，2002-2003</span></li></ol><hr /><h3 id='正在讲授和曾经讲授过的课程'><span>正在讲授和曾经讲授过的课程</span></h3><ol start='' ><li><span>操作系统</span></li><li><span>Python程序设计与软件工程基础</span></li><li><span>软件课程设计</span></li><li><span>空间通信</span></li><li><span>高级程序设计</span></li><li><span>数据库技术</span></li><li><span>数据结构与算法</span></li><li><span>软件技术基础</span></li><li><span>C语言程序设计</span></li></ol><hr /><h3 id='selected-publications'><span>Selected Publications</span></h3><ol start='' ><li><span style="color:darkred"><span>Tao Han</span></span><span>, S. Li, Y. Zhong, Z. Bai, and K. Kwak, “5G Software-Defined Heterogeneous Networks With Cooperation and Partial Connectivity,” </span><em><span>IEEE Access</span></em><span>, vol. 7, pp. 72577–72590, 2019.</span></li><li><span>X. Ge, X. Tian, Y. Qiu, G. Mao, and </span><span style="color:darkred"><span>Tao Han </span><em><span>(Corresponding Author)</span></em></span><span>, “Small-Cell Networks With Fractal Coverage Characteristics,” </span><em><span>IEEE Transactions on Communications</span></em><span>, vol. 66, no. 11, pp. 5457–5469, Nov. 2018.</span></li><li><span>Y. Zhong, X. Ge, H. H. Yang, </span><span style="color:darkred"><span>Tao Han</span></span><span>, and Q. Li, “Traffic Matching in 5G Ultra-Dense Networks,” </span><em><span>IEEE Communications Magazine</span></em><span>, vol. 56, no. 8, pp. 100–105, Aug. 2018.</span></li><li><span>Y. Zhong, X. Ge, </span><span style="color:darkred"><span>Tao Han</span></span><span>, Q. Li, and J. Zhang, “Tradeoff Between Delay and Physical Layer Security in Wireless Networks,” </span><em><span>IEEE Journal on Selected Areas in Communications</span></em><span>, vol. 36, no. 7, pp. 1635–1647, Jul. 2018.</span></li><li><span style="color:darkred"><span>Tao Han</span></span><span>, J. Gong, X. Liu, S. M. R. Islam, Q. Li, Z. Bai, and K. S. Kwak, “On Downlink NOMA in Heterogeneous Networks With Non-Uniform Small Cell Deployment,” </span><em><span>IEEE Access</span></em><span>, vol. 6, pp. 31099–31109, 2018.</span></li><li><span>L. Wang, </span><span style="color:darkred"><span>Tao Han </span><em><span>(Corresponding Author)</span></em></span><span>, Q. Li, J. Yan, X. Liu, and D. Deng, “Cell-Less Communications in 5G Vehicular Networks Based on Vehicle-Installed Access Points,” </span><em><span>IEEE Wireless Communications</span></em><span>, vol. 24, no. 6, pp. 64–71, Dec. 2017.</span></li><li><span style="color:darkred"><span>Tao Han</span></span><span>, X. Ge, L. Wang, K. S. Kwak, Y. Han, and X. Liu, “5G Converged Cell-Less Communications in Smart Cities,” </span><em><span>IEEE Communications Magazine</span></em><span>, vol. 55, no. 3, pp. 44–50, Mar. 2017.</span></li><li><span>R. Zi, X. Ge, J. Thompson, C.-X. Wang, H. Wang, and </span><span style="color:darkred"><span>Tao Han</span></span><span>, “Energy Efficiency Optimization of 5G Radio Frequency Chain Systems,” </span><em><span>IEEE Journal on Selected Areas in Communications</span></em><span>, vol. 34, no. 4, pp. 758–771, Apr. 2016.</span></li><li><span style="color:darkred"><span>Tao Han</span></span><span>, Y. Han, X. Ge, Q. Li, J. Zhang, Z. Bai, and L. Wang, “Small Cell Offloading Through Cooperative Communication in Software-Defined Heterogeneous Networks,” </span><em><span>IEEE Sensors Journal</span></em><span>, vol. 16, no. 20, pp. 7381–7392, Oct. 2016.</span></li><li><span>X. Ge, S. Tu, G. Mao, C. X. Wang, and </span><span style="color:darkred"><span>Tao Han </span><em><span>(Corresponding Author)</span></em></span><span>, “5G Ultra-Dense Cellular Networks,” </span><em><span>IEEE Wireless Communications</span></em><span>, vol. 23, no. 1, pp. 72–79, Feb. 2016. </span><strong><span>(ESI Highly Cited Paper)</span></strong></li><li><span style="color:darkred"><span>Tao Han</span></span><span>, G. Mao, Q. Li, L. Wang, and J. Zhang, “Interference Minimization in 5G Heterogeneous Networks,” </span><em><span>Mobile Networks and Applications</span></em><span>, vol. 20, no. 6, pp. 756–762, 2015.</span></li><li><span>X. Ge, B. Yang, J. Ye, G. Mao, C.-X. Wang, and </span><span style="color:darkred"><span>Tao Han </span><em><span>(Corresponding Author)</span></em></span><span>, “Spatial spectrum and energy efficiency of random cellular networks,” </span><em><span>IEEE Transactions on Communications</span></em><span>, vol. 63, no. 3, pp. 1019–1030, 2015. </span><strong><span>(ESI Highly Cited Paper)</span></strong></li><li><span style="color:darkred"><span>Tao Han</span></span><span>, Y. Yang, X. Ge, and G. Mao, “Mobile converged networks: Framework, optimization, and challenges,” </span><em><span>IEEE Wireless Communications</span></em><span>, vol. 21, no. 6, pp. 34–40, 2014.</span></li><li><span>X. Ge, X. Huang, Y. Wang, M. Chen, Q. Li, </span><span style="color:darkred"><span>Tao Han</span></span><span>, and C.-X. Wang, “Energy-efficiency optimization for MIMO-OFDM mobile multimedia communication systems with QoS constraints,” </span><em><span>IEEE Transactions on Vehicular Technology</span></em><span>, vol. 63, no. 5, pp. 2127–2138, 2014.</span></li><li><span>X. Ge, </span><span style="color:darkred"><span>Tao Han </span><em><span>(Corresponding Author)</span></em></span><span>, Y. Zhang, G. Mao, C.-X. Wang, J. Zhang, B. Yang, and S. Pan, “Spectrum and Energy Efficiency Evaluation of Two-Tier Femtocell Networks With Partially Open Channels,” </span><em><span>IEEE Transactions on Vehicular Technology</span></em><span>, vol. 63, no. 3, pp. 1306–1319, 2014.</span></li><li><span>X. Ge, H. Cheng, M. Guizani, and </span><span style="color:darkred"><span>Tao Han </span><em><span>(Corresponding Author)</span></em></span><span>, “5G wireless backhaul networks: Challenges and research advances,” </span><em><span>IEEE Network</span></em><span>, vol. 28, no. 6, pp. 6–11, 2014. </span><strong><span>(ESI Highly Cited Paper, ESI Hot Paper)</span></strong></li></ol></div></div>
+
+<script>(function(){var e=document.body.parentElement,t=[],n=null,i=document.body.classList.contains("typora-export-collapse-outline"),r=function(e,t,n){document.addEventListener(e,function(e){if(!e.defaultPrevented)for(var i=e.target;i&&i!=this;i=i.parentNode)if(i.matches(t)){!1===n.call(i,e)&&(e.preventDefault(),e.stopPropagation());break}},!1)};function o(){return e.scrollTop}r("click",".outline-expander",function(e){var t=this.closest(".outline-item-wrapper").classList;return t.contains("outline-item-open")?t.remove("outline-item-open"):t.add("outline-item-open"),d(),!1}),r("click",".outline-item",function(e){var t=this.querySelector(".outline-label");if(location.hash="#"+t.getAttribute("href"),i){var n=this.closest(".outline-item-wrapper").classList;n.contains("outline-item-open")||n.add("outline-item-open"),c(),n.add("outline-item-active")}});var a,s,l=function(){var e=o();n=null;for(var i=0;i<t.length&&t[i][1]-e<60;i++)n=t[i]},c=function(){document.querySelectorAll(".outline-item-active").forEach(e=>e.classList.remove("outline-item-active")),document.querySelectorAll(".outline-item-single.outline-item-open").forEach(e=>e.classList.remove("outline-item-open"))},d=function(){if(n){c();var e=document.querySelector('.outline-label[href="#'+(CSS.escape?CSS.escape(n[0]):n[0])+'"]');if(e)if(i){var t=e.closest(".outline-item-open>ul>.outline-item-wrapper");if(t)t.classList.add("outline-item-active");else{for(var r=(e=e.closest(".outline-item-wrapper")).parentElement.closest(".outline-item-wrapper");r;)r=(e=r).parentElement.closest(".outline-item-wrapper");e.classList.add("outline-item-active")}}else e.closest(".outline-item-wrapper").classList.add("outline-item-active")}};window.addEventListener("scroll",function(e){a&&clearTimeout(a),a=setTimeout(function(){l(),d()},300)});var u=function(){s=setTimeout(function(){!function(){t=[];var e=o();document.querySelector("#write").querySelectorAll("h1, h2, h3, h4, h5, h6").forEach(n=>{var i=n.getAttribute("id");t.push([i,e+n.getBoundingClientRect().y])})}(),l(),d()},300)};window.addEventListener("resize",function(e){s&&clearTimeout(s),u()}),u()})();</script></body>
+</html>

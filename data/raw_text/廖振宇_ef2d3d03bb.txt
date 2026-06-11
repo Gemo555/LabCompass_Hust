@@ -1,0 +1,26 @@
+Home | Zhenyu Liao's HUST Page
+Home
+About me
+I am now a research associated professor at Huazhong University of Science & Technology, School of Electronic Information and Communications, where I’m awarded the East Lake Youth Talent Program Fellowship. Before that, I was a Postdoctoral Researcher at the University of California, Berkeley, Department of Statistics, in 2020, hosted by Prof. Michael Mahoney. I received my Ph.D. from CentraleSupélec, University Paris-Saclay, in 2019, where I worked under the supervision of Prof. Romain Couillet and Prof. Yacine Chitour. I received my B.Sc degree in Optical & Electronic Information from Huazhong University of Science & Technology, China, in 2014, and my M.Sc. degree in Signal & Image Processing from University Paris-Saclay, France, in 2016. My research interests are broadly in (statistical) machine learning, signal processing, random matrix theory, and high-dimensional statistics.
+Selected publications
+M. Dereziński, Z. Liao, E. Dobriban, M. W. Mahoney, “Sparse sketches with small inversion bias”, The 34th Annual Conference on Learning Theory (COLT'2021), 2021.
+F. Liu, Z.Liao, J. A.K. Suykens, “Kernel regression in high dimension: Refined analysis beyond double descent”, The 24th International Conference on Artificial Intelligence and Statistics (AISTATS'2021), 2021.
+Z.Liao, R. Couillet, M. W. Mahoney, “Sparse Quantized Spectral Clustering” (spotlight), The Ninth International Conference on Learning Representations (ICLR'2021), 2021.
+Z.Liao, R. Couillet, M. W. Mahoney, “A Random Matrix Analysis of Random Fourier Features: Beyond the Gaussian Kernel, A Precise Phase Transition, and the Corresponding Double Descent”, The 34th Conference on Neural Information Processing Systems (NeurIPS'20), Vancouver, Canada, 2020.
+M. Dereziński, F. Liang, Z. Liao, M. W. Mahoney, “Precise expressions for random projections
+Low-rank approximation and randomized Newton”, The 34th Conference on Neural Information Processing Systems (NeurIPS'20), Vancouver, Canada, 2020.
+Z.Liao, R. Couillet, “On Inner-product Kernels of High Dimensional Data (invited paper to special session)”, IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP'19), Guadeloupe, French West Indies, 2019.
+Z. Liao, R. Couillet, “A Large Dimensional Analysis of Least Squares Support Vector Machines”, IEEE Transactions on Signal Processing 67 (4) (Feb. 2019), 1065-1074. (University of Paris-Saclay ED STIC Ph.D. Paper Award)
+X. Mai, Z. Liao, R. Couillet, “A Large Scale Analysis of Logistic Regression: Asymptotic Performance and New Insights”, 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP'19), Brighton, UK, 2019.
+R. Couillet, Z. Liao, X. Mai, “Classification Asymptotics in the Random Matrix Regime” (invited paper to special session), The 26th European Signal Processing Conference (EUSIPCO'18), Rome, Italy, 2018.
+Z. Liao, R. Couillet, “On the Spectrum of Random Features Maps of High Dimensional Data”, (long talk) Proceedings of the 35th International Conference on Machine Learning (ICML'18), Stockholm, Sweden, 2018.
+Z. Liao, R. Couillet, “The Dynamics of Learning: A Random Matrix Approach”, (long talk) Proceedings of the 35th International Conference on Machine Learning (ICML'18), Stockholm, Sweden, 2018.
+C. Louart, Z. Liao, R. Couillet, “A Random Matrix Approach to Neural Networks”, The Annals of Applied Probability 28 (2) (Apr. 2018), 1190-1248.
+Z. Liao, R. Couillet, “Random Matrices Meet Machine Learning: A Large Dimensional Analysis of LS-SVM”, 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP'17), New Orleans, USA, 2017.
+Personal homepage
+Please visit my personal homepage here for more up-to-date information!
+Contact me
+E-mail: zhenyu_liao (at) hust.edu.cn
+Address: School of Electronic Information and Communications, Huazhong University of Science & Technology, 1037 Luoyu Road, Wuhan, China
+电子信息与通信学院，华中科技大学，湖北省武汉市洪山区珞喻路1037号。邮编：430074
+© Zhenyu Liao 2016 – 2021 | Google Scholar | Research Gate | ORCID | Github | RMT on Zhihu

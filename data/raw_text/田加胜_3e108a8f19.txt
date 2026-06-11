@@ -1,0 +1,89 @@
+﻿
+姓名：田加胜
+姓名：田加胜
+电子信息与通信学院副教授
+个人简介
+田加胜，男，博士，华中科技大学电子信息与通信学院副教授
+个人网站
+********
+电子邮箱
+Tianjs@hust.edu.cn
+主要研究领域
+微波遥感与探测、电磁理论与应用、电磁场数值计算、天线理论与技术
+招收研究生研究方向：08090401
+微波、毫米波技术及应用
+08090403无源探测理论与技术
+08090404微波遥感与成像
+08090405 电磁理论与应用
+主要著作
+著作名称：微波技术基础，出版时间2011.1.1，出版社：华中科技大学出版社。
+主要科研项目
+国家自然科学基金项目
+1. 名称：多层粗糙表面介质模型的高海况星载雷达高达计参数反演与校正算法研究
+时间：2014/01－2017/12
+经费：75万元
+2. 名称：多参数多层介质模型的卫星雷达高达计风速反演算法研究
+时间：2011/01－2013/12
+经费：32万元
+国防863项目：***THz源研究*** 经费：20万元
+CAST项目：***高度计性能*** 经费：10万元
+CAST项目：***高度计风速反演*** 经费：5万元
+CAST项目：***高度计误差分析*** 经费：5万元
+湖北省自然科学基金项目：基于电磁带隙技术的纤维束天线的应用基础研究 经费：3万元
+其他横向项目：***集成天线仿真与分析*** 经费：25万
+主要论文
+[1] Jiasheng Tian,
+Qiaoyun Liu, Wan Pan, Jian Shi, “Improved algorithm of retrieving oceanic
+surface wind speed based on a stratified media model at high sea states”,
+Microwaves, Antennas & Propagation, IET, DOI:10.1049/iet-map.2013.0581,
+2014, Vol.8, No.15, pp.1333- 1339.
+[2] 田加胜，刘巧云，周程，石坚，邓跃，“一种充分考虑高海况的风速反演算法研究”，遥感技术与应用，2012年4月，第27卷第2期，Vol.27, No.2, Apr. 2012, pp.243-247.
+[3] 田加胜，刘巧云，潘弯等，“多层介质白沫模型的一种新型高度计风速反演算法研究”，中国第一届高分辨率对地观测学术年会-卫星遥感与应用，2012年12月，北京，pp.191。
+[4] 田加胜，薛航，石坚，“高度计误指向角引起的参数反演误差分析与校正方法研究”，遥感科学，第3卷第3期，2015年8月，Remote Sensing Science,
+Vol.3, Issue 3, August 2015, pp.36-41.
+[5] TIAN Jia
+Sheng, PAN Wan, and Shi Jian, “The Study on a New Approximate Method of Computing Electromagnetic
+Scattering from Multilayer Rough Sea Surfaces”, Modern Tendencies in
+Engineering Sciences, Applied Mechanics and Materials, DOI: 10.4028/
+www.scientific.net/ AMM.533.268, Vol.533,February
+2014,pp.268-273.
+[6] 田加胜,李昕,石坚,张靖，“介质波导阵列电磁特性分析”，红外与毫米波学报，第24卷第2期, 2005年4月, April 2005, Vol. 24,
+No.2, pp.156-160.
+[10]Jia-sheng
+Tian and Tian-lin Dong,
+“LONGITUDINAL WAVE PROPAGATION IN DIELECTRIC WAVEGUIDE ARRAY”, International
+Journal of Infrared and Millimeter Waves, June 2004, Vol. 25, No. 6,
+pp.981-988.
+[11]田加胜, 董天临, 占腊民, 石坚, “介质纤维束波导电磁波传播特性分析”, 红外与毫米波学报, 第23卷第5期, 2004年10月, Vol. 23, No.5, October
+2004, pp.371-373.
+[12]田加胜, 董天临, 石坚, “介质波导阵列的横向传播特性分析”, 微波学报, 第20卷第2期, 2004年6月, Vol.20, No.2, June 2004,
+pp.15-18.
+[13]Jia-sheng
+Tian and Tian-lin Dong, “ RIGOROUS ANALYSIS OF
+ELECTROMAGNETIC WAVEPROPAGATION IN CYLINDRICAL DIELECTRIC WAVEGUIDE ARRAY”, International Journal of Infrared and
+Millimeter Waves, Vol. 24, No. 11, November 2003, pp.1885-1891.
+[14]Jian-sheng
+Tian and Tian-lin Dong, “THE
+CONVERGENCE OF THE EIGEN EQUATION FOR DIELECTRIC WAVEGUIDE ARRAY”, International
+Journal of Infrared and Millimeter Waves, Vol. 24, No. 4, April 2003,
+pp.613-618.
+[15]Jia-sheng
+Tian and Tian-lin Dong, “A GENERAL
+APPROACH TO GUIDANCE IN GENERAL TWO-DIMENSIONALLY PERIODIC MEDIUM”, International
+Journal of Infrared and Millimeter Waves, Vol. 23, No. 3, March 2002,
+pp.459-463.
+[16]Jia-sheng
+Tian and Tian-lin Dong, “TRANSVERSE
+PROPAGATION IN DIELECTRIC WAVEGUIDE ARRAY”，International
+Journal of Infrared and Millimeter Waves, June 2002, Vol.23, No.6,
+pp.931-935.
+[17]田加胜, 周新蓉, 石坚, “海水天线电磁仿真与设计研究”，2015年全国微波毫米波会议论文集，2015年5月30日，中国安徽合肥，May 2015, pp.155-158.
+主要教授本科课程
+电磁场与电磁波
+微波技术基础
+通信电子线路
+电子技术基础(模电)
+移动通信
+光纤通信
+主要研究生课程：近代天线理论与技术
+计算电磁学

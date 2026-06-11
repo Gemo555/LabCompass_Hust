@@ -1,0 +1,23 @@
+﻿
+邱才明
+电子信息与通信学院教授
+个人简介
+邱才明教授，IEEE Fellow，国家重大人才工程A类，华中科技大学电子信息与通信学院院长。回国前任美国田纳西理工大学终身教授，曾担任贝尔实验室研究员，上海交通大学讲席教授，上海交通大学大数据工程技术研究中心主任等职务。
+邱才明教授在无线通信领域有超过20年的国际经验，领导参加过多个重量级的通信领域的研究和开发项目。理论研究方面，邱才明教授因为UWB（超宽带通信）领域开创性工作为人所知，UWB被广泛用于雷达和分布式感知。邱才明教授对UWB信道多径脉冲失真畸变所建模型取代了50年代提出的经典Truin模型，并被IEEE802.15.4标准采纳。Andreas F. Molisch教授在其经典教科书《Wireless
+Communications》中引用并介绍了邱才明教授的工作。此外，邱才明教授观察到波动方程具有时间翻转不变性和空间翻转不变性的数学事实，提出并系统性验证了时间翻转现象。邱才明教授曾领导开发了多个重量级的验证系统，其中最重要的实验系统是当时世界上最大的认知无线电网络（包括近100个软件定义的无线节点）。以此系统为基础，邱才明教授深入研究了高维统计理论的重要分支-随机矩阵理论，提出了一套理论框架来分析解决通信系统物理层中“大数据”问题。邱才明教授曾创建Wiscom（无线通信）科技有限公司，致力于3G芯片的设计和研发，并在2000-2003年担任该公司的CEO及总裁。Wiscom科技在2003年被Intel收购。
+邱才明教授因为在超宽带通信领域中的杰出贡献当选IEEE Fellow（2014 Class），先后出版了《Cognitive Networked Sensing and Big Data》、《Cognitive
+Radio Communication and Networking: Principles and Practice》、《Smart Grid and Big Data： Theory and Practice》等三部专著。最近五年，在IEEE Trans. Wireless Communication、IEEE
+Trans. Antennas and Propagation 、IEEE Trans. Smart Grid、IEEE Trans. Signal Processing、ICC、IEEE Globecom等期刊及会议上发表论文60多篇。邱才明教授于2011年荣获ICC最佳论文奖，ICC是通信领域最重要的会议之一。
+研究方向
+下一代无线通信基础理论与系统，高维统计理论与应用，大数据与人工智能，深度学习理论与应用。
+教育工作经历
+1983-1987 西北电讯工程学院（现西安电子科技大学） 理学学士
+1987-1990 电子科技大学 硕士
+1990-1996 美国纽约大学理工学院 博士
+主要著作
+邱才明教授先后出版了《Smart Grid and Big Data： Theory and Practice》、《Cognitive Networked
+Sensing and Big Data》、《Introduction to Smart Grid》、《Cognitive Radio Communication and Networking: Principles and
+Practice》等专著。邱才明教授于2011年荣获ICC最佳论文奖，ICC是通信领域最重要的国际会议之一。
+联系方式
+招生邮箱：eicbd@hust.edu.cn
+招生要求：自我驱动力强，理论功底较扎实，动手能力较强，主动探索能力较强

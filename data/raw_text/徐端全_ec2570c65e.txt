@@ -1,0 +1,55 @@
+﻿
+徐端全
+博士、副教授、硕士生导师
+徐端全，博士，现任国家防伪工程技术研究中心副教授，硕士生导师。1991年毕业于武汉大学，2008年6月于华中科技大学获工学博士学位。从事图像处理、视频编码、模式识别、嵌入式系统方面的研究工作。在各类期刊、国际会议发表多篇论文，独立编写大学教材《嵌入式原理与设计》，申报发明专利多项。获2009年武汉市科技进步二等奖和2010年湖北省科技进步三等奖，主持国家科技支撑计划项目、湖北省科技计划项目、湖北省自然科学基金项目以及企业合作研究等多个项目。
+Email Address: xudq@hust.edu.cn
+1 研究方向
+图像处理 视频编码 模式识别 嵌入式系统
+2 主持项目
+1. 防伪票据智能处理关键技术及设备研发(湖北省技术创新专项重大项目),2018-2020。
+2. 食品安全电子溯源数据采集交换与标识关键技术研究与应用(国家科技支撑计划项目), 2015-2017。
+3. 综合防伪关键技术研究及系统应用开发(国家支撑计划项目),2012-2015。
+4. 基于复向量小波的病理显微图像纹理特征表示与提取(湖北省自然科学基金),2013-2014。
+5. 制药企业RFID综合应用系统开发(湖北省科技支撑计划项目),2013-2014。
+6. 医疗检测新技术与新产品开发(武汉康创科技有限公司),2011-2014。
+7. 金融票据防伪与检测关键技术与应用合作研究(科技部国际合作项目),2011-2014。
+8. 防伪鉴定与溯源关键技术研究(科技部支撑计划项目),2011-2014。
+3 发表论文
+Duanquan Xu, Baochuan Pang. Study on the quantitative cytometry
+and cervical cancer diagnosis technology based on support vector machine[C]. Proceedings of the
+2008 Chinese Conference on Pattern Recognition, CCPR’2008,
+2008, 1:381-386.
+Baochuan Pang, Yiming Lu, Duanquan Xu. Automated Early Cancer Screening Based
+on Kernel Method[C]. Proceedings of the 2008 Pacific-Asia Workshop on
+Computational Intelligence and Industrial Application, PACIIA’2008,
+2008, 1:967-971..
+Xu Duan-quan, Zhu Guang-xi. An Algorithm to Improve the Performance
+of Watermarking Systems[C]. Proceedings of 1st International
+Congress on Image and Signal Processing, CISP’2008, 2008, 5: 664-668.
+Duanquan Xu, Guangxi Zhu. Digital Image Watermarking Scheme based on
+Quantization Index Modulation[C]. Proceedings of SPIE, MIPPR 2007: Remote
+Sensing and GIS Data Processing and Applications; and Innovative
+Multispectral Technology and Applications, 2007, 6790:67904W.
+Duanquan Xu , Jiangshan Zhang , Baochuan Pang. A Digital Watermarking Scheme Used for
+Authentication of Surveillance Video[C]. 2010 International Conference on
+Computational Intelligence and Security. 2010, 654-658.
+Jiajia Lei, Hiyam Hatemy, Long Zhou, Xinge You, Patrick S. P. Wang
+and Duanquan Xu. Fingerprint Enhancement Based on
+Non-separable Wavelet[C]. Proceedings of IEEE International
+Conference on Cognitive Informatics 2010, Beijing, China, Jul.
+2010, pp. 313-317.
+Qinmu Peng, Guangxi Peng, Duanquan Xu, Xinge You, Baochuan
+Pang. A Fast Approach To Retinal Vessel
+Segmentation[C]. CCPR, 2010, pp:207-210.
+庞宝川, 卢益民, 徐端全. 定量细胞分析中特征向量降维方法研究[J]. 华中科技大学学报（自然科学版）,
+2009, 37(7).
+徐端全, 朱光喜. 基于QIM 的数字图像盲水印算法[J]. 华中科技大学学报（自然科学版）,
+2008, 36(7):10-13.
+徐端全，朱光喜. 结合随机置乱和锐化滤波的数字图像水印算法[J]. 计算机工程与科学, 2008, 30(9):47-50.
+徐端全, 朱光喜.基于帧间预测的视频水印算法[J].计算机工程与应用, 2008, 44(24):22-24.
+4 专著
+徐端全, 嵌入式系统原理与设计，北京航空航天大学出版社，2009/09.
+5 学术奖项
+徐端全 (2/10),
+用于癌症早期诊断的全自动细胞DNA定理分析技术研究,
+湖北省科技厅,科技进步奖, 三等奖, 2010.

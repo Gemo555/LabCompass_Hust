@@ -1,0 +1,74 @@
+﻿
+个人简介
+唐祖平，博士，华中科技大学电子信息与通信学院副教授。主要研究方向为导航/通信信号设计、信号处理。他是北斗全球系统信号设计团队的核心成员之一，主要从事信号调制、复用及扩频码设计与优化工作；是中欧、中美、中俄卫星导航系统双边协调技术工作组成员，为北斗与Galileo、GPS、Glonass系统的兼容与互操作做出了重要贡献。主持和参与自然科学基金、重大专项、重点研发计划等项目10余项，在国内外期刊和会议发表论文40余篇，获得美国、欧洲、日本、中国等专利授权10余项，获教育部科技进步二等奖1项、军队科技进步二等奖1项。
+承担课程
+l 电子线路设计、测试与实验
+l 卫星通信原理
+l 卫星通信系统
+l 空间通信系统设计与实验
+近年发表论文
+[1] Nie J, Wei J, Tang Z.
+Unsupervised Text Style Transfer Based on Variational Auto-Encoder[J]. Journal
+of Chinese Information Processing. 2020, 34(1003-0077(2020)34:7<79:JYBFZB>2.0.TX;2-H7): 79-88.
+[2] Wang B, Li T, Wei J, et al. A new unambiguous
+tracking algorithm for sine-BOC(m, n) signals[J]. GPS
+SOLUTIONS. 2019, 23(583).
+[3] Li T, Tang Z, Wei J, et al. Unambiguous Tracking
+Technique Based on Combined Correlation Functions for Sine BOC Signals[J].
+JOURNAL OF NAVIGATION. 2019, 72(1): 140-154.
+[4] Li T, Tang Z, Wei J, et al. An Unambiguous
+Tracking Technique for Cosine-Phased BOC Signals with Low Complexity[J].
+RADIOENGINEERING. 2018, 27(4): 1191-1198.
+[5] Xia X, Tang Z, Wei J, et al. Spectrally Efficient
+Constant Envelope Modulation for GNSS Signals[J]. RADIOENGINEERING. 2018,
+27(3): 813-818.
+[6] Zhou Z, Tang Z, Wei J, et al. Phase-aligned
+Dual-frequency Constant Envelope Multiplexing Technique for GNSS Signals[J].
+JOURNAL OF NAVIGATION. 2018, 71(4): 899-918.
+[7] Zhou Z, Tang Z, Wei J, et al. General
+Time-Division AltBOC Modulation Technique for GNSS
+Signals[J]. RADIOENGINEERING. 2018, 27(1): 256-269.
+[8] Li T, Wei J, Tang Z, et al. An Unambiguous
+Acquisition Technique for Sine BOC(m,n)
+Signals[M]. Proceedings of the International Technical Meeting of the Institute
+of Navigation, 2018, 13-20.
+[9] Li T, Wei J, Tang Z, et al. An Optimizing Combined
+Unambiguous Correlation Functions for BOC Signals Tracking[M]. Proceedings of
+the International Technical Meeting of the Institute of Navigation, 2017,
+388-400.
+[10] Wang B, Wei J, Tang Z, et al. MTLL Comparison of
+Unambiguous Tracking Algorithms[M]. Proceedings of the International Technical
+Meeting of the Institute of Navigation, 2017, 1196-1205.
+[11] Yan T, Wei J, Tang Z, et al. General AltBOC Modulation with Adjustable Power Allocation Ratio
+for GNSS[J]. JOURNAL OF NAVIGATION. 2016, 69(3): 531-560.
+[12] Yan T, Wei J, Tang Z, et al. Unambiguous
+Acquisition/Tracking Technique for High-Order Sine-Phased Binary Offset Carrier
+Modulated Signal[J]. WIRELESS PERSONAL COMMUNICATIONS. 2015, 84(4): 2835-2857.
+[13] Yan T, Wei J, Tang Z, et al. Unambiguous combined
+correlation functions for sine-BOC signal tracking[J]. GPS SOLUTIONS. 2015,
+19(4): 623-638.
+[14] Yan T, Tang Z, Wei J, et al. A Quasi-constant
+Envelope Multiplexing Technique for GNSS Signals[J]. JOURNAL OF NAVIGATION.
+2015, 68(4): 791-808.
+[15] Yu Z, Wei J, Tang Z, et al. A Research of Code
+Tracking Loop for Navigation Signal Based on DS/FH Modulation[M]. Lecture Notes
+in Electrical Engineering, Sun J, Liu J, Fan S, et al, 2015: 342, 535-543.
+[16] Xia X, Wei J, Tang Z, et al. A New Choice of
+Spreading Codes for Satellite Navigation System[M]. Proceedings of the
+International Technical Meeting of the Institute of Navigation, 2015, 173-178.
+主要科研项目
+l 广东省重点领域研发项目（子课题），天基信息网络服务系统关键技术与验证，2019-2022；
+l 国家重点研发计划项目（子课题），全天候关注目标检测追踪与理解技术，2018-2021；
+l 中国第二代卫星导航系统重大专项项目，导航信号专利体系，2018-2020；
+l 中国第二代卫星导航系统重大专项项目，新型导航信号体制技术，2015-2018；
+l 国家自然科学基金青年基金项目，基于 CPM 的高谱效恒包络导航信号调制方法，2015-2017；
+l 中国第二代卫星导航系统重大专项项目，新一代单载波多分量GNSS信号质量评估技术，2014-2016；
+l 国家自然科学基金面上项目，异构网络中基于联盟共演化博弈的自治化资源管理方法，2013-2016；
+l 中国第二代卫星导航系统重大专项项目，地面试验验证系统性能评估软件，2013-2016；
+l 中国第二代卫星导航系统重大专项项目，全球导航系统下行导航信号结构设计及验证，2012-2016。
+荣誉奖项
+l 华中科技大学科技新星（GF)，2016
+l 军队科技进步奖一等奖，2013
+l 教育部科技进步奖二等奖，2006
+联系方式
+tang_zuping@hust.edu.cn

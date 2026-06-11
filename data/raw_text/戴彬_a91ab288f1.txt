@@ -1,0 +1,39 @@
+﻿
+戴彬
+戴彬
+电子与信息工程系副教授
+个人简介
+戴彬，男，博士，华中科技大学电子与信息工程系副教授。2016年-2017年在纽约大学Tandon学院访问交流。2007年-2009年在香港城市大学计算机科学系任高级副研究员、研究员。2006年博士毕业于华中科技大学电信系，2002年获得华中科技大学电信息系硕士学位，2000年本科毕业于华中科技大学电信系提高班。主持国家自然科学基金项目、国家科技支撑计划项目、国家重大科研专项、校企合作项目多项。已发表会议与期刊论文40篇多篇，专利授权10多项。目前的主要研究方向包括下一代网络技术、5G核心网、智能路由规划、智能网络运维等。曾多次担任国际重要会议的组委会成员和评审专家，国家自然科学基金评审专家，省自然科学基金评审专家，以及国际权威期刊评审专家，ISO/TC164/SC6国际标准化工作组专家成员，CCSA
+TC614-网络5.0技术标准推进委员会成员。
+个人网站
+http://xxxxxx
+个人邮箱
+daibin@hust.edu.cn
+代表性论文
+• Bin Dai, Guan Xu, Benxiong
+Huang, Peng Qin, Yang Xu. Enabling network innovation in data center networks
+with software defined networking: A survey. Journal of Network and Computer
+Applications, 94(2017), pp.33-49 （IF:5.27）
+• Guan Xu, Bin Dai, Benxiong Huang, Jun Yang, Sheng Wen. Bandwidth-aware
+energy efficient flow scheduling with SDN in data center networks. Future
+Generation Computer Systems, Volume 68, March 2017, pp.163-174 (IF: 5.77)
+• Peng
+Qin, Bin Dai,
+Benxiong Huang, and Guan Xu. Bandwidth-Aware Scheduling With SDN in Hadoop: A
+New Trend for Big Data. IEEE SYSTEMS JOURNAL. 11(4), Dec. 2017. pp.2337-2344
+(IF: 4.46)
+• Hasan
+Abdulwahid, Bin Dai, Benxiong Huang, Zijing Chen. Scheduled-links multicast
+routing protocol in MANETs. Journal of Network and Computer Applications,
+63(2016), pp.56–67, 2016. (IF:5.27)
+• Qin
+P, Dai B, Huang, B, Xu G, Wu K. A Survey on Network Tomography with Network
+Coding. IEEE Communications Surveys and Tutorials. 2014, 16(4):1981-1995 (IF
+22.9)
+主要科研项目
+• 软件定义高效路由技术研究，国家重点研发计划课题，2019-2022
+•
+电力通信网网络智能诊断技术，国家电网，2018-2020
+承担课程
+• 电子线路实验
+• 移动通信系统

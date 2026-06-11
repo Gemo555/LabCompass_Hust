@@ -26,7 +26,60 @@ OUTPUT_DIR = ROOT / "output"
 
 USER_AGENT = "LabCompass-HUST-EIC/0.1 public academic profile collection; no login"
 NOT_FOUND = "未找到"
+NEEDS_CHECK = "待人工核验"
 SUMMARY_CHAR_LIMIT = 120
+DEFAULT_DELAY_SECONDS = 1.5
+DEFAULT_MAX_LIST_PAGES = 30
+
+TEACHER_URL_PATTERNS = ("professor/", "aprofessor/", "faculty.hust.edu.cn")
+LIST_PAGE_MARKERS = ("/xygk/szdw/",)
+LIST_PAGE_EXTENSIONS = (".htm", ".html")
+
+AI_CV_KEYWORDS = [
+    "计算机视觉",
+    "图像处理",
+    "视频处理",
+    "模式识别",
+    "机器学习",
+    "深度学习",
+    "人工智能",
+    "智能感知",
+    "多媒体信息处理",
+    "遥感图像处理",
+    "医学图像",
+    "目标检测",
+    "图像识别",
+    "图像分割",
+    "三维视觉",
+    "点云",
+    "图像压缩",
+    "多模态",
+    "大模型",
+    "视觉语言模型",
+    "智能信息处理",
+    "detection",
+    "segmentation",
+    "recognition",
+    "image",
+    "video",
+    "visual",
+    "vision",
+    "multimodal",
+    "deep learning",
+    "machine learning",
+]
+
+DIRECTION_RULES = [
+    ("CV/图像处理", r"计算机视觉|图像|视频|模式识别|目标检测|图像识别|图像分割|三维视觉|点云|多媒体|医学图像|遥感图像|image|video|visual|vision|detection|segmentation|recognition"),
+    ("AI/机器学习", r"机器学习|深度学习|人工智能|智能感知|智能信息处理|多模态|大模型|视觉语言模型|神经网络|deep learning|machine learning|AI|multimodal|large model"),
+    ("通信/信号处理", r"通信|无线|移动通信|信号处理|信号检测|软件无线电|信道|频谱|编码|调制"),
+    ("电磁/微波", r"电磁|微波|毫米波|天线|射频|电波|电路与系统"),
+    ("遥感/雷达", r"遥感|雷达|SAR|合成孔径|探测|成像|散射|海洋"),
+    ("光电/激光", r"光电|激光|红外|光谱|光学|激光雷达|LiDAR"),
+    ("硬件/嵌入式", r"芯片|电路|FPGA|嵌入式|硬件|集成电路|传感器|板卡"),
+    ("网络/物联网", r"网络|物联网|自组网|边缘计算|互联网|协议|路由"),
+    ("信息安全", r"安全|隐私|密码|攻防|加密|可信|漏洞"),
+]
 
 COLUMNS = [
     "姓名",
@@ -39,7 +92,14 @@ COLUMNS = [
     "代表性项目或论文关键词",
     "团队介绍关键词",
     "可能适合本科生参与的任务类型",
+    "direction_tags",
+    "relevance_score",
+    "ai_cv_keywords",
+    "research_plain_explanation",
+    "recommendation_priority",
+    "confidence",
     "来源URL",
+    "发现来源URL",
     "原始HTML路径",
     "原始文本路径",
     "抓取状态",
@@ -55,6 +115,11 @@ SUMMARY_COLUMNS = [
     "研究方向摘要",
     "项目/论文关键词摘要",
     "本科生切入点",
+    "方向标签",
+    "AI/CV相关度",
+    "AI/CV关键词",
+    "推荐优先级",
+    "置信度",
     "抓取状态",
     "人工核验提示",
     "来源URL",
@@ -66,21 +131,25 @@ class ProfileLink:
     name_hint: str
     url: str
     department: str
+    title_hint: str = ""
+    source_url: str = ""
 
 
 class LinkExtractor(HTMLParser):
     def __init__(self) -> None:
         super().__init__()
-        self.links: list[tuple[str, str]] = []
+        self.links: list[dict[str, str]] = []
         self._href: str | None = None
         self._text_parts: list[str] = []
+        self._attrs: dict[str, str] = {}
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         if tag.lower() != "a":
             return
-        attrs_dict = dict(attrs)
+        attrs_dict = {key: value or "" for key, value in attrs}
         self._href = attrs_dict.get("href")
         self._text_parts = []
+        self._attrs = attrs_dict
 
     def handle_data(self, data: str) -> None:
         if self._href is not None:
@@ -88,9 +157,17 @@ class LinkExtractor(HTMLParser):
 
     def handle_endtag(self, tag: str) -> None:
         if tag.lower() == "a" and self._href:
-            self.links.append((self._href, clean_text(" ".join(self._text_parts))))
+            self.links.append(
+                {
+                    "href": self._href,
+                    "text": clean_text(" ".join(self._text_parts)),
+                    "title": clean_text(self._attrs.get("title", "")),
+                    "textvalue": clean_text(self._attrs.get("textvalue", "")),
+                }
+            )
             self._href = None
             self._text_parts = []
+            self._attrs = {}
 
 
 class TextExtractor(HTMLParser):
@@ -177,8 +254,21 @@ def fetch(url: str, delay: float, robots_cache: dict[str, RobotFileParser]) -> s
     time.sleep(delay)
     req = Request(url, headers={"User-Agent": USER_AGENT})
     with urlopen(req, timeout=25) as resp:
-        charset = resp.headers.get_content_charset() or "utf-8"
-        return resp.read().decode(charset, errors="replace")
+        raw = resp.read()
+        charset = resp.headers.get_content_charset() or detect_charset(raw) or "utf-8"
+        return raw.decode(charset, errors="replace")
+
+
+def detect_charset(raw: bytes) -> str | None:
+    head = raw[:4096].decode("ascii", errors="ignore")
+    match = re.search(r"charset=[\"']?([A-Za-z0-9_-]+)", head, flags=re.I)
+    if match:
+        return match.group(1)
+    try:
+        raw.decode("utf-8")
+        return "utf-8"
+    except UnicodeDecodeError:
+        return "gb18030"
 
 
 def clean_text(value: str) -> str:
@@ -196,23 +286,82 @@ def text_lines(text: str) -> list[str]:
     return [clean_text(line) for line in text.splitlines() if clean_text(line)]
 
 
+def is_teacher_url(url: str) -> bool:
+    return any(pattern in url for pattern in TEACHER_URL_PATTERNS)
+
+
+def is_staff_list_url(url: str) -> bool:
+    parsed = urlparse(url)
+    return (
+        parsed.netloc.endswith("eic.hust.edu.cn")
+        and any(marker in parsed.path for marker in LIST_PAGE_MARKERS)
+        and parsed.path.endswith(LIST_PAGE_EXTENSIONS)
+    )
+
+
+def normalize_url(url: str) -> str:
+    parsed = urlparse(url)
+    return parsed._replace(fragment="").geturl()
+
+
+def infer_department_from_url_or_text(url: str, text: str = "") -> str:
+    mapping = {
+        "dzgcx": "电子工程系",
+        "txgcx": "通信工程系",
+        "xxgcx": "信息工程系",
+        "jxsyzx": "教学实验中心",
+    }
+    for marker, department in mapping.items():
+        if marker in url:
+            return department
+    for department in mapping.values():
+        if department in text:
+            return department
+    return ""
+
+
+def discover_staff_list_links(html: str, seed_url: str) -> list[str]:
+    parser = LinkExtractor()
+    parser.feed(html)
+    discovered: list[str] = []
+    seen: set[str] = set()
+    for link in parser.links:
+        href = link.get("href", "").strip()
+        if not href or href.startswith(("javascript:", "#", "mailto:")):
+            continue
+        absolute = normalize_url(urljoin(seed_url, href))
+        if absolute in seen or not is_staff_list_url(absolute):
+            continue
+        seen.add(absolute)
+        discovered.append(absolute)
+    return discovered
+
+
 def discover_profile_links(html: str, seed_url: str, department: str) -> list[ProfileLink]:
     parser = LinkExtractor()
     parser.feed(html)
     links: list[ProfileLink] = []
     seen: set[str] = set()
-    allow_patterns = ("professor/", "aprofessor/", "faculty.hust.edu.cn")
 
-    for href, anchor_text in parser.links:
-        href = href.strip()
-        absolute = urljoin(seed_url, href)
-        if not any(pattern in absolute for pattern in allow_patterns):
+    for link in parser.links:
+        href = link.get("href", "").strip()
+        absolute = normalize_url(urljoin(seed_url, href))
+        if not is_teacher_url(absolute):
             continue
         if absolute in seen:
             continue
         seen.add(absolute)
-        name_hint = anchor_text or infer_name_from_url(absolute)
-        links.append(ProfileLink(name_hint=name_hint, url=absolute, department=department))
+        name_hint = link.get("textvalue") or link.get("text") or infer_name_from_url(absolute)
+        title_hint = link.get("title", "")
+        links.append(
+            ProfileLink(
+                name_hint=name_hint,
+                url=absolute,
+                department=department,
+                title_hint=title_hint,
+                source_url=seed_url,
+            )
+        )
 
     return links
 
@@ -285,6 +434,124 @@ def extract_keywords(text: str, headings: Iterable[str]) -> str:
     return "；".join(unique) if unique else section[:160]
 
 
+def collect_matching_keywords(text: str, keywords: Iterable[str]) -> list[str]:
+    found: list[str] = []
+    lower_text = text.lower()
+    for keyword in keywords:
+        if keyword.lower() in lower_text and keyword not in found:
+            found.append(keyword)
+    return found
+
+
+def collect_direction_tags(*parts: str) -> list[str]:
+    source = "\n".join(part for part in parts if part and part != NOT_FOUND)
+    tags: list[str] = []
+    for tag, pattern in DIRECTION_RULES:
+        if re.search(pattern, source, flags=re.I):
+            tags.append(tag)
+    if not tags:
+        tags.append("其他/待核验")
+    return tags
+
+
+def normalize_title(title: str, title_hint: str) -> str:
+    valid_pattern = r"教授|副教授|讲师|研究员|副研究员|高级工程师|工程师|实验师"
+    if title and title != NOT_FOUND and re.search(valid_pattern, title):
+        return title
+    if title_hint and re.search(valid_pattern, title_hint):
+        return title_hint.replace("教授研究员", "教授/研究员")
+    return title if title and title != NOT_FOUND else NOT_FOUND
+
+
+def score_ai_cv_relevance(research: str, project_keywords: str, intro: str, full_text: str) -> tuple[int, list[str]]:
+    research_text = "\n".join(value for value in [research, project_keywords, intro] if value and value != NOT_FOUND)
+    all_text = "\n".join(value for value in [research_text, full_text] if value)
+    matched = collect_matching_keywords(all_text, AI_CV_KEYWORDS)
+    score = 0
+
+    strong_keywords = [
+        "计算机视觉",
+        "图像处理",
+        "视频处理",
+        "模式识别",
+        "机器学习",
+        "深度学习",
+        "人工智能",
+        "目标检测",
+        "图像识别",
+        "图像分割",
+        "三维视觉",
+        "点云",
+        "多模态",
+        "视觉语言模型",
+        "detection",
+        "segmentation",
+        "recognition",
+        "image",
+        "video",
+        "visual",
+        "deep learning",
+        "machine learning",
+    ]
+    medium_keywords = ["智能", "感知", "数据分析", "信号处理", "遥感", "成像", "信息处理", "算法"]
+
+    research_lower = research_text.lower()
+    for keyword in strong_keywords:
+        count = research_lower.count(keyword.lower())
+        if count:
+            score += 22 + min(count - 1, 3) * 6
+    for keyword in medium_keywords:
+        if keyword.lower() in research_lower:
+            score += 8
+
+    full_lower = full_text.lower()
+    paper_like_hits = 0
+    for keyword in ["detection", "segmentation", "recognition", "image", "video", "visual", "multimodal", "deep learning"]:
+        paper_like_hits += min(full_lower.count(keyword), 5)
+    score += min(paper_like_hits * 4, 28)
+
+    low_only_patterns = r"通信|电磁|微波|天线|射频|硬件|电路"
+    if score < 20 and re.search(low_only_patterns, research_text):
+        score = max(score, 8)
+
+    return min(score, 100), matched
+
+
+def confidence_for_profile(row: dict[str, str], text_length: int) -> str:
+    score = int(row.get("relevance_score", 0) or 0)
+    if row.get("抓取状态") != "成功" or text_length < 300:
+        return "low"
+    if score >= 65 and row.get("ai_cv_keywords"):
+        return "high"
+    if score >= 30 or row.get("direction_tags") != "其他/待核验":
+        return "medium"
+    return "low"
+
+
+def priority_for_score(score: int, confidence: str) -> str:
+    if score >= 70 and confidence in {"high", "medium"}:
+        return "A"
+    if score >= 40:
+        return "B"
+    return "C"
+
+
+def explain_research(row: dict[str, str]) -> str:
+    tags = row.get("direction_tags", "")
+    research = row.get("研究方向", "")
+    if "CV/图像处理" in tags and "AI/机器学习" in tags:
+        return "偏视觉/图像与智能算法交叉，可重点看是否有检测、识别、分割、多模态或深度学习课题。"
+    if "CV/图像处理" in tags:
+        return "偏图像、视频、视觉感知或成像处理方向，适合从论文复现和数据处理切入。"
+    if "AI/机器学习" in tags:
+        return "偏智能算法或机器学习应用方向，需要人工核验是否是真正的 AI/CV 课题。"
+    if "遥感/雷达" in tags and re.search(r"图像|成像|识别|检测|深度学习", research):
+        return "偏遥感/雷达成像与智能处理，可能存在 CV 方法和信号处理结合点。"
+    if "通信/信号处理" in tags:
+        return "主要是通信或信号处理，若只出现泛化“智能处理”，AI/CV 相关性需人工核验。"
+    return "当前公开文本不足以判断，建议打开主页和原始文本人工核验。"
+
+
 def infer_undergrad_tasks(research: str, project_keywords: str, team_keywords: str) -> str:
     source = " ".join(v for v in [research, project_keywords, team_keywords] if v and v != NOT_FOUND)
     if not source:
@@ -303,6 +570,16 @@ def infer_undergrad_tasks(research: str, project_keywords: str, team_keywords: s
     return "推测：" + "；".join(tasks[:4])
 
 
+def collect_external_evidence(row: dict[str, str]) -> list[dict[str, str]]:
+    """Reserved extension point for lab/news/paper-index evidence.
+
+    Future sources can include college news, lab pages, Semantic Scholar, IEEE,
+    DBLP, or Google Scholar. Keep this empty by default to avoid extra external
+    crawling in the first full-coverage pass.
+    """
+    return []
+
+
 def parse_profile(html: str, link: ProfileLink, html_path: Path, text_path: Path) -> dict[str, str]:
     text = page_text(html)
     text_path.write_text(text, encoding="utf-8")
@@ -315,6 +592,7 @@ def parse_profile(html: str, link: ProfileLink, html_path: Path, text_path: Path
         ],
         text,
     )
+    title = normalize_title(title, link.title_hint)
     mentor_type = first_match([r"导师类别[：:\s]+([^\n；。|,，]{2,40})", r"(博士生导师|硕士生导师|博导|硕导)"], text)
     affiliation = first_match([r"所属院系[：:\s]+([^\n；。|,，]{2,60})", r"所在单位[：:\s]+([^\n；。|,，]{2,60})"], text)
     if affiliation == NOT_FOUND and link.department:
@@ -326,12 +604,13 @@ def parse_profile(html: str, link: ProfileLink, html_path: Path, text_path: Path
     project_keywords = extract_keywords(text, ["科研项目", "研究成果", "论文", "代表性成果"])
     team_keywords = extract_keywords(text, ["团队展示", "团队介绍", "课题组"])
     undergrad_tasks = infer_undergrad_tasks(research, project_keywords, team_keywords)
+    direction_tags = collect_direction_tags(research, project_keywords, team_keywords, intro)
+    relevance_score, ai_cv_keywords = score_ai_cv_relevance(research, project_keywords, intro, text)
 
     note = ""
     if len(text) < 300:
         note = "页面可读取文本较少，建议人工打开原始HTML或来源URL核验。"
-
-    return {
+    row = {
         "姓名": name,
         "职称": title,
         "导师类别": mentor_type,
@@ -342,12 +621,24 @@ def parse_profile(html: str, link: ProfileLink, html_path: Path, text_path: Path
         "代表性项目或论文关键词": project_keywords,
         "团队介绍关键词": team_keywords,
         "可能适合本科生参与的任务类型": undergrad_tasks,
+        "direction_tags": "；".join(direction_tags),
+        "relevance_score": str(relevance_score),
+        "ai_cv_keywords": "；".join(ai_cv_keywords),
+        "research_plain_explanation": "",
+        "recommendation_priority": "",
+        "confidence": "",
         "来源URL": link.url,
+        "发现来源URL": link.source_url,
         "原始HTML路径": str(html_path.relative_to(ROOT)),
         "原始文本路径": str(text_path.relative_to(ROOT)),
         "抓取状态": "成功",
         "备注": note,
     }
+    row["confidence"] = confidence_for_profile(row, len(text))
+    row["recommendation_priority"] = priority_for_score(relevance_score, row["confidence"])
+    row["research_plain_explanation"] = explain_research(row)
+    row["external_evidence"] = collect_external_evidence(row)
+    return row
 
 
 def safe_filename(url: str, name_hint: str) -> str:
@@ -376,6 +667,11 @@ def summary_row(row: dict[str, str]) -> dict[str, str]:
         "研究方向摘要": compact_cell(row.get("研究方向", "")),
         "项目/论文关键词摘要": compact_cell(row.get("代表性项目或论文关键词", "")),
         "本科生切入点": compact_cell(row.get("可能适合本科生参与的任务类型", ""), 90),
+        "方向标签": row.get("direction_tags", ""),
+        "AI/CV相关度": row.get("relevance_score", ""),
+        "AI/CV关键词": compact_cell(row.get("ai_cv_keywords", ""), 90),
+        "推荐优先级": row.get("recommendation_priority", ""),
+        "置信度": row.get("confidence", ""),
         "抓取状态": row.get("抓取状态", ""),
         "人工核验提示": compact_cell(row.get("备注", ""), 90),
         "来源URL": row.get("来源URL", ""),
@@ -384,6 +680,34 @@ def summary_row(row: dict[str, str]) -> dict[str, str]:
 
 def markdown_escape(value: str) -> str:
     return (value or "").replace("|", "\\|")
+
+
+def display_value(value: str, fallback: str = NEEDS_CHECK) -> str:
+    value = clean_text(str(value or ""))
+    if not value or value == NOT_FOUND:
+        return fallback
+    return value
+
+
+def sorted_ai_cv_rows(rows: list[dict[str, str]], min_score: int = 25) -> list[dict[str, str]]:
+    candidates = []
+    for row in rows:
+        try:
+            score = int(row.get("relevance_score", 0) or 0)
+        except ValueError:
+            score = 0
+        keywords = row.get("ai_cv_keywords", "")
+        if score >= min_score or (keywords and score >= 20):
+            candidates.append(row)
+    return sorted(
+        candidates,
+        key=lambda item: (
+            int(item.get("relevance_score", 0) or 0),
+            item.get("confidence") == "high",
+            item.get("recommendation_priority") == "A",
+        ),
+        reverse=True,
+    )
 
 
 def write_readable_markdown(rows: list[dict[str, str]], path: Path) -> None:
@@ -434,15 +758,123 @@ def write_readable_markdown(rows: list[dict[str, str]], path: Path) -> None:
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
-def save_outputs(rows: list[dict[str, str]]) -> None:
+def write_all_profiles_markdown(rows: list[dict[str, str]], path: Path) -> None:
+    lines = [
+        "# 华中科技大学电子信息与通信学院教师粗画像",
+        "",
+        "本文件由公开网页自动整理。方向标签和本科生切入点是基于公开文本的保守推断，不代表导师本人招生要求。",
+        "",
+    ]
+    for row in sorted(rows, key=lambda item: (item.get("所属专业/院系", ""), item.get("姓名", ""))):
+        score = display_value(row.get("relevance_score", "0"), "0")
+        lines.extend(
+            [
+                f"## {display_value(row.get('姓名'))}",
+                "",
+                f"- 职称：{display_value(row.get('职称'))}",
+                f"- 院系/团队：{display_value(row.get('所属专业/院系'))}",
+                f"- 导师类别：{display_value(row.get('导师类别'))}",
+                f"- 方向标签：{display_value(row.get('direction_tags'))}",
+                f"- AI/CV 相关度：{score}/100",
+                f"- AI/CV 关键词：{display_value(row.get('ai_cv_keywords'))}",
+                f"- 研究方向摘要：{display_value(compact_cell(row.get('研究方向', ''), 220))}",
+                f"- 本科生切入点：{display_value(row.get('可能适合本科生参与的任务类型'))}",
+                f"- 置信度：{display_value(row.get('confidence'))}",
+                f"- 人工核验：{display_value(row.get('备注'))}",
+                f"- 主页：{display_value(row.get('来源URL'))}",
+                "",
+            ]
+        )
+    path.write_text("\n".join(lines), encoding="utf-8")
+
+
+def write_ai_cv_markdown(rows: list[dict[str, str]], path: Path) -> None:
+    candidates = sorted_ai_cv_rows(rows)
+    lines = [
+        "# AI/CV 相关老师重点清单",
+        "",
+        "排序依据：`relevance_score`、AI/CV 关键词命中、公开主页文本完整度。请把本清单当作初筛，不要当作最终结论。",
+        "",
+    ]
+    if not candidates:
+        lines.append("本轮公开主页中没有筛出明显 AI/CV 候选，建议扩展学院新闻、实验室主页和论文库后复查。")
+    for row in candidates:
+        score = int(row.get("relevance_score", 0) or 0)
+        lines.extend(
+            [
+                f"## {display_value(row.get('姓名'))} - {display_value(row.get('recommendation_priority'), 'C')} / {score}",
+                "",
+                f"- 姓名：{display_value(row.get('姓名'))}",
+                f"- 职称：{display_value(row.get('职称'))}",
+                f"- 院系/团队：{display_value(row.get('所属专业/院系'))}",
+                f"- 主页 URL：{display_value(row.get('来源URL'))}",
+                f"- AI/CV 相关关键词：{display_value(row.get('ai_cv_keywords'))}",
+                f"- 研究方向人话解释：{display_value(row.get('research_plain_explanation'))}",
+                f"- 最近论文/项目关键词：{display_value(row.get('代表性项目或论文关键词'))}",
+                f"- 本科生可切入方向：{display_value(row.get('可能适合本科生参与的任务类型'))}",
+                f"- 推荐优先级：{display_value(row.get('recommendation_priority'), 'C')}",
+                f"- 置信度：{display_value(row.get('confidence'), 'low')}",
+                f"- 需要人工核验：{display_value(row.get('备注'), '无特别提示')}",
+                "",
+            ]
+        )
+    path.write_text("\n".join(lines), encoding="utf-8")
+
+
+def write_scrape_report(rows: list[dict[str, str]], discovered_count: int, list_pages: list[str], path: Path) -> None:
+    success = sum(1 for row in rows if row.get("抓取状态") == "成功")
+    failed = len(rows) - success
+    low_confidence = sum(1 for row in rows if row.get("confidence") == "low")
+    ai_cv_count = len(sorted_ai_cv_rows(rows))
+    tag_counts: dict[str, int] = {}
+    for row in rows:
+        for tag in (row.get("direction_tags") or "其他/待核验").split("；"):
+            tag_counts[tag] = tag_counts.get(tag, 0) + 1
+
+    lines = [
+        "# 抓取统计报告",
+        "",
+        f"- 发现教师主页链接数：{discovered_count}",
+        f"- 输出教师记录数：{len(rows)}",
+        f"- 成功抓取人数：{success}",
+        f"- 失败人数：{failed}",
+        f"- 低置信度人数：{low_confidence}",
+        f"- 疑似 AI/CV 老师人数：{ai_cv_count}",
+        "",
+        "## 已访问的师资列表页",
+        "",
+    ]
+    for url in list_pages:
+        lines.append(f"- {url}")
+    lines.extend(["", "## 方向标签统计", ""])
+    for tag, count in sorted(tag_counts.items(), key=lambda item: item[1], reverse=True):
+        lines.append(f"- {tag}：{count}")
+    lines.extend(
+        [
+            "",
+            "## 说明",
+            "",
+            "- 本轮只基于公开网页和脚本可读取文本，不登录任何网站。",
+            "- `collect_external_evidence()` 已预留学院新闻、实验室主页、Semantic Scholar、IEEE、DBLP 等外部证据接口，但默认不抓取外部论文库。",
+            "- 页面超时、文本过短、字段缺失的记录均应人工核验。",
+        ]
+    )
+    path.write_text("\n".join(lines), encoding="utf-8")
+
+
+def save_outputs(rows: list[dict[str, str]], discovered_count: int, list_pages: list[str]) -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     csv_path = OUTPUT_DIR / "teachers.csv"
     summary_csv_path = OUTPUT_DIR / "teachers_summary.csv"
     xlsx_path = OUTPUT_DIR / "teachers.xlsx"
     readable_md_path = OUTPUT_DIR / "teachers_readable.md"
+    raw_json_path = OUTPUT_DIR / "all_teachers_raw.json"
+    all_profiles_path = OUTPUT_DIR / "all_teachers_profiles.md"
+    ai_cv_path = OUTPUT_DIR / "ai_cv_teachers.md"
+    report_path = OUTPUT_DIR / "scrape_report.md"
 
     with csv_path.open("w", encoding="utf-8-sig", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=COLUMNS)
+        writer = csv.DictWriter(f, fieldnames=COLUMNS, extrasaction="ignore")
         writer.writeheader()
         writer.writerows(rows)
 
@@ -453,6 +885,10 @@ def save_outputs(rows: list[dict[str, str]]) -> None:
 
     write_minimal_xlsx(rows, xlsx_path)
     write_readable_markdown(rows, readable_md_path)
+    raw_json_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
+    write_all_profiles_markdown(rows, all_profiles_path)
+    write_ai_cv_markdown(rows, ai_cv_path)
+    write_scrape_report(rows, discovered_count, list_pages, report_path)
 
 
 def excel_col_name(index: int) -> str:
@@ -519,15 +955,90 @@ def write_minimal_xlsx(rows: list[dict[str, str]], path: Path) -> None:
         xlsx.writestr("xl/worksheets/sheet1.xml", worksheet)
 
 
+def discover_all_profile_links(
+    seed_pages: list[dict[str, str]],
+    delay: float,
+    robots_cache: dict[str, RobotFileParser],
+    max_list_pages: int,
+) -> tuple[list[ProfileLink], list[str]]:
+    pending: list[tuple[str, str]] = [(seed["url"], seed.get("department", "")) for seed in seed_pages]
+    visited: set[str] = set()
+    list_pages: list[str] = []
+    profiles: dict[str, ProfileLink] = {}
+
+    while pending and len(visited) < max_list_pages:
+        list_url, department_hint = pending.pop(0)
+        list_url = normalize_url(list_url)
+        if list_url in visited:
+            continue
+        visited.add(list_url)
+        try:
+            html = fetch(list_url, delay, robots_cache)
+        except Exception as exc:
+            print(f"[WARN] Could not read staff list {list_url}: {exc}")
+            continue
+
+        list_pages.append(list_url)
+        text = page_text(html)
+        department = department_hint or infer_department_from_url_or_text(list_url, text)
+
+        for next_url in discover_staff_list_links(html, list_url):
+            if next_url not in visited and all(next_url != item[0] for item in pending):
+                next_department = infer_department_from_url_or_text(next_url)
+                pending.append((next_url, next_department))
+
+        for profile in discover_profile_links(html, list_url, department):
+            if profile.url not in profiles:
+                profiles[profile.url] = profile
+            else:
+                existing = profiles[profile.url]
+                if not existing.department and profile.department:
+                    existing.department = profile.department
+                if not existing.title_hint and profile.title_hint:
+                    existing.title_hint = profile.title_hint
+
+    return list(profiles.values()), list_pages
+
+
+def failure_row(link: ProfileLink, html_path: Path, text_path: Path, exc: Exception) -> dict[str, str]:
+    return {
+        "姓名": link.name_hint or NEEDS_CHECK,
+        "职称": link.title_hint or NEEDS_CHECK,
+        "导师类别": NEEDS_CHECK,
+        "所属专业/院系": link.department or NEEDS_CHECK,
+        "邮箱": NEEDS_CHECK,
+        "个人简介": NEEDS_CHECK,
+        "研究方向": NEEDS_CHECK,
+        "代表性项目或论文关键词": NEEDS_CHECK,
+        "团队介绍关键词": NEEDS_CHECK,
+        "可能适合本科生参与的任务类型": NEEDS_CHECK,
+        "direction_tags": "其他/待核验",
+        "relevance_score": "0",
+        "ai_cv_keywords": "",
+        "research_plain_explanation": "当前主页抓取失败，无法判断方向。",
+        "recommendation_priority": "C",
+        "confidence": "low",
+        "来源URL": link.url,
+        "发现来源URL": link.source_url,
+        "原始HTML路径": str(html_path.relative_to(ROOT)),
+        "原始文本路径": str(text_path.relative_to(ROOT)),
+        "抓取状态": "失败",
+        "备注": f"请求或解析失败：{exc}",
+        "external_evidence": [],
+    }
+
+
 def main() -> None:
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
     if hasattr(sys.stderr, "reconfigure"):
         sys.stderr.reconfigure(encoding="utf-8")
 
-    parser = argparse.ArgumentParser(description="Collect public HUST EIC teacher profile samples.")
-    parser.add_argument("--limit", type=int, default=8, help="Maximum number of teacher profiles to fetch.")
-    parser.add_argument("--delay", type=float, default=2.0, help="Delay in seconds between requests.")
+    parser = argparse.ArgumentParser(description="Collect public HUST EIC teacher profiles and rank AI/CV relevance.")
+    parser.add_argument("--limit", type=int, default=0, help="Optional maximum number of teacher profiles to fetch; 0 means no limit.")
+    parser.add_argument("--delay", type=float, default=DEFAULT_DELAY_SECONDS, help="Delay in seconds between requests.")
+    parser.add_argument("--max-list-pages", type=int, default=DEFAULT_MAX_LIST_PAGES, help="Maximum staff-list pages to discover.")
+    parser.add_argument("--refresh", action="store_true", help="Fetch teacher pages even when cached raw HTML exists.")
     args = parser.parse_args()
 
     RAW_HTML_DIR.mkdir(parents=True, exist_ok=True)
@@ -535,19 +1046,13 @@ def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     robots_cache: dict[str, RobotFileParser] = {}
-    profile_links: list[ProfileLink] = []
-
-    for seed in load_seed_pages():
-        try:
-            html = fetch(seed["url"], args.delay, robots_cache)
-            profile_links.extend(discover_profile_links(html, seed["url"], seed.get("department", "")))
-        except Exception as exc:
-            print(f"[WARN] Could not read seed page {seed['url']}: {exc}")
+    profile_links, list_pages = discover_all_profile_links(load_seed_pages(), args.delay, robots_cache, args.max_list_pages)
+    print(f"[INFO] Discovered {len(profile_links)} teacher profile links from {len(list_pages)} staff list pages.")
 
     rows: list[dict[str, str]] = []
     seen_urls: set[str] = set()
     for link in profile_links:
-        if len(rows) >= args.limit:
+        if args.limit and len(rows) >= args.limit:
             break
         if link.url in seen_urls:
             continue
@@ -558,34 +1063,29 @@ def main() -> None:
         text_path = RAW_TEXT_DIR / f"{stem}.txt"
 
         try:
-            html = fetch(link.url, args.delay, robots_cache)
-            html_path.write_text(html, encoding="utf-8")
-            rows.append(parse_profile(html, link, html_path, text_path))
-            print(f"[OK] {rows[-1]['姓名']} {link.url}")
+            if html_path.exists() and not args.refresh:
+                html = html_path.read_text(encoding="utf-8")
+                row = parse_profile(html, link, html_path, text_path)
+                rows.append(row)
+                print(f"[CACHE] {rows[-1]['姓名']} score={rows[-1]['relevance_score']} tags={rows[-1]['direction_tags']} {link.url}")
+            else:
+                html = fetch(link.url, args.delay, robots_cache)
+                html_path.write_text(html, encoding="utf-8")
+                rows.append(parse_profile(html, link, html_path, text_path))
+                print(f"[OK] {rows[-1]['姓名']} score={rows[-1]['relevance_score']} tags={rows[-1]['direction_tags']} {link.url}")
         except Exception as exc:
-            rows.append(
-                {
-                    "姓名": link.name_hint or NOT_FOUND,
-                    "职称": NOT_FOUND,
-                    "导师类别": NOT_FOUND,
-                    "所属专业/院系": link.department or NOT_FOUND,
-                    "邮箱": NOT_FOUND,
-                    "个人简介": NOT_FOUND,
-                    "研究方向": NOT_FOUND,
-                    "代表性项目或论文关键词": NOT_FOUND,
-                    "团队介绍关键词": NOT_FOUND,
-                    "可能适合本科生参与的任务类型": NOT_FOUND,
-                    "来源URL": link.url,
-                    "原始HTML路径": str(html_path.relative_to(ROOT)),
-                    "原始文本路径": str(text_path.relative_to(ROOT)),
-                    "抓取状态": "失败",
-                    "备注": f"请求或解析失败：{exc}",
-                }
-            )
-            print(f"[WARN] {link.url}: {exc}")
+            if html_path.exists():
+                html = html_path.read_text(encoding="utf-8")
+                row = parse_profile(html, link, html_path, text_path)
+                row["备注"] = f"本次请求失败，已使用缓存HTML；失败原因：{exc}"
+                rows.append(row)
+                print(f"[CACHE-WARN] {rows[-1]['姓名']} score={rows[-1]['relevance_score']} tags={rows[-1]['direction_tags']} {link.url}")
+            else:
+                rows.append(failure_row(link, html_path, text_path, exc))
+                print(f"[WARN] {link.url}: {exc}")
 
-    save_outputs(rows)
-    print(f"Saved {len(rows)} rows to {OUTPUT_DIR / 'teachers.csv'} and {OUTPUT_DIR / 'teachers.xlsx'}")
+    save_outputs(rows, len(profile_links), list_pages)
+    print(f"Saved {len(rows)} rows and reports to {OUTPUT_DIR}")
 
 
 if __name__ == "__main__":

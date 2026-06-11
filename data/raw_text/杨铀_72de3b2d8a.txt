@@ -1,0 +1,488 @@
+﻿
+杨铀
+博士，教授，博士生导师
+IET Fellow，IEEE Senior Member，SPIE/OSA Member
+电子信息与通信学院副院长
+办公室：D17-B208
+邮箱：yangyou AT hust DOT edu DOT cn
+主要从事以视觉感知与计算为核心的计算机视觉、计算摄像学、立体视频系统等方面的研究工作，在国内外重要的期刊、会议上发表学术论文110篇，获授权的中美发明专利41项，软著6项，特邀报告33次，提交国际MPEG提案8项（采纳1项）。获省部级科技奖及行业学会科技奖一等奖1项、二等奖2项、国际学会奖2项。
+目前实验室正在做和曾经在做的工作包括
+（1）数字化感知方法与装备
+灾害数字化感知与重建，应急救援感知与通信装备
+智慧城市与城市安全，城市综合管廊应急救援装备
+文物数字化保护，文物数字化装备
+新型腹腔镜、内窥镜
+多模态心脏影像数据处理与智能诊断
+多视点多光谱感知与计算，设备渗漏油在线早期发现与诊断装备
+（2）智能媒体计算与应用
+元宇宙视频系统与6DoF交互式视频系统
+行为意图与人机交互系统
+3D快速感知与自动驾驶
+一、教育经历
+起止年月
+院、校、系专业
+学位/岗位
+导师及合作导师
+1996.9~2000.7
+中国矿业大学数学系
+计算机软件
+工学学士
+2000.9~2003.7
+中国矿业大学数学系
+应用数学
+理学硕士
+薛秀谦
+2005.9~2009.7
+中国科学院计算技术研究所
+计算机应用
+工学博士
+蒋刚毅
+2009.7 ~2011.8
+清华大学自动化系
+控制科学与控制工程
+博士后
+戴琼海
+二、主要工作经历
+起止年月
+单位
+职务与职称
+2003.8~2005.8
+中国矿业大学数学系
+教师 助教
+2009.7 ~2011.8
+清华大学自动化系
+博士后
+2011.7~2013.1
+北京数码视讯研究院
+软件技术首席科学家、技术委员会委员
+2013.3~至今
+华中科技大学电信学院
+讲师（2013-2014），副教授（2014-2020），教授（2020-），系书记（2015-2018），副主任（科研与研究生）（2018-），院长助理（2021-2022），副院长（研究生）（2022-）
+三、从事的科研项目情况
+项目名称
+项目来源
+起止年月
+本人任务
+面向公共安全的多视点全分辨率感知视联网关键技术研究及应用示范
+2023年省技术创新计划重点研发专项（自主创新类）高新领域
+2023.1-2025.12
+课题负责人
+面向“卡脖子”难题的电子信息卓越工程师硕博士培养方法
+华中科技大学2023年研究生教改项目（重点项目）
+2023.1-2023.12
+项目负责人
+城市地下重大基础设施智能态势感知与健康评估
+江苏省前沿引领技术基础研究重大项目BK20222006
+2022.9-2025.8
+课题负责人
+《多媒体通信技术》高水平国际化课程
+华中科技大学
+项目负责人
+场景深度-光照融合感知与计算
+国家自然科学基金委
+61971203
+2020.1-2023.12
+项目负责人
+多业务多网络融合传输关键技术研究与应急通信融合互通设备研制
+科技部国家重点研发计划
+2017YFC0806202
+2017.7-2021.12
+课题负责人
+动态场景深度场高效感知与计算
+国家自然科学基金委
+61571204
+2016.1-2019.12
+项目负责人
+动态光场多维数据高效编码
+国家自然科学基金委
+61170194
+2012.1-2015.12
+项目负责人
+动态光场深度计算、编码与质量评价
+中国博士后科学基金特别资助项目
+2010.4-2011.6
+项目负责人
+动态光场中的立体图像质量评价与交互性能分析
+中国博士后科学基金二等资助项目 20090460323
+2009.7-2011.6
+项目负责人
+基于LTE本地接入增强与3D-MIMO增强技术研究
+教育部-中移动科研基金 MCM20130121
+2014.4-2015.8
+课题负责人
+面向电视机顶盒的视频超分辨率算法研究
+烽火通信科技股份有限公司
+2022.12-2023.7
+项目负责人
+自由视点场景的虚拟视点合成技术
+中兴通讯股份有限公司
+2022.7-2023.6
+项目负责人
+Cloud VR游戏与视频的KQI识别技术
+华为技术有限公司
+2021.1-2021.12
+项目负责人
+新型复眼高通量腹腔镜临床试验研究
+华中科技大学同济医学院（武汉市科技局）
+2020020601012222
+2020.8-2022.12
+课题负责人
+便携式渗漏油多光谱成像仪
+云南电网有限责任公司电力科学研究院
+2019.12-2021.6
+项目负责人
+基于多光谱技术的充油设备渗漏油检测方法研究
+云南电网有限责任公司电力科学研究院
+2019.12-2021.6
+项目负责人
+下一代国际视频编码标准
+OPPO广东移动通信有限公司
+2019.12-2020.12
+项目负责人
+基于冠状动脉粥样硬化性心脏病CTA影像诊断的人工智能研究
+武汉亚洲心脏病医院（武汉市科学技术局）
+2019020701011422
+2019.7-2021.12
+课题负责人
+机场安防视频监控系统图像清晰度评价方法与实验研究
+中国民航科学技术研究院
+2014.7-2014.12
+项目负责人
+高动态范围光场获取方法与成像算法
+空军预警学院（空天预警实验室）
+2016.9-2016.12
+项目负责人
+多深度融合感知的多视点视频联合处理与高效编码
+国家自然科学基金委
+61471178
+2015.1-2018.12
+参与深度感知理论研究
+数据驱动的多维媒体感知与理解
+国家自然科学基金重点项目 61035002
+2011.1-2013.12
+参与多维媒体质量评价方法研究
+3DTV 内容制作、编码和重构关键技术及原型系统研究
+国家863目标导向类课题 2009AA01Z327
+2009.1-2010.12
+参与3DTV内容编码关键技术研究
+终端共性技术开放式研究
+国家科技重大专项2009ZX03004 -006
+2009.1-2010.12
+参与2D转3D关键技术研究
+基于时间及视点间相关性分析的多模式多视点视频编码
+国家自然科学基金 60672073
+2007.1-2009.12
+参与多视点视频编码关键技术研究
+交互式多视点视频编码性能及绘制图像质量评价模型研究
+国家自然科学基金 60872094
+2009.1-2011.12
+参与编码性能分析与图像质量评价研究
+四、获得的科研（含教学）成果奖励
+奖项名称
+部门
+时间
+排名
+高等学校科学研究优秀成果奖技术发明奖一等奖
+立体视频获取与重建技术及装置
+教育部
+2012
+4/6
+楚天学者
+湖北省教育厅
+2015
+1
+学术新人奖
+华中科技大学
+2015
+1
+优秀本科毕业设计指导教师
+湖北省教育厅
+2014
+1
+青年教师教学竞赛二等奖、优胜奖
+华中科技大学
+2014、2015
+1
+教学成果三等奖
+江苏省高教厅
+2004
+6
+所长奖学金优秀奖
+中科院计算所
+2006
+1
+杰出贡献奖
+联合国UNITAR、中国商务部
+2015
+1
+华中学者
+华中科技大学
+2016
+1
+杰出研究与贡献奖
+韩国APSCIT协会
+2017
+1
+最具潜力审稿人
+中国图象图形学报
+2017
+1
+IET Fellow
+英国工程技术学会
+2018
+1
+第二届全国青年教师电子技术、电子线路课程竞赛中南赛区一等奖
+2018
+1
+第二届全国青年教师电子技术、电子线路课程竞赛全国二等奖
+2018
+1
+校教学质量优秀奖二等奖
+华中科技大学
+2018
+1
+校优秀班主任
+华中科技大学
+2018
+1
+第四届全国计算机类课程实验教学案例设计竞赛一等奖
+教育部计算机类专业教学指导委员会
+2019
+1/2
+校优秀班主任
+华中科技大学
+2019
+1
+华中科技大学2018～2019学年度课堂教学优质奖
+华中科技大学
+2019
+1
+Highly Commended, Outstanding Innovation in Communications and IT, E&T Innovation Awards
+(Techniques, Equipments and Platforms of Multiplexed Emergency Visual Communications for Rescue Actions in Disasters)
+英国工程技术学会
+2020
+1/6
+中国图象图形学学会技术发明二等奖
+多视点视频采集、处理与传输关键技术及装备
+中国图象图形学学会
+2021
+1/6
+感谢信
+牛津大学
+2022
+个人
+杰出贡献奖
+联合国UNITAR、中国商务部
+2022
+1
+新闻科技论文三等奖
+中国新闻技术工作者联合会
+2022
+3/3
+高等学校科学研究优秀成果奖科学技术进步二等奖
+面向灾害救援的分布式多模态视频感知与融合传输关键技术及应用
+教育部
+2022
+1/14
+IET Impact in Society Awards Finalist
+(6DoF Video Communications: From Capture to Display)
+英国工程技术学会
+2023
+1/7
+五、学术兼职
+1. SCI国际期刊编委
+OSA Continuum (2023-)、Journal of Electronic Imaging (2021-)、IEEE Access(2018-)、IET Image Processing(2018-)、PLoS ONE(2015-2022)
+2. SCI国际期刊评审
+1IEEE Transaction on Circuit System and Video Technology、2IEEE Transaction on Image Processing、3IEEE Transaction on Multimedia、4IEEE Transaction on Broadcasting、5IEEE Transactions on Systems, Man and Cybernetics: Systems、6IEEE Intelligent Systems、7IEEE Signal Processing Letters、8IEEE Transactions on Geoscience and Remote Sensing、 9IEEE Transactions on Cybernetics、10IEEE Access、11ACM Transactions on Intelligent Systems and Technology、12Applied Optics、13Optics Express、14Journal of the Optical Society of America A、15Information Sciences，16Journal of Visual Communication and Image Representation、17Neurocomputing、18Multimedia System、19Plos ONE、20Signal Processing、21Multimedia Tools and Applications、22ETRI Journal、23KSII TIIS、24The Visual Computer、25Journal of Computer Science and Technology、26Frontiers of Computer Science、27Computers & Graphics、28Signal Processing: Image Communications、29Electronic Letters 、30Ocean Engineering、31International Journal of Electronics and Communications、32Pattern Recognition Letters、33IET Computer Vision、34Journal of Healthcare Engineering、35Complexity、36Digital Signal Processing、37Imaging Science Journal、38Journal of Sensors、39IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing、40Sensor、41Display、42Instrumentation Science & Technology、43Electronics、44IEEE Transactions on Consumer Electronics、45IEEE Open Journal of Signal Processing、46Big Data and Cognitive Computing、47IEEE Geoscience and Remote Sensing Letters、48IEEE Transactions on Automation Science and Engineering
+3. 国内学术兼职
+中国图象图形学学会图象视频处理与通信专委会秘书长兼常务委员、长三角智能安防协同创新中心专家委员会委员、湖北省科技厅高端专家、河北省专网通信技术协同创新中心技术指导委员会委员、国家高端智能化家用电器创新中心核心芯片技术分委会委员
+4. 国际组织工作
+IET Innovation Awards Judge Panel Member
+六、学术成果（部分）
+期刊论文
+[1] Pei An, Junxiong Liang, Jie Ma, Yanfei Chen, Liheng Wang, You Yang, Qiong Liu; RS-Aug: Improve 3D Object Detection on LiDAR with Realistic Simulator Based Data Augmentation, IEEE Transaction on Intelligent Transportation Systems, （录用待发）
+[2] 王旭，刘琼，彭宗举，侯军辉，元辉，赵铁松，秦熠，吴科君，刘文予，杨铀；6DoF视频技术研究进展，中国图象图形学学报，2023, 28(4): （录用待发）
+[3 ] Kejun Wu, Qiong Liu, Yi Wang, and You Yang; End-to-end varifocal multiview images coding framework from data acquisition end to vision application end, Optics Express, 2023, 31(7): 11659-11679.
+[4] Rizwan Khan,You Yang, Kejun Wu, Atif Mehmood, Zahid Hussain Qaisar, Zhonglong Zheng; A High Dynamic Range Imaging Method for Short Exposure Multiview Images, Pattern Recognition, 2023, 109344.
+[5] 杨铀, 李志龙, 吴科君, 蒋小广, 向森, 刘琼；元宇宙中的交互式媒体技术, 人工智能, 2022, 5, 32-50.
+[6] 曹行健, 张志涛, 孙彦赞, 王平, 徐树公, 刘富强, 王超, 彭飞, 穆世义, 刘文予, 杨铀.面向智慧交通的图像处理与边缘计算. 中国图象图形学报, 2022. 27(6): 1743-1767.
+[7] Kejun Wu, You Yang, Qiong Liu, and Xiao-Ping Zhang, Focal Stack Image Compression based on Basis-quadtree Representation, IEEE Transactions on Multimedia, 10.1109/TMM.2022.3169055
+[8] 郑华利, 陈铁健, 徐蕾, 郭慧鑫, 杨铀. 作战辅助决策模型设计及评估方法.火力与指挥控制, 2021, 46(10): 67-72.
+[9] Sen Xiang, Li Liu, Huiping Deng, Jin Wu, You Yang, and Li Yu; Fast depth estimation with cost minimization for structured light field, Optics Express, Vol. 29, Issue 19, 2021, 30077-30093
+[10] Xiang Shi, You Yang, Qiong Liu; I Understand You: Blind 3D Human Attention Inference From the Perspective of Third-Person, IEEE Transaction on Image Processing, vol. 20, July 2021, 6212-6225.
+[11] Yumin Chen, Zhihu Hong, Dongjun Sun, Zhaoyu Peng, Nongtao Zhang, Kangshun Luo, Chong Liu, Junming Tian, Yan Qing, Chunlin Li, Mostafa Mahmoud Ibrahim, and You Yang; Color-guided optimization model with reliable self-structure priors for depth map restoration, OSA Continuum 4(7), 1964-1980 (2021) (Editor’s Pick)
+[12] Rizwan Khan, You Yang, Qiong Liu, Zahid Hussain Qaisar; A Ghostfree Contrast Enhancement Method for Multiview Images without Depth Information, Journal of Visual Communication and Image Representation, vol. 78, July 2021, 103175.
+[13] Muhammad Rizwan Khan, You Yang, Qiong Liu, Zahid Hussain Qaisar; Divide and Conquer: Ill-Light Image Enhancement via Hybrid Deep Network, Expert System with Applications, 182, 2021, 115034.
+[14] Rizwan Khan, You Yang, Qiong Liu, Jialie Shen, Bing Li; Deep Image Enhancement for Ill Light Imaging, Journal of the Optical Society of America A, vol. 38, 2021, 827-839.
+[15] Yun Zhang, Huanhua Liu, You Yang, Xiaoping Fan, Sam Kwong, C. C. Jay Kuo; Deep Learning Based Just Noticeable Difference and Perceptual Quality Prediction Models for Compressed Video, IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 3, 2022, 1197-1212.
+[16] Kejun Wu, You Yang, Qiong Liu, Xiaoping Zhang, Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images, IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 2, Feb. 2022, 523-537.
+[17] Rizwan Khan, Qiong Liu, You Yang; A Deep Hybrid Few Shot Divide and Glow Method for Ill-light Image Enhancement, IEEE Access, vol. 9, 2021, 17767-17778.
+[18] Hao Jiang, Gangyi Jiang, Mei Yu, Yun Zhang, You Yang, Zongju Peng, Fen Chen, Qingbo Zhang; Cubemap-based Perception-driven Blind Quality Assessment for 360-degree Images, IEEE Transaction on Image Processing, vol. 30, Jan. 2021, 2364-2377.
+[19] 陶晓明, 杨铀, 徐迈, 段一平, 黄丹蓝, 刘文予；面向体验质量的多媒体计算通信, 中国图象图形学报, 2021, 26(6): 1201-1215
+[20] 李继龙, 赵雪, 杨铀；交互式视频质量评价方法研究进展, 中兴通讯技术, 2021年第1期, 44-47
+[21] 李贝, 杨铀, 刘琼, 超像素条件随机场下的RGB-D视频显著性检测, 中国图象图形学报, 2021, 26(4): 872-882
+[22] Xin He, Qiong Liu, You Yang; Make Full Use of Priors: Cross-view Optimized Filter for Multi-view Depth Enhancement, ACM Transactions on Multimedia Computing Communications and Applications, Dec. 2020, 16(4), Article No. 127, pp. 1-19.
+[23] Kejun Wu, You Yang, Mei Yu, Qiong Liu; Block-wise focal stack images representation for end-to-end applications, Optics Express, Dec. 2020, 28(26), 40024-40043.
+[24] You Yang, Jingyu Yang, and Ehsan Adeli. AI-Powered 3D Vision, IET Image Processing, Vol. 14, No. 12, Oct. 2020, 2627-2629.
+[25] Yeyao Chen, Gangyi Jiang, Mei Yu, You Yang, Ho-sung Ho; Learning Stereo High Dynamic Range Imaging from A Pair of Cameras with Different Exposure Parameters, IEEE Transaction on Computational Imaging, vol. 6, Aug. 2020, 1044-1058
+[26] Siqi Chen, Qiong Liu, You Yang; Adaptive Multi-Modality Residual Network for Compression Distorted Multi-View Depth Video Enhancement, IEEE Access, vol. 8, May 2020, 97072 - 97081.
+[27] Mostafa Mahmoud Ibrahim, Qiong Liu, Rizwan Khan, Jingyu Yang, Ehsan Adeli, You Yang; Depth Map Artifacts Reduction: A Review, IET Image Processing, Vol. 14, No. 12, Oct. 2020, 2630-2644
+[28] Xin He, Qiong Liu, and You Yang; MV-GNN: Multi-view Graph Neural Network for Compression Artifacts Reduction, IEEE Transaction on Image Processing, vol. 29, 2020, 6829 - 6840.
+[29] Ye Wang, You Yang, Qiong Liu; Feature-Aware Trilateral Filter with Energy Minimization for 3D Mesh Denoising, IEEE Access, vol.8, March 2020, 52232-52244.
+[30] Mostafa Mahmoud Ibrahim, Qiong Liu, and You Yang; Adaptive colour-guided non-local means algorithm for compound noise reduction of depth maps, IET Image Processing, Vol. 14, No. 12, Oct. 2020, 2768-2779
+[31] Pei An, Qiong Liu, Firas Abedi, and You Yang; Novel Calibration Method for Camera Array in Spherical Arrangement, Signal Processing: Image Communication, vol. 80, Jan. 2020, 11568
+[32] Sen Xiang, You Yang, Huiping Deng, Jin Wu, Li Yu; Multi-anchor spatial phase unwrapping for structured light depth sensing, Optics Express, Nov. 2019, 27(3), 33488-33503.
+[33] Firas Abedi, You Yang, Qiong Liu; Group Geometric Calibration and Rectification for Circular Multi-Camera Imaging System, Optics Express, Oct. 2018, 26(23), 30596-30613.
+[34] You Yang, Qiong Liu, Xin He, and Zhen Liu; Cross-view Multi-lateral Filter for Compressed Multi-view Depth Video, IEEE Transaction on Image Processing, vol. 28, no. 1, Jan. 2019, 302-315. (ESI Highly cited Paper, 10-Sep-2019)
+[35] You Yang, Bei Li, Pian Li, and Qiong Liu; A Two-Stage Clustering Based 3D Visual Saliency Model for Dynamic Scenarios, IEEE Transactions on Multimedia, vol. 21, no. 4, April 2019, 809-820. (ESI Highly Cited Paper, 10-July-2019)
+[36] Sen Xiang, Huiping Deng, Li Yu, Jin Wu, You Yang, Qiong Liu, and Zhenwei Yuan; Hybrid profilometry using a single monochromatic multi-frequency pattern, Optics Express 25(22), 2017, 27195-27209
+[37] Ke Lu, You Yang, and Yi Zhen. Stereo Data Sensing, Computation and Perception, Neurocomputing, Vol. 215, Nov. 2016, 1-2.
+[38] You Yang, Xu Wang, Qiong Liu, Mingliang Xu, Wei Wu; User Models of Subjective Image Quality Assessment of Virtual Viewpoint in Free-viewpoint Video System, Multimedia Tools and Applications, vol. 75, no. 20, 2016, 12499-12519
+[39] You Yang, Xu Wang, Qiong Liu, Mingliang Xu, Li Yu; A bundled-optimization model of multiview dense depth map synthesis for dynamic scene reconstruction, Information Sciences, vol. 320, Nov. 2015, pp.306-319
+[40] You Yang, Qiong Liu, Hao Liu, Li Yu, Fanglin Wang; Dense depth image synthesis via energy minimization for three-dimensional video, Signal Processing, vol. 112, July 2015, pp. 199-208
+[41] Yue Gao, You Yang, Yi Zhen, Qionghai Dai, Depth Error Elimination for RGB-D Cameras, ACM Transactions on Intelligent Systems and Technology, vol. 6, no. 2, 2015, pp. 13:1-16.
+[42] Sen Xiang, Li Yu, You Yang, Qiong Liu, Jialiang Zhou; Interfered depth map recovery with texture guidance for multiple structured light depth cameras, Signal Processing: Image Communication, vol. 31, Feb. 2015, pp. 34-46
+[43] You Yang; Huiping Deng; Jin Wu; Li Yu; Depth map reconstruction and rectification through coding parameters for mobile 3D video system, Neurocomputing, 151(2), 2015, pp. 663–673
+[44] You Yang, Xu Wang, Tao Guan, Jialie Shen; Li Yu; A multi-dimensional image quality prediction model for user-generated images in social networks, Information Sciences, Vol. 281, 10 October 2014, pp: 601–610
+[45] Zengqiang Yan, Li Yu, You Yang, Qiong Liu; Beyond the interference problem: hierarchical patterns for multiple-projector structured light system, Applied Optics, Vol. 53, No. 17, June 2014, 3621-3632
+[46] You Yang, Qiong Liu, Rongrong Ji, Yue Gao; Dynamic 3D Scene Depth Reconstruction via Optical Flow Field Rectification, PLoS ONE, Nov. 2012, 7(11), e47041
+[47] You Yang, Qiong Liu, Rongrong Ji, Yue Gao; Remote Dynamic Three-Dimensional Scene Reconstruction, PLoS ONE, May 2013, 8(5), e55586
+[48] You Yang, Qionghai Dai; Contourlet Based Image Quality Assessment for Synthesized Virtual Image, IET Electronics Letters, Vol. 46, No. 7, April 2010, pp 492-494.
+[49] You Yang, Qionghai Dai, Gangyi Jiang, Yo-Sung Ho; Comparative Interactivity Analysis in Multiview Video Coding Schemes, ETRI Journal, vol. 32, no. 4, p 566-576, August 2010
+[50] Qiong Liu, You Yang, Rongrong Ji, Yue Gao, and Li Yu; Cross-View Down/Up-Sampling Method for Multiview Depth Video Coding, IEEE Signal Processing Letters, May 2012, Volume 19, Issue 5, 295- 298.
+[51] Qiong Liu, You Yang, Yue Gao, Rongrong Ji, Li Yu; A Bayesian Framework for Dense Depth Estimation Based on Spatial-temporal Correlation, Neurocomputing, vol 109, pp 1-9, March 2013
+[52] Qiong Liu, You Yang, Yue Gao, Richang Hong; Texture-Adaptive Hole-Filling Algorithm in Raster-Order for Three-Dimensional Video Applications, Neurocomputing, vol 111, pp. 154-160, April 2013
+[53] Yun Zhang, Gangyi Jiang, Mei Yu, You Yang, Zongju Peng, Ken Chen; Depth Perceptual Region-of-Interest Based Multi-view Video Coding, Journal of Visual Communication and Image Representation, Volume 21, Issues 5-6, July-August 2010, 498-512.
+[54] Zongju Peng, Mei Yu, Gangyi Jiang, Feng Shao, Yun Zhang, You Yang; Fast Macroblock Mode Selection Algorithm for Multiview Depth Video Coding, Chinese Optics Letters, vol. 8, no. 2, p 151-154, Feb. 2010
+[55] Jiang Gangyi, Yu Mei, Shao Feng, You Yang, Dong Haitao; Fast Multi-View Disparity Estimation for Multi-View Video Systems, Advanced Concepts for Intelligent Vision Systems, Lecture Notes in Computer Science, vol. 4179, p. 493-500, 2006
+[56] You Yang, Gangyi Jiang, Mei Yu, Zongju Peng; A Transmission and Interaction oriented Free-Viewpoint Video System, International Journal of Circuits, Systems and Signal Processing, Issue 4, Vol. 1, 2007, pp. 310-316.
+[57] You Yang, Gangyi Jiang, Mei Yu, Feng Shao, Yun Zhang; Semi-Reference Image Quality Metric for Virtual View Images in Free-Viewpoint Television, High Technology Letters, vol. 15, no. 4, p 394-400, December 2009
+[58] Feng Shao, Zongju Peng, You Yang; Color Correction for Multi-View Video Based on Background Segmentation and Dominant Color Extraction, WSEAS Transactions on Computers, vol. 7, no. 11, p 1838-1847, 2008
+[59] 杨铀, 郁梅, 蒋刚毅；交互式三维视频系统研究进展, 计算机辅助设计与图形学学报, 2009年, 第21卷, 第五期, 569-578
+[60] 杨铀, 蒋刚毅, 郁梅, 曹德侠, 基于随机访问的多视点视频编码评价模型, 软件学报, 2008,19(9):2313-2321.
+[61] 蒋刚毅, 王旭, 杨铀, 郁梅；基于Contourlet的质降图像质量评价模型, 光电子激光, 2009年第20卷第5期, 1658-1662,
+[62] 黄大江, 郁梅, 杨铀, 蒋刚毅, 基于相似度的立体图像对中右视点图像质量评价方法, 光子学报, 2008 年8 月, 37(8), 1693-1697.
+[63] 彭宗举, 郁梅, 蒋刚毅, 杨铀, 一种多视点视频编码的宏块模式快速选择新算法, 高技术通讯, vol.3, no. 18, 2008, 253-258.
+[64] 王旭, 彭宗举, 杨铀, 邵枫, 蒋志迪, 质降参考图像质量评价方法研究, 宁波大学学报（理工版）, vol.22, no.4, 2009
+[65] 杨铀, 薛秀谦, 段滋明；圈对完全图Ramsey数r(C4, Kn+1)的3个新下界, 中国矿业大学学报, vol. 32, no. 1, 2003, 103-105.
+[66] 杨铀, 薛秀谦；圈对完全图Ramsey数r(C4, Kn)的3个新下界, 广东工业大学学报, vol. 20, no. 1, 2003, 86-88.
+[67] 杨铀, 段滋明；求解图的最大独立集的一种算法, 电脑开发与应用, vol. 15, no. 6, 2002, 13-14.
+[68] 段滋明, 杨铀；图C4k∪Pn的优美性, 烟台大学学报 (自然科学与工程版), vol. 16, no. 2, 2003, 83-84.
+[69] Xibo Yuan, You Yang, Xinhai Zeng, Integer Programming Model for Maximum Clique in Graph, Journal of Chinese University of Mining and Technology (English Edition), vol. 15, no. 1, 2005, 77-80
+会议论文
+[1] You Yang, and Qiong Liu; Illumination Attributes Coding for Virtual Reality Broadcasting System, Data Compression Conference (DCC) 2017, April 2017, pp. 469-469
+[2] Weifeng Kong, , Qiudan Zhang, You Yang, Tiesong Zhao, Wenhui Wu, and Xu Wang; Self-Supervised Indoor 360-Degree Depth Estimation via Structural Regularization, Pacific Rim International Conference on Artificial Intelligence (PRICAI 2022), 2022, pp. 438-451.
+[3] Xinshengzi Huang, Qiong Liu, You Yang; Triple GNN: A Pedestrian-Scene-Object Joint Model for Pedestrian Trajectory Prediction, The CAAI International Conference on Artificial Intelligence (CICAI 2022), LNAI, vol. 13604, 2022, pp. 67-79.
+[4] Yongquan Su, Qiong Liu, Kejun Wu, Gangyi Jiang, and You Yang, Iterative enhancement scheme of synthesized color and depth images for immersive video system, Data Compression Conference, 2022, pp. 484
+[5] Xiaolei Luo, Sen Xiang, Yingfeng Wang, Qiong Liu, You Yang, Kejun Wu, Dedark+Detection: A Hybrid Scheme for Object Detection under Low-light Surveillance, ACM Multimedia Asia 2021, 2021, Article No. 71, pp. 1-5
+[6] Huiling Li, Qiong Liu, and You Yang; SA-GNN: Stereo Attention and Graph Neural Network for Stereo Image Super-Resolution, International Conference on Image and Graphics, August 2021, pp. 400-411
+[7] Kejun Wu, Qiong Liu, Yaguang Yin, and You Yang; Gaussian guided inter prediction for focal stack images compression, Data Compression Conference (DCC), March 2020, pp. 63-72. (EI: 19669783)
+[8] Xiangyu Sun, Qiong Liu, You Yang; Similarity Graph Convolutional Construction Network for Interactive Action Recognition, Multimedia Modeling (MMM), LNCS, vol. 11962, Jan. 2020, pp. 291-303.
+[9] Ying Wei, Changjian Zhu, You Yang, Yan Liu; A Discrete Cosine Model of Light Field Sampling for Improving Rendering Quality of Views, IEEE Video Processing and Image Communications (VCIP), Dec. 1-4, 2020, pp. 82-86.
+[10] Firas Abedi, Qiong Liu, You Yang; Multi-view high dynamic range reconstruction via gain estimation, IEEE Video Processing and Image Communications (VCIP), Dec. 1-4, 2019, pp. 1-4.
+[11] Kejun Wu, Zongbang Liao, Qiong Liu, Yaguang Yin, You Yang; A global co-saliency guided bit allocation for light field image compression, Data Compression Conference (DCC), 26-29 March, 2019, pp.608-608
+[12] Siqi Chen, Qiong Liu, You Yang; Multi-view Multi-modality Priors Residual Network of Depth Video Enhancement for Bandwidth Limited Asymmetric Coding Framework, Data Compression Conference (DCC), 26-29 March, 2019, pp. 560-560
+[13] Bei Li, Qiong Liu, Xiang Shi, You Yang; Graph-Based Saliency Fusion with Superpixel-Level Belief Propagation For 3D Fixation Prediction, IEEE International Conference on Image Processing, 2018, 2321-2325
+[14] Qiong Liu, You Yang, Pian Li, Bei Li; A Robust 3D Visual Saliency Computation Model for Human Fixation Prediction of stereoscopic videos, IEEE Video Processing and Image Communications (VCIP), Dec. 11-13, 2017, pp. 1-4.
+[15] Zhen Liu, Qiong Liu, You Yang, Yuchi Liu, Gangyi Jiang, Mei Yu; Cluster-Based Cross-view Filtering for Compressed Multi-view Depth Maps, IEEE Video Processing and Image Communications, Nov. 27-30, 2016, pp. 1-4.
+[16] You Yang, and Qiong Liu; A database of reflected irradiance field with depth for image based relighting, IEEE International Conference on Image Processing, 2015, pp. 2582-2585
+[17] You Yang, Qiong Liu, Yue Gao, Binbin Xiong, Li Yu, Huanbo Luan, Rongrong Ji, Qi Tian; Stereotime: A Wireless 2D and 3D Switchable Video Communication System, ACM Conference on Multimedia 2013, 473-474.
+[18] You Yang, Gangyi Jiang, Mei Yu, Zhu Peng; A Mathematical Model for Interaction Analysis Between Multiview Video System and User, Advances in Multimedia, Lecture Notes in Computer Science, vol. 4261, p. 375-384, 2006
+[19] You Yang, Gangyi Jiang, Mei Yu, and Dingju Zhu; Parallel Process of Hyper-Space-Based Multiview Video Compression, IEEE International Conference on Image Processing 2006 (ICIP’06), Atlanta, GA, USA, p.521-524
+[20] You Yang, Liangzhong Fan, Gangyi Jiang; Linear Prediction for Interactivity of Multiview Video Application, Advances in Multimedia, Lecture Notes in Computer Science, vol. 5879, p. 511-521, 2009
+[21] You Yang, Gangyi Jiang, Mei Yu, Fucui Li, Yong-Deak Kim; Hyper-Space Based Multiview Video Coding Scheme for Free Viewpoint Television, Picture Coding Symposium, 2006
+[22] You Yang, Gangyi Jiang, Mei Yu, Randi Fu, Yo-Sung Ho; Analysis on Transmission Performance for Multiview Video Coding Schemes, International Conference on Image and Graphics, ICIG 2007, p 92-95, 2007
+[23] You Yang, Gangyi Jiang, Zhu Peng, Mei Yu; User Interaction and Random Accessibility Analysis for Multiview Video System, IEEE International Conference on Consumer Electronics, 2008
+[24] You Yang, Mei Yu, Gangyi Jiang, Zongju Peng; A Client Driven Interactive Free-viewpoint Video System, Proceedings of the 7th WSEAS International Conference on Applied Computer and Applied Computational Science, 2008, p. 206-212.
+[25] Lianhua Li, Li Yu, Sen Xiang, You Yang; Multi-Camera Interference Cancellation of Time-Of-Flight (Tof) Cameras, IEEE International Conference on Image Processing, 2015, pp. 556-560.
+[26] Sicheng Zhao, Hongxun Yao, You Yang, Yanhao Zhang; Affective Image Retrieval via Multi-Graph Learning; ACM Conference on Multimedia, 2014, pp.1025-1028
+[27] Yue Gao, You Yang, Qionghai Dai, Naiyao Zhang; Representative Views Re-Ranking for 3D Model Retrieval with Multi-Bipartite Graph Reinforcement Model, ACM Conference on Multimedia, p. 947-950, 2010
+[28] Yue Gao, You Yang, Qionghai Dai, Naiyao Zhang; 3D Object Retrieval with Bag-of-Region-Words, ACM Conference on Multimedia, p. 955-958, 2010
+[29] Qiong Liu, You Yang, Xu Wang, Liujuan Cao; Quality Assessment on User Generated Image for Mobile Search Application, Multimedia Modeling, MMM 2013, Part II, Lecture Notes in Computer Science, vol. 7733, 1-11, 2013.
+[30] Jiahong Zhang, You Yang, Qionghai Dai; A Novel 2D-To-3D Scheme by Visual Attention and Occlusion Analysis. 3DTV conference: The True Vision - Capture, Transmission and Display of 3D Video, Antalya, Turkey, 2011
+[31] Xi Yan, You Yang, Guihua Er, Qionghai Dai; Depth Map Generation For 2D-to-3D Conversion Based on Limited User Input and Depth Propagation. 3DTV conference: The True Vision - Capture, Transmission and Display of 3D Video, Antalya, Turkey, 2011
+[32] He Renlong, Yu Mei, You Yang, Jiang Gangyi; Comparison of the Depth Quantification Method in Terms of Coding and Synthesizing Capacity In 3dtv System, International Conference on Signal Processing, p. 1279-1282, 2008
+[33] Huang Dajiang, Yu Mei, You Yang; Image Evaluation Algorithm for Right View of Stereoscopic Video, International Conference on Signal Processing Proceedings, p. 1051-1054, 2008
+[34] Wang Xu, Yu Mei, You Yang, Jiang Gangyi; Research on Subjective Stereoscopic Image Quality Assessment, The International Society for Optical Engineering, SPIE, vol. 7255, 2009
+[35] Xu Wang, Mei Yu, You Yang, and Gangyi Jiang; Influence of Low-Pass Filtering on Perceived Quality of Asymmetrically Coded Stereoscopic Images, The 2009 International Conference on Future Generation Communication and Networking, CCIS 56, p.141-148
+[36] Yun Zhang, Mei Yu, Gangyi Jiang, Zongju Peng, You Yang; Low-Complexity Region-of-Interest Extraction for Multiview Video Coding, International Congress on Image and Signal Processing, CISP'09, 2009
+[37] Feng Shao, Mei Yu, Gangyi Jiang, Zongju Peng, You Yang; New Interactive Multi-View Video Coding Method Using Color Correction, International Workshop on Education Technology and Training, 2008
+[38] Zhidi Jiang, Weiyue Liu, You Yang; Gangyi Jiang; A Scalable Video Coding Scheme for Stereo IPTV, International Symposium on Intelligent Information Technology Application, IITA 2008, vol 2, p 1069-1072, 2008
+[39] 范旭明, 郁梅, 杨铀, 蒋刚毅, 一种基于图像重组的Wyner-Ziv边信息重建方法, 第21届电路与系统学术年会, 2008年
+[40] Hongwei Ying, Gangyi Jiang, Mei Yu, Feng Shao, Zongju Peng,You Yang; New Stereo Visual Comfort Assessment Method Based on Scene Mode Classification, IEEE International Workshop on Quality of Multimedia Experience (QoMEX), 2015, 1-6.
+国际标准提案
+[1] You Yang, Gangyi Jiang, Mei Yu; Dependency Function for Analysis of Performance of Multi-view Video Coding Schemes, Joint Video Team of ISO/IEC MPEG&ITU-T VCEG, JVT-028, 25th meeting, Shenzhen, Oct. 2007, CN
+[2] Gangyi Jiang, You Yang, Mei Yu; Dependency Function for Analysis of Performance of Multi-view Video Coding Schemes, Joint Video Team of ISO/IEC MPEG&ITU-T VCEG, JVT-023, 25th meeting, Shenzhen, Oct. 2007, CN
+[3] Yongquan Su, You Yang, Kejun Wu, Li Yu, Shuai Wan; Post-processing Optimization on the Synthesized Depth Maps, MPEG-1, ISO/IEC JTC1/SC29/WG04 MPEG133/M55969, Jan. 2021
+[4] Yongquan Su, Qiong Liu, You Yang, Kejun Wu, Li Yu and Junyan Huo, [MIV] Post-processing Optimization on the Synthesized Depth Maps, ISO/IEC JTC1/SC29/WG04 MPEG134/M56670, April 2021, Online.
+[5] Xiaoguang Jiang, Qiong Liu, You Yang, Yongquan Su, Junyan Huo, A PMPI-based view synthesis method for MIV rendering, ISO/IEC JTC1/SC29/WG04 MPEG135/M57586, July 2021
+[6] Xiaoguang Jiang, Qiong Liu, You Yang, Junyan Huo, [MIV] A new 3D representation for MIV, ISO/IEC JTC1/SC29/WG04 MPEG136/M58044, Oct. 2021
+[7] Yongquan Su, Qiong Liu, You Yang, Junyan Huo, [MIV] Superpixel Number-Adaptive Scheme, ISO/IEC JTC1/SC29/WG04 MPEG137/M58764, Jan. 2022
+[8] Jiedong Ye, Jingyang Luo, Qiong Liu, You Yang, Mehrdad Teratani, Xin Jin, [LVC][DLF]Additional input to Use Cases and Requirements of Lenslet Video Coding (LVC) for Surveillance Applications, ISO/IEC JTC1/SC29/WG04 MPEG140/M61057. Oct. 2022（采纳）
+[9] Xiaoguang Jiang, Zhenxing Li, Qiong Liu, You Yang, [MIV] Lighting Inconsistency Detection and Pruning, ISO/IEC JTC1/SC29/WG04 MPEG141/M61933. Jan. 2023
+[10] Jingyang Luo, Jiedong Ye, Qiong Liu, You Yang, [LVC][DLF] Report on Temporal and Spatial Relevance for Multiview Video Coding, ISO/IEC JTC1/SC29/WG04 MPEG141/M61885. Jan. 2023
+发明专利
+[1] 刘尉悦, 蒋刚毅, 杨铀, 蒋志迪, 一种立体视频编码方法, 200810163801.4
+[2] 季向阳, 张佳宏, 曹汛, 杨铀, 戴琼海, 一种平面图像的立体转换方法及装置, 201110032208.8
+[3] 戴琼海, 杨铀, 基于图像视觉质量的视频传输方法、系统及装置, 201010227359.4
+[4] 戴琼海, 杨铀, 基于网络拥塞程度的视频传输方法、系统及装置, 201010227362.6
+[5] 戴琼海, 闫友为, 杨铀, 王好谦, 消逝点检测的平面图像立体转换深度生成方法和装置, 201010606810.3
+[6] 戴琼海, 杨铀, 视频立体转换方法, 201110276275.4
+[7] 戴琼海, 闫友为, 杨铀, 一种基于图像分类的全自动视频分割方法及装置, 201210027544.8
+[8] 石坤, 姬鑫宇, 杨铀, 获取深度图的方法及装置, 201210154466.8
+[9] 杨铀, 焦帅民, 图像空洞的填补方法和装置及视频图像的处理方法和装置, 201210084837.X
+[10] 石坤, 杨铀, 图像分割的方法与装置, 201210054179.X
+[11] 杨铀, 朱光喜, 面向互联网应用3D视频/图像生成方法, 201511028125.6
+[12] 朱光喜, 喻西香, 朱山, 杨铀, 360°多视点3D全息视频采集方法、设备及实现方法, 201610185654.5
+[13] 杨铀, 朱光喜, 基于流媒体的3D视频显示与交互方法及装置, 201610327098.0
+[14] 李小明, 杨铀, 喻西香, 朱光喜, 一种人脸区域滤波方法基于异构平台的计算优化方法, 201510989202.8
+[15] 李小明, 杨铀, 喻西香, 朱光喜, 一种提取前景目标方法基于异构平台的计算优化方法, 201510989300.1
+[16] 杨铀, 于国星, 喻莉, 陈小平, 曾先敏, 一种利用深度图进行图像绘制方法, 201410092452.7
+[17] 杨铀, 于国星, 喻莉, 陈小平, 一种深度图后处理滤波的方法, 201410092432.X
+[18] 刘琼, 杨铀, 喻莉, 吴伟民, 高跃, 于国星, 基于视觉特征的视频指纹检测及视频序列匹配方法及系统, 201310608893.3
+[19] 喻莉, 李旭, 杨铀, 钟刚, 刘琼, 一种深度图上采样边缘增强方法, 201310688388.4
+[20] 杨铀, 万凯, 刘琼, 视频的校正方法及装置, 201610030971.X
+[21] 刘琼, 贺昕, 杨铀, 喻莉, 一种基于视点一致性的多视点压缩深度视频增强方法, 201810646992.3
+[22] 刘琼, 李翩, 杨铀, 图像的显著性检测方法、装置、存储介质和处理器, 201710539098.1
+[23] 刘琼, 程驰, 杨铀, 喻莉, 手势特征识别方法和装置, 201610559968.7
+[24] 刘琼, 程驰, 杨铀, 行为识别方法、装置、存储介质和处理器, 201710678995.0
+[25] 刘琼, 华婉钰, 杨铀, 喻莉；全景视频浓缩的方法、装置、设备及存储介质, 201910648517.4
+[26] 刘琼, 袁振威, 杨铀, 结构光深度数据空间分辨率的提升方法及装置, 201810393688.2
+[27] 刘琼, 李贝, 杨铀, 喻莉, 一种基于图的3D注视点预测的显著性融合方法, 201810643503.9
+[28] 杨铀, 吴科君, 刘琼；一种光场焦点堆栈图像序列编、解码方法、装置及系统, 201911234746.8
+[29] 杨铀, 熊若非, 刘琼; 一种基于金字塔注意力的场景识别方法、训练方法及装置, 2021113729039
+[30] 杨铀, 阚倩, 黄馨圣子, 刘琼; 一种基于多交互时空图网络的行人轨迹预测方法和系统, 2021113246141
+[31] 杨铀, 吴科君, 刘琼；图像处理方法、装置及设备, 202010934179.3
+[32] 刘琼, 张军, 杨铀； 一种点云重建方法、装置、设备及介质, 202111444030.8
+[33] 刘琼, 杨铀, 石翔；注视点预测方法及装置, 201910328525.0
+[34] 刘琼, 熊若非, 杨铀；场景识别方法、训练方法、装置、电子设备及程序产品, 202110584515.0
+[35] 杨铀, 刘琼, 李贝；图像中物体的检测方法、装置及系统, 201911048196.0
+[36] 杨铀, 刘开彦, 刘琼；内窥镜成像方法及装置, 201910944889.1
+[37] 刘琼, 梁子澜, 杨铀；家具布局及三维可视化方法、装置和设备, 202110583487.0
+[38] 刘琼, 黄馨圣子, 杨铀；行人轨迹预测方法、装置、设备及存储介质, 202110466638.4
+[39] 杨铀, 于瑞泽, 刘琼；图像融合方法及装置, 202110074813.5
+[40] 刘琼, 张军, 杨铀；三维重建方法、装置、设备及存储介质, 202110468194.8
+[41] 杨铀, 陈铁健, 刘琼；显微图像校正方法、装置、设备、存储介质及产品, 202110068051.8
+[42] 杨铀, 陈铁健, 刘琼；多分辨率图像融合方法、装置、设备、介质及产品, 202110068890.X
+[43] 林宁, 王吉星, 杨铀, 曹雪松, 刘琼, 徐淑珍, 于瑞泽, 匡胜贵, 童玲；基于多重空间图和时间融合的行人轨迹预测方法及装置, 202111366488.6
+[44] 杨铀, 吕锐, 曹雪松, 刘琼, 徐淑珍, 林宁, 于瑞泽, 匡胜贵, 童玲；基于图神经网络的双目图像超分辨率方法及装置, 202111366822.8
+[45] 道炜, 杨铀, 曹雪松, 刘琼, 徐淑珍, 于小雅, 匡胜贵, 童玲, 官静, 谢志岳；危化品泄露源定位方法、装置、设备及介质, 202111136042.4
+美国专利
+[1] Qiong Liu, Jun Zhang, You Yang; Point Cloud Reconstruction Method and Apparatus Based on Pyramid Transformer, Device and Medium, （20220905授权）
+[2] You Yang, Qian Kan, Xinshengzi Huang, Qiong Liu; Pedestrian Trajectory Prediction Method and System Based on Multi-interaction Spatio-temporal Graph Network, （20220806授权）
+[3] You Yang, Ruofei Xiong, Qiong Liu; Scene Reconstruction Method, Training Method and Device Based on Pyramid Attention, （20220806授权）
+国际PCT专利
+[1]杨铀, 苏永全, 刘琼, 吴科君, 陈泽；视点生成中深度图优化, PCT/CN2020/135779（WO2022120809A1）
+[2]杨铀, 苏永全, 刘琼, 吴科君, 张芮晨；在深度图上采用超像素分割对视点生成中深度图优化, PCT/CN2020/141508（WO2022141222A1）
+[3]杨铀, 苏永全, 刘琼, 吴科君；超像素数目自适应技术, PCT/CN2021/093952
+[4]杨铀, 蒋小广, 刘琼；深度自适应分块多平面图像, PCT/CN2021/103233
+[5]杨铀, 蒋小广, 刘琼；基于分块多平面图像与基函数的场景新视角渲染模型, PCT/CN2021/103290
+软件著作权
+[1] 杨铀，廖宗榜，刘琼；应急救援终端视频通信，2019SR0927777（软著登字第4348534号），中华人民共和国国家版权局，2019年9月5日
+[2] 刘琼，许莹，杨铀；无GPS应急室内复杂地形可视定位与导航软件V1.0，2020SR0764762（软著登字第5643458），中华人民共和国国家版权局，2020年7月13日
+[3] 刘琼，杨铀，于小雅; 危化品泄漏源定位机器人系统V1.0, 2021SR0979640, 中华人民共和国国家版权局，2020年7月2日
+[4] 杨铀，刘琼，梁子澜; 室内智能化设计软件V1.0, 2021SR0537259, 中华人民共和国国家版权局，2021年4月14日
+[5] 杨铀，刘琼，于瑞泽; 电力设备渗漏油检测与可视化软件V1.0, 2021SR0453569, 中华人民共和国国家版权局，2021年3月25日
+[6] 杨铀，刘琼，刘开彦; 冠状动脉CTA造影分割与三维交互显示软件V1.0, 2021SR0453570, 中华人民共和国国家版权局，2021年3月25日
+(launched
+on Oct. 20, 2016, last updated on March. 23, 2023)

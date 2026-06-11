@@ -1,0 +1,55 @@
+﻿
+王非
+电子信息与通信学院
+副教授
+个人简介
+王非，男，博士，华中科技大学电子信息与通信学院副教授。2008年获得华中科技大学电子与信息工程系博士学位。多年来一直从事通信与信息系统，海量时间序列数据采集、存储与处理的教学与科研工作。期间，主持和参与2项国家自然科学基金项目（“基于群学习的移动垃圾语音过滤模型研究”）；参与了多项国家重大项目（“新一代宽带无线移动通信网”国家科技重大专项——宽带移动业务关键技术开放式研究）等课题的研究。此外，主持和参与了多项同国际、国内优势科研机构和通信企业的联合科研工作。发表相关学术论文20余篇，其中SCI检索4篇，EI检索20余篇，申请国家发明专利30余项，授权20项，申请软件著作权7项。目前，主要的研究工作集中在基于深度学习的智能电表数据的分析与应用，对深度半监督、弱监督、小样本学习等深度学习热点领域展开研究与应用。
+教育与工作经历
+2010/11-至今，华中科技大学，电子信息与通信学院，副教授
+2004/11–2010/10，华中科技大学，电子与信息工程系，讲师
+1999/07–2004/10，华中科技大学，电子与信息工程系，助教
+主要科研项目
+1、 国网江苏电力公司，基于深度对抗学习的大用户异常用电诊断关键技术研究，2019/7至2020/12，39万元
+2、 国网湖南电力公司，基于深度学习的变电站计量装置运行状态智能监测与预警研究，2019/9至2020/12，20万元
+3、国家自然科学基金青年基金项目，61001070，基于群学习的移动垃圾语音过滤模型研究，2011/01-2013/12，23万元
+4、 国网山东电力公司，智能表计量稳定性及故障诊断技术研究，2017/12至2018/10，23万元
+5、 广州南方电力集团科技发展有限公司，用电行为智能分析模型研究与算法开发，2016/12-2017/10，50万元
+6、 广州南方电力集团科技发展有限公司，电力需求侧管理与交易决策系统预研，2015/12-2016/10，50万元
+7、 广州南方电力集团科技发展有限公司，面向城市照明监控的数据分析系统研发，2014/11-2015/09，50万元
+邮箱
+wangfei@hust.edu.cn
+著作
+期刊论文
+[1] Qian Wu and Fei Wang. Concatenate Convolutional Neural Networks for
+Non-Intrusive Load Monitoring across Complex Background. Energies 2019, 12,
+1572.
+[2] J. Fei Wang(*), Furong Wang, Benxiong Huang, Laurence T. Yang. SONR
+A Reliable Reputation System of Self-Organized Network, Journal of Network
+and Computer Applications, 2012,35(3):914-926
+[3] Fei Wang (*), Furong Wang, Benxiong Huang, Laurence T. Yang. ADVS
+A Reputation Based Model on Filtering SPIT over P2P-VoIP Networks, Journal of
+Supercomputing, 2013,64(3): 744-761
+[4] Fei Wang(*), Furong Wang, Benxiong Huang, Laurence T. Yang. COSR
+a reputation-based secure route protocol in MANET. EURASIP Journal on
+Wireless Communications and Networking, 2010,2010(1): 258935-1-258935-10
+会议论文
+[1] Fei Wang(*), Kexing Yan, Min Feng, A Speaker Recognition based
+Approach for Identifying Voice Spammer, International Conference of WISM
+2012,Chengdu, P.R. China, 2012.10.26-12.28
+[2] Fei Wang(*), Kexing Yan, Min Feng, Reputation Model Based on
+Trusted Group and Interaction Scene, The 8th International Conference on
+Wireless Communications, Networking and Mobile Computing, Shanghai, P.R.
+China，2012.09.21-09.23
+[3] Lei Deng, Fei Wang(*), Benxiong Huang, Probabilistic Threshold Join over
+Distributed Uncertain Data, The 12th International Conference of Web-Age
+Information Management, Wuhan,P.R. China,2011.09.14-09.16
+[4] Fei Wang, Mingqing Liao. A Map-Reduce based Fast Speaker
+Recognition. The 9th International Conference on Information, Communications
+and Signal Processing (ICICS 2013), Tainan.
+[5] Fei Wang、 KeXing Yan、 Min Feng. Speaker
+Recognition based User Authentication in Ubiquitous Environment. The 7th
+International Conference on Ubiquitous Information TEchnologies &
+Applications, 2012, Hongkong.
+教学课程
+本科生课程：《概率论与数理统计》、《随机过程》
+研究生课程：《通信专题讲座》

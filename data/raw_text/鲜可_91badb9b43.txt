@@ -1,0 +1,92 @@
+华中科技大学主页平台管理系统 鲜可--中文主页--首页
+English
+首页
+科学研究
+研究领域
+论文成果
+专利
+著作成果
+科研项目
+教学研究
+教学资源
+授课信息
+教学成果
+获奖信息
+招生信息
+学生信息
+我的相册
+教师博客
+教师个人主页
+EN
+首页
+科学研究
+研究领域
+论文成果
+专利
+著作成果
+科研项目
+教学研究
+教学资源
+授课信息
+教学成果
+获奖信息
+招生信息
+学生信息
+我的相册
+教师博客
+鲜可
+副教授
+硕士生导师
+个人信息
+更多+
+性别： 男
+在职信息： 在职
+所在单位： 电子信息与通信学院
+学历： 研究生(博士)毕业
+学位： 工学博士学位
+其他联系方式
+邮编：a0fc59827cd5338899f331d531f5915207cec030baf2f2bc95b85d55e22539f42a98bb0b6180e50e96c12627bf5637cc76c314d84a2bee4aaec92b9a58b4852a38c92e3c8538528e6417166e5e118d3711a39d6aea4a45ebe35bbcbb2ed73f85bd96d7888f64422ff979af4b9d4a88c37f69d082332eea079fc9de5db468d91a
+个人简介
+鲜可，华中科技大学电子信息与通信学院副教授，硕士生导师，入选国家海外引才专项（2024）、华中科技大学小米青年学者（2024）。本科和博士均毕业于华中科技大学人工智能与自动化学院，师从曹治国教授。16年8月至17年9月在澳大利亚阿德莱德大学沈春华教授团队访学，19年3月至19年6月受邀在美国Adobe研究院实习。21年10月至23年11月，在新加坡南洋理工大学从事博士后研究工作。研究方向是计算机视觉和计算摄影学，近年来研究兴趣主要包括鲁棒深度估计、景深渲染、图像视频3D生成和编辑、说话数字人、具身智能等。截至2025年12月，在计算机视觉相关领域已发表论文60余篇，其中以第一/通讯作者在TPAMI/IJCV以及CVPR/ICCV等本领域国际权威期刊和顶...
+查看更多>
+教育经历 查看更多
+2016.8~2017.9
+阿德莱德大学
+计算机科学
+访问学生
+2014.9~2021.6
+华中科技大学
+模式识别与智能系统
+研究生(博士)毕业
+2010.9~2014.6
+华中科技大学
+模式识别与智能系统
+本科(学士)
+工作经历
+2019.3~2019.6
+Adobe Research
+2021.10~2023.11
+新加坡南洋理工大学
+论文成果
+专利成果
+著作成果
+Yiran Wang,Min Shi,Jiaqi Li,Chaoyi Hong,Zihao Huang,Juewen Peng,Zhiguo Cao,Jianming Zhang,Guosheng Lin.Ke Xian.NVDS+: Towards Efficient and Versatile Neural Stabilizer for Video Depth Estimation.[J].IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI),2024,
+Ke Xian,Zhiguo Cao,Chunhua Shen.Guosheng Lin.Towards Robust Monocular Depth Estimation: A New Baseline and Benchmark.[J].International Journal of Computer Vision (IJCV),2024,
+Ke Xian,Juewen Peng,Zhiguo Cao,Jianming Zhang.Guosheng Lin.ViTA: Video Transformer Adaptor for Robust Video Depth Estimation.[J].IEEE Transactions on Multimedia (T-MM),2023,
+Yiran Wang,Min Shi,Jiaqi Li,Zihao Huang,Zhiguo Cao,Jianming Zhang,Guosheng Lin.Ke Xian.Neural Video Depth Stabilizer.ICCV 2023,
+Liao Shen,Xingyi Li,Huiqiang Sun,Juewen Peng,Zhiguo Cao,Guosheng Lin.Ke Xian.Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image.ACM MM 2023,2023,8167-8175
+Xingyi Li,Zhiguo Cao,Huiqiang Sun,Jianming Zhang,Guosheng Lin.Ke Xian.3D Cinemagraphy from a Single Image.CVPR 2023,2023,4595-4605
+查看更多>
+暂无内容
+暂无内容
+社会兼职
+暂无内容
+研究方向
+暂无内容
+团队成员
+暂无内容
+同专业硕导
+总访问量
+今日访问量
+月访问量
+地址：湖北省武汉市洪山区珞喻路1037号 邮政编码：430074

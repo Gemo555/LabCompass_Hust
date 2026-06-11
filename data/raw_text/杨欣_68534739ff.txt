@@ -1,0 +1,39 @@
+姓名:XX
+杨欣
+电子与信息工程系教授
+个人简介
+杨欣，女，华中科技大学电信学院教授，国家优青获得者；博士毕业于加州大学圣塔芭芭拉分校，主要从事计算机视觉和医学影像智能分析领域研究工作，已在国际权威期刊及学术会议上发表学术论文90余篇，授权美国/中国发明专利20余项，出版英文书籍章节2部；获得中国图象图形学会石青云女科学家奖；担任SCI期刊IEEE-TMI及Multimedia
+System编委及ACM MM2018和MICCAI2019-2021领域主席；现任IEEE Bio Imaging Signal Processing
+(BISP)Technical Committee (TC)技术委员会委员，CSIG青工委副秘书长，CCF多媒体专委会副秘书长等。
+个人网站
+https://sites.google.com/view/xinyang/home
+个人邮箱
+xinyang2014@hust.edu.cn
+代表性论文
+• Junlin Xian, Xiang Li, Dandan Tu, Senhua Zhu, Changzheng Zhang,
+Xiaowu Liu, Xin Li, Xin Yang*, Unsupervised Cross-modality Adaptation via
+Dual Structural-Oriented Guidance for 3D Medical Image Segmentation, IEEE Trans. on Medical Imaging (TMI), 2023
+•
+Cheng Chi, Tianyu Hao, Qingjie Wang, Peng Guo, Xin
+Yang*, Subspace-PnP: A Geometric Constraint Loss for Mutual Assistance of
+Depth and Optical Flow Estimation, Int’l Journal
+of Computer Vision (IJCV), 2022
+• Huang
+C., Dang Y.J., Chen P., Yang X*, Cheng K.T, One-Shot Imitation Drone Filming
+of Human Motion Videos, IEEE Trans. on Pattern
+Analysis and Machine Intelligence (TPAMI), 2021
+• Chen J.Y.#, Yang X.*#, Jia Q.Z., Liao C.Y., DENAO: Monocular
+Depth Estimation Network with Auxiliary Optical Flow, IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI),
+2020
+• Yang X.*, Cheng K.-T., Local Difference Binary for Ultra-fast
+and Distinctive Feature Description, IEEE Trans.
+on Pattern Recognition and Machine Intelligence (TPAMI), 2014.
+主要奖励或荣誉
+• 国家自然科学基金优秀青年基金
+• 中国图象图形学会石青云女科学家奖
+• ISMAR2012最佳论文提名
+• ACM武汉新星奖
+承担课程
+• 计算机程序设计基础C
+• 多媒体检索
+• 图像分析与理解

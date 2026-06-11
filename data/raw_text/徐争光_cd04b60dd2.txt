@@ -1,0 +1,30 @@
+﻿
+姓名:XX
+徐争光
+电子信息与通信学院副教授
+个人简介
+徐争光，男，博士，华中科技大学电子信息与通信学院副教授。2004年本科毕业于华中科技大学电信系提高班，2006年和2009年获得华中科技大学硕士和博士学位，毕业后留校工作。主持国家自然科学基金、国家科技支撑计划等课题，国内外期刊会议发表论文30余篇。主要研究方向包括软件无线电、通信信号分析。
+个人网站
+无
+个人邮箱
+xray@hust.edu.cn
+代表性论文
+• Zhengguang Xu, Yongbiao Xie. Channel
+capacity analysis for dirty paper coding with the binary codeword and
+interference. IEEE Communications Letters, 2018, 22(12): 2411-2414.
+• Zhengguang Xu, Wenjing Yuan. Watermark BER and channel
+capacity analysis for QPSK-based RF watermarking by constellation dithering
+in AWGN channel. IEEE Signal Processing Letters 2017, 24(7): 1068-1072.
+• Zhengguang Xu, Tianqi Lu, Benxiong Huang. Fast Frequency
+Estimation Algorithm by Least Squares Phase Unwrapping. IEEE Signal
+Processing Letters, 2016, 23(6): 776-779.
+• Zhengguang Xu, Chenghuan Ao, Benxiong Huang. Channel Capacity
+Analysis of the Multiple Orthogonal Sequence Spread Spectrum Watermarking in
+Audio Signals. IEEE Signal Processing Letters, 2016, 23(1): 20-24.
+科研项目
+国家自然科学基金青年基金项目“通信信号中的隐蔽信息传输机理研究”(2016-2018)
+主要奖励或荣誉
+• 2017-2018学年度华中科技大学课堂教学优质奖
+承担课程
+• 通信原理
+• 电子线路设计、测试与实验

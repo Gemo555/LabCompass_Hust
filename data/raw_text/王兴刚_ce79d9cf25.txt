@@ -1,0 +1,81 @@
+华中科技大学主页平台管理系统 王兴刚--王兴刚-华中科技大学教师主页--首页
+华中科技大学
+English
+首页
+科学研究
+研究领域
+论文成果
+专利
+著作成果
+科研项目
+教学研究
+教学资源
+授课信息
+教学成果
+获奖信息
+招生信息
+学生信息
+我的相册
+教师博客
+王兴刚
+个人信息Personal Information
+教授
+博士生导师
+硕士生导师
+性别：男
+在职信息：在职
+所在单位：电子信息与通信学院
+学历：研究生(博士)毕业
+学位：工学博士学位
+毕业院校：华中科技大学
+学科：通信与信息系统
+信号与信息处理
+其他联系方式Other Contact Information
+邮编 : a0fc59827cd5338899f331d531f5915207cec030baf2f2bc95b85d55e22539f42a98bb0b6180e50e96c12627bf5637cc76c314d84a2bee4aaec92b9a58b4852a38c92e3c8538528e6417166e5e118d3711a39d6aea4a45ebe35bbcbb2ed73f85bd96d7888f64422ff979af4b9d4a88c37f69d082332eea079fc9de5db468d91a
+通讯/办公地址 : bb3e632e23dc03549048c8eb7586d814067963d2d9aa56324fedb75f704e9156e874737706ac9f011324f06d36a0d2b21e8971fa63290516f65701730e64403a12bb9412e80187c5876453f2286ff767fde0e4fc714839cb6333e5f85061563e2e8bb1ae3506251efc2b1cc72940975bd34de15fc37018bc351a81a3dd56f4b7
+邮箱 : 003a2ffff10d4f5b5400351daa8ce03838859fd0c04e7e0c61956eb7f66bf5e5e60fad6a2cdf20cc10261d51143db53dbf8587ccafa08503295796614abbff218df0762612d6589730df2a349ea746a22139bae8d68a896b97092a305f00dd99dd434bdd100fcedc1d6022d8d1343dd59f84e54e541c3ebbd702537054fab1aa
+同专业博导
+同专业硕导
+个人简介Personal Profile
+王兴刚，华中科技大学电信学院教授博导，国家“万人计划”青年拔尖人才，现任Image and Vision Computing期刊（Elsevier, IF 4.2）共同主编。分别于2009年和2014年在华中科技大学获得了本科和博士学位，期间在美国UCLA和天普大学访问研究。
+主要从事计算机视觉、深度学习、多模态基础模型、视觉表征学习、目标检测分割跟踪、自动驾驶等领域研究，在IEEE TPAMI、IJCV、CVPR、ICCV、NeurIPS等顶级期刊会议发表学术论文60余篇，谷歌学术引用4万余次，其中一作/通讯1000+引用论文6篇，入选Elsevier中国高被引学者、斯坦福前2%科学家。研究成果应用于地平线征程系列芯片、华为海思昇腾芯片、Deepmind蛋白质结构预测模型AlphaFold；获得了华为、vivo等公司优秀合作项目奖。
+担任CVPR,、ICCV、NeurIPS等顶级会议领域主席，IEEE TPAMI、Machine Vision and Application等期刊编委。入选了中国科协青年人才托举工程，获湖北青年五四奖章、CSIG青年科学家奖、吴文俊人工智能优秀青年奖、CVMJ 2021年度最佳论文奖、MIR期刊年度最高引用论文奖、湖北省自然科学二等奖等，指导学生获2022年全国“互联网+”大赛金奖、2023年挑战杯“揭榜挂帅”专项赛全国一等奖。
+实验室主页：https://github.com/hustvl & https://xwcv.github.io
+教育经历Education Background
+工作经历Work Experience
+2009.9
+2014.12
+华中科技大学
+工学博士学位
+研究生(博士)毕业
+2005.9
+2009.6
+华中科技大学
+工学学士学位
+本科(学士)
+暂无内容
+研究方向Research Focus
+社会兼职Social Affiliations
+目标检测分割与跟踪
+自动驾驶
+视觉表征学习
+多模态基础模型
+计算机视觉
+以下期刊、会议的审稿人: IEEE TPAMI, JMLR, Pattern Recognition, IEEE T. Cybernetics, IEEE TIP, IEEE TMM, IEEE TCSVT, IVC, IEEE TITS, CVIU, Neurocomputing, NeurIPS, ICDM, ICCV, ECCV, CVPR, ICME, ICIP, ICPR, AISTATS, ICML, ICLR.
+2021.5
+至今
+Electronics (Artificial Intelligence Section , IF 2.412)期刊编委
+2020.4
+至今
+Image and Vision Computing (IMAVIS, IF 3.103)期刊编委
+2021.2
+至今
+Pattern Recognition (PR, IF 7.196)期刊编委
+中国图象图形学学会，图像视频通信专委会，委员
+中国人工智能，模式识别专委会，委员
+中国图象图形学学会，机器视觉专委会，委员
+地址：湖北省武汉市洪山区珞喻路1037号 邮政编码：430074
+手机版
+访问量：次
+开通时间： ..
+最后更新时间： ..

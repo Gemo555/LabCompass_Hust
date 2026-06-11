@@ -1,0 +1,425 @@
+﻿
+刘文予
+Wenyu Liu（刘文予）
+华中科技大学电子信息与通信学院人工智能研究所所长、教授、博士生导师。
+Email：liuwy@hust.edu.cn
+通信地址：湖北省武汉市洪山区珞瑜路1037号 华中科技大学 电子信息与通信学院
+办公地点：华中科技大学主校区南一楼 E428
+研究方向
+人工智能、机器学习、计算机视觉、机器人等
+主讲课程
+“数据结构”
+本科生
+“软件课程设计”
+本科生
+“视觉计算”
+博士生
+社会兼职
+中国图象图形学会常务理事
+中国图象图形学会图象视频处理与通信专业委员会副主任委员
+中国自动化学会模式识别与机器智能专业委员会委员
+中国人工智能学会模式识别专业委员会委员
+中国通信学会通信理论与信号处理专业委员会委员
+中国电子教育学会研究生教育分会常务理事
+科研项目
+主持完成8项国家自然科学基金，正在承担国家自然科学基金重点项目“面向网络信息安全的图像视频中的文字语义理解理论与方法”、国家重点研发计划等纵向项目，与多家知名企业建立联合实验室，承担华为、腾讯、平安保险等横向项目。
+近几年代表性期刊论文
+SCI期刊论文
+[1]Mengting Chen, Xinggang Wang, Bin Feng, Wenyu Liu: Structured random forest for
+label distribution learning. Neurocomputing 320: 171-182(2018)
+[2]Yuan Li, Xinggang Wang, Wenyu Liu, Bin Feng: Deep attention
+network for joint hand gesture localization and recognition using static RGB-D
+images. Inf. Sci. 441: 66-78 (2018)
+[3]Chao Li, Xinggang Wang, Wenyu Liu, Longin Jan Latecki
+DeepMitosis: Mitosis detection via deep detection,
+verification and segmentation networks. Medical Image Analysis 45: 121-133
+(2018)
+[4]Xinggang Wang, Yongluan Yan, Peng Tang, Xiang Bai, Wenyu Liu: Revisiting multiple instance
+neural networks. Pattern
+Recognition 74: 15-24 (2018)
+[5]Yingying Zhu, Minghui Liao, Mingkun Yang, Wenyu Liu: Cascaded Segmentation-Detection
+Networks for Text-Based Traffic Sign Detection. IEEE Trans.
+Intelligent Transportation Systems 19(1): 209-219 (2018)
+[6]Baoguang Shi, Xiang Bai, Wenyu Liu, Jingdong Wang
+Face Alignment With Deep Regression. IEEE Trans. Neural
+Netw. Learning Syst. 29(1): 183-194(2018)
+[7]Chao Li, Xinggang Wang, Wenyu Liu: Neural features for
+pedestrian detection. Neurocomputing 238: 420-432 (2017)
+[8]Peng Tang, Jin Zhang, Xinggang Wang, Bin Feng, Fabio Roli, Wenyu Liu: Learning extremely shared
+middle-level image representation for scene classification. Knowl. Inf.
+Syst. 52(2): 509-530 (2017)
+[9]Sihua Yi, Wenyu Liu: Multiscale salient
+region-based visual tracking. Mach. Vis. Appl. 28(3-4): 327-339 (2017)
+[10]Peng Tang, Xinggang Wang, Zilong Huang, Xiang Bai, Wenyu Liu: Deep patch
+learning for weakly supervised object classification and discovery. Pattern Recognition71: 446-459 (2017)
+[11]Jiaoyan Chen, Bang Wang, Wenyu Liu, Laurence T. Yang, Xianjun Deng
+Rotating Directional Sensors to Mend Barrier Gaps in a Line-Based Deployed
+Directional Sensor Network. IEEE Systems
+Journal 11(2): 1027-1038 (2017)
+[12]Bang Wang, Qiao Kong, Wenyu Liu, Laurence T. Yang: On
+Efficient Utilization of Green Energy in Heterogeneous Cellular Networks. IEEE Systems Journal11(2): 846-857 (2017)
+[13]Bin Feng, Fangzi He, Xinggang Wang, Yongjiang Wu, Hao Wang, Sihua Yi, Wenyu Liu: Depth-Projection-Map-Based
+Bag of Contour Fragments for Robust Hand Gesture Recognition. IEEE Trans.
+Human-Machine Systems 47(4): 511-523 (2017)
+[14]Peng Tang, Xinggang Wang, Bin Feng, Wenyu Liu: Learning
+Multi-Instance Deep Discriminative Patterns for Image Classification. IEEE Trans. Image
+Processing 26(7): 3385-3396 (2017)
+[15]Yu Zhou, Xiang Bai, Wenyu Liu, Longin Jan Latecki: Similarity
+Fusion for Visual Tracking. International
+Journal of Computer Vision 118(3): 337-363 (2016)
+[16]Sihua Yi, Nan Jiang, Xinggang Wang, Wenyu Liu: Individual adaptive
+metric learning for visual tracking. Neurocomputing 191: 273-285 (2016)
+[17]Yingying Zhu, Chengquan Zhang, Duoyou Zhou, Xinggang Wang, Xiang Bai, Wenyu Liu: Traffic
+sign detection and recognition using fully convolutional network guided
+proposals. Neurocomputing 214: 758-766 (2016)
+[18]Juntao Liu, Chenhong Sui, Dewei Deng, Junwei Wang, Bin Feng, Wenyu Liu, Caihua Wu
+Representing conditional preference by boosted regression trees for
+recommendation. Inf. Sci. 327: 1-20 (2016)
+[19]Yang Wang, Xinggang Wang, Wenyu Liu: Unsupervised local deep
+feature for image recognition. Inf. Sci. 351: 67-75 (2016)
+[20]Sihua Yi, Nan Jiang, Bin Feng, Xinggang Wang, Wenyu Liu: Online similarity
+learning for visual tracking. Inf.
+Sci. 364-365: 33-50 (2016)
+[21]Caihua Wu, Junwei Wang, Juntao Liu, Wenyu Liu: Recurrent neural network
+based recommendation for time heterogeneous feedback. Knowl.-Based
+Syst. 109: 90-103 (2016)
+[22]Xin Yang, Hung Le Minh, Kwang-Ting (Tim) Cheng, Kyung Hyun Sung, Wenyu Liu: Renal compartment
+segmentation in DCE-MRI images. Medical Image
+Analysis 32: 269-280 (2016)
+[23]Bang Wang, Jiaoyan Chen, Wenyu Liu, Laurence T. Yang: Minimum
+Cost Placement of Bistatic Radar Sensors for Belt Barrier Coverage. IEEE Trans.
+Computers 65(2): 577-588 (2016)
+[24]Xiang Bai, Cong Yao, Wenyu Liu: Strokelets
+A Learned Multi-Scale Mid-Level Representation for Scene Text Recognition. IEEE Trans. Image Processing
+25(6): 2789-2802 (2016)
+[25]Song Bai, Xiang Bai, Wenyu Liu: Multiple
+Stage Residual Model for Image Classification and Vector Compression. IEEE Trans.
+Multimedia 18(7): 1351-1362 (2016)
+[26]Chen Tian, Yi Wang, Yan Luo, Hongbo Jiang, Wenyu Liu, Jie Wu, Hao Yin: Minimizing Content Reorganization
+and Tolerating Imperfect Workload Prediction for Cloud-Based Video-on-Demand
+Services. IEEE Trans.
+Services Computing 9(6): 926-939 (2016)
+[27]Wenyu Liu, Caihua Wu, Bin Feng, Juntao Liu: Conditional
+preference in recommender systems. Expert Syst. &
+Appl. 42(2): 774-788 (2015)
+[28]Bang
+Wang, Shengliang Zhou, Wenyu Liu, Yijun Mo: Indoor Localization based
+on Curve Fitting and Location Search Using Received Signal Strength. IEEE
+Transactions on Industrial Electronics, 62(1): 572-582（2015）
+[29]Xianjun Deng, Bang Wang, Wenyu Liu, Laurence T. Yang: Sensor
+Scheduling for Multi-Modal Confident Information Coverage in Sensor
+Networks. IEEE Trans. Parallel Distrib. Syst. 26(3): 902-913(2015)
+[30]Bang Wang, Han Xu, Wenyu Liu, Laurence T. Yang:The Optimal
+Node Placement for Long Belt Coverage in Wireless Networks. IEEE Trans. Computers 64(2): 587-592 (2015)
+[31]Zhongyuan Lai,
+Zhe Wang, Zhen Zuo, Zhijun Yao, Wenyu Liu: B-spline-based shape coding with
+accurate distortion measurement using analytical model. Neurocomputing 149: 1631-1646
+(2015)
+[32]Juntao Liu,
+Caihua Wu, Yi Xiong, Wenyu Liu: List-wise probabilistic matrix
+factorization for recommendation. Information Science. 278
+434-447 (2014)
+[33]Xinggang Wang,
+Zhengdong Zhang, Yi Ma, Xiang Bai, Wenyu Liu, Zhuowen Tu: Robust Subspace Discovery via
+Relaxed Rank Minimization. Neural Computation 26(3)
+611-635 (2014)
+[34]Xinggang Wang,
+Bin Feng, Xiang Bai, Wenyu Liu, Longin Jan Latecki: Bag of
+contour fragments for robust shape classification. Pattern Recognition 47(6)
+2116-2125 (2014)
+[35]Han Xu, Wenyu Liu, Bang Wang: Subarea Localization Performance of
+the Divide-and-Cover Node Deployment in a Long-Bounded Belt Scenario. IEEE Trans. Computers 63(11)
+2842-2850 (2014)
+[36]Nan Jiang, Wenyu Liu: Data-Driven Spatially-Adaptive
+Metric Adjustment for Visual Tracking. IEEE Transactions on Image Processing 23(4)
+1556-1568 (2014)
+[37]Cong Yao, Xiang Bai, Wenyu Liu: A Unified Framework for Multioriented Text Detection and Recognition. IEEE Transactions on Image Processing 23(11)
+4737-4749 (2014)
+[38]Pan Chen, Xiang Bai, Wenyu Liu: Vehicle Color Recognition on
+Urban Road by Feature Context. IEEE Transactions on Intelligent Transportation Systems
+15(5): 2340-2346 (2014)
+[39]Juntao Liu,
+Yi Xiong, Caihua Wu, Zhijun Yao, Wenyu Liu: Learning Conditional Preference
+Networks from Inconsistent Examples. IEEE Trans. Knowl. Data Eng. 26(2)
+376-390 (2014)
+[40]Juntao Liu,
+Caihua Wu, Wenyu Liu: Bayesian Probabilistic Matrix
+Factorization with Social Relations and Item Contents for recommendation. Decision Support Systems 55(3)
+838-850 (2013)
+[41]Zhongyuan Lai,
+Wenyu Liu, Fan Zhang, Guang Cheng: Perceptual Distortion Measure for
+Polygon-Based Shape Coding. IEICE Transactions 96-D(3)
+750-753 (2013)
+[42]Zhijun Yao, Wenyu Liu: Extracting robust distribution
+using adaptive Gaussian Mixture Model and online feature selection. Neurocomputing 101: 258-274
+(2013)
+[43]Chun Wang, Wenyu Liu, Zhongyuan Lai, Hongyuan Wang: Perceptually friendly shape
+decomposition by resolving segmentation points with minimum cost. J. Visual Communication and Image Representation
+24(3): 270-282 (2013)
+[44]Juntao Liu,
+Zhijun Yao, Yi Xiong, Wenyu Liu, Caihua Wu: Learning conditional preference
+network from noisy samples using hypothesis testing. Knowl.-Based Syst. 40
+7-16 (2013)
+[45]Zhou Ren, Junsong Yuan, Wenyu Liu: Minimum Near-Convex Shape
+Decomposition. IEEE Trans. Pattern Anal. Mach. Intell. 35(10)
+2546-2552 (2013)
+[46]Bang Wang, Han Xu, Wenyu Liu, Hui Liang: A Novel
+Node Placement for Long Belt Coverage in Wireless Networks. IEEE Trans. Computers 62(12)
+2341-2353 (2013)
+[47]Bang Wang, X. Deng, Wenyu Liu, L. Yang and H. Chao, "
+Confident Information Coverage in Sensor Networks for Field Reconstruction
+", IEEE Wireless Communications,20(6):74-81 (2013)
+[48]Quan Zhou, Jun Zhu, Wenyu Liu: Learning Dynamic Hybrid Markov
+Random Field for Image Labeling. IEEE Transactions on Image Processing 22(6)
+2219-2232 (2013)
+[49]Wenping Liu,
+Hongbo Jiang, Xiang Bai, Guang Tan, Chonggang Wang, Wenyu Liu, Kechao Cai:Distance Transform-Based Skeleton
+Extraction and Its Applications in Sensor Networks. IEEE Trans. Parallel Distrib. Syst. 24(9)
+1763-1772 (2013)
+[50]Junwei Wang,
+Xiang Bai, Xinge You, Wenyu Liu, Longin Jan Latecki: Shape
+matching and classification using height functions. Pattern Recognition Letters 33(2)
+134-143 (2012)
+[51]Nan Jiang, Heng Su, Wenyu Liu, Ying Wu
+Discriminative Metric Preservation for Tracking Low-Resolution Targets. IEEE Transactions on Image Processing 21(3)
+1284-1297 (2012)
+[52]Xiang Bai, Bo Wang, Cong Yao, Wenyu Liu, Zhuowen Tu: Co-Transduction for Shape Retrieval.
+IEEE Transactions on Image Processing 21(5)
+2747-2757 (2012)
+[53]Chen Tian, Hongbo Jiang, Xue Liu, Wenyu Liu
+Revisiting Dynamic Query Protocols in Unstructured Peer-to-Peer Networks. IEEE Trans. Parallel Distrib. Syst. 23(1)
+160-167 (2012)
+[54]Lei Rao, Xue Liu, Le Xie, Wenyu Liu: Coordinated Energy Cost
+Management of Distributed Internet Data Centers in Smart Grid. IEEE Trans. Smart Grid 3(1)
+50-58 (2012)
+[55]Lei Rao, Xue Liu, Zonghua Gu, Wenyu Liu: HRS: A Hierarchical Routing and
+Scheduling Scheme for Distributed Real-Time and Embedded Systems. Ad Hoc & Sensor Wireless Networks 11(3-4)
+265-284 (2011)
+[56]Nan Jiang, Wenyu Liu, Ying Wu: Learning Adaptive Metric for Robust Visual
+Tracking. IEEE Transactions on Image Processing 20(8)
+2288-2300 (2011)
+[57]Fan Zhang, Wenyu Liu, Weisi Lin, King Ngi Ngan: Spread Spectrum Image Watermarking
+Based on Perceptual Quality Metric. IEEE Transactions on Image Processing 20(11)
+3207-3218 (2011)
+[58]Chen Tian, Hongbo Jiang, Arun Iyengar, Xue Liu, Zuodong Wu, Jinhua Chen, Wenyu Liu, Chonggang Wang: Improving
+Application Placement for Cluster-Based Web Applications. IEEE Transactions on Network and Service Management
+8(2): 104-115 (2011)
+[59]Jie
+Cheng, Hongbo Jiang, Jiangchuan Liu, Wenyu Liu, Chonggang Wang: On Efficient
+Processing of Continuous Historical Top- Queries in Sensor Networks. IEEE T. Vehicular Technology 60(5)
+2363-2367 (2011)
+[60]Chen Tian, Hongbo Jiang, Chonggang Wang, Zuodong Wu, Jinhua Chen, Wenyu Liu: Neither Shortest Path Nor
+Dominating Set: Aggregation Scheduling by Greedy Growing Tree in Multihop Wireless Sensor Networks. IEEE T. Vehicular Technology 60(7)
+3462-3472 (2011)
+[61]Xiang Bai, Xingwei Yang, Longin Jan Latecki, Wenyu Liu, Zhuowen Tu: Learning Context-Sensitive Shape
+Similarity by Graph Transduction. IEEE Trans. Pattern Anal. Mach. Intell. 32(5)
+861-874 (2010)
+[62]Hongbo
+Jiang, Wenping Liu, Dan Wang, Chen Tian, Xiang Bai, Xue Liu, Ying Wu, Wenyu Liu
+Connectivity-Based Skeleton Extraction in Wireless Sensor Networks. IEEE Trans. Parallel Distrib. Syst. 21(5)
+710-721 (2010)
+[63]Wenyu Liu, Zhenhua Tang, Shuang Zhao: Transmission distortion estimation
+for real-time video delivery over hybrid channels with bit errors and packet
+erasures. Computer Communications 32(2)
+431-438 (2009)
+[64]Wenfei
+Jiang, Longin Jan Latecki, Wenyu Liu, Hui Liang, Ken Gorman: A Video Coding Scheme Based on Joint
+Spatiotemporal and Adaptive Prediction. IEEE Transactions on Image Processing 18(5)
+1025-1036 (2009)
+[65]Hairong Liu,
+Longin Jan Latecki, Wenyu Liu: A Unified Curvature Definition
+for Regular, Polygonal, and Digital Planar Curves. International Journal of Computer Vision 80(1)
+104-124 (2008)
+[66]Fan Zhang, Xiaoqiong Ye, Wenyu Liu: Image Decomposition and Texture Segmentation via Sparse
+Representation. IEEE Signal Process. Lett. 15
+641-644 (2008)
+[67]Xiang Bai, Longin Jan Latecki, Wenyu Liu: Skeleton Pruning by Contour
+Partitioning with Discrete Curve Evolution. IEEE Trans. Pattern Anal. Mach. Intell. 29(3)
+449-462 (2007)
+[68]Wenyu Liu, Hua Li, Guangxi Zhu: Non-rigid Body Interpolation Based
+on Generalized Morphologic Morphing. Int. J. Image Graphics 3(2)
+325-344 (2003)
+[69]Wenyu Liu, Li Hua, Fei Wang, Guangxi Zhu: Polyhedral
+Objects Metamorphosis Using Convex Decomposition and Morphology. Virtual Reality 6(4)
+196-204 (2003)
+[70]Wenyu Liu, Li Hua, Guangxi Zhu: A fast algorithm for corner
+detection using the morphologic skeleton. Pattern Recognition Letters 22(8)
+891-900 (2001)
+会议论文
+[1]Yongluan Yan, Xinggang Wang, Xiaojie Guo, Jiemin Fang, Wenyu Liu, Junzhou Huang
+Deep Multi-instance Learning with Dynamic Pooling. ACML 2018: 662-677
+[2]Zilong Huang, Xinggang Wang, Jiasi Wang, Wenyu Liu, Jingdong Wang
+Weakly-Supervised Semantic Segmentation Network With Deep Seeded Region
+Growing. CVPR 2018: 7014-7023
+[3]Peng Tang, Xinggang Wang, Angtian Wang, Yongluan Yan, Wenyu Liu, Junzhou Huang, Alan L. Yuille
+Weakly Supervised Region Proposal Network and Object Detection. ECCV
+(11) 2018: 370-386
+[4]Cheng Wang, Qian Zhang, Chang Huang, Wenyu Liu, Xinggang Wang
+Mancs: A Multi-task Attentional Network with
+Curriculum Sampling for Person Re-Identification. ECCV (4) 2018: 384-400
+[5]Jiasi Wang, Xinggang Wang, Wenyu Liu: Weakly- and Semi-supervised
+Faster R-CNN with Curriculum Learning. ICPR 2018: 2416-2421
+[6]Xin Yang, Jinyu Chen, Zhiwei Wang, Qiaozhe Zhang, Wenyu Liu, Chunyuan Liao, Kwang-Ting Cheng
+Monocular Camera Based Real-Time Dense Mapping Using Generative Adversarial
+Network. ACM
+Multimedia 2018: 896-904
+[7]Minghui Liao, Baoguang Shi, Xiang Bai, Xinggang Wang, Wenyu Liu: TextBoxes
+A Fast Text Detector with a Single Deep Neural Network. AAAI 2017: 4161-4167
+[8]Peng Tang, Xinggang Wang, Xiang Bai, Wenyu Liu: Multiple
+Instance Detection Network with Online Instance Classifier Refinement. CVPR (2017)
+[9]Zheng Zhang, Chengquan Zhang, Wei Shen, Cong Yao, Wenyu Liu, Xiang Bai: Multi-oriented Text Detection
+with Fully Convolutional Networks. CVPR 2016: 4159-4167
+[10]Xinggang Wang, Xin Yang, Wenyu Liu, Chen Duan, Longin Jan Latecki
+Location-Aware Image Classification. MMM (1) 2016: 829-841
+[11]Cong Yao, Xiang Bai, Baoguang Shi, Wenyu Liu: Strokelets
+A Learned Multi-scale Representation for Scene Text Recognition. CVPR 2014: 4042-4049
+[12]Junhuan Zhu,
+Zhongyuan Lai, Wenyu Liu, Jiebo Luo: Adaptive Edge Encoding Schemes for
+the Rate-Distortion Optimal Polygon-Based Shape Coding. DCC 2014: 103-112
+[13]Cong Yao, Xiang Bai, Wenyu Liu, Longin Jan Latecki: Human
+Detection Using Learned Part Alphabet and Pose Dictionary. ECCV 2014: 251-266
+[14]Xianjun Deng,
+Bang Wang, Wenyu Liu, Laurence T. Yang, Jiaoyan Chen: Lifetime
+Maximization for Multi-modal Confident Information Coverage in Sensor Networks.
+HPCC/EUC 2013: 1173-1178
+[15]Quan Zhou, Ji Chen, Shiwei Ren, Yu Zhou, Jun Chen, Wenyu Liu: On contrast combinations for visual saliency detection. ICIP 2013: 2665-2669
+[16]Cheng Wang, Le He, Yingying Zhu, Wenyu Liu: Learning context sensitive similarity measure on pair fusion
+graph. ICIP 2013: 2906-2909
+[17]Xinggang
+Wang, Baoyuan Wang, Xiang Bai, Wenyu Liu, Zhuowen Tu: Max-Margin Multiple-Instance
+Dictionary Learning. ICML 2013: 846-854
+[18]Xianjun
+Deng, Bang Wang, Changqing Wang, Han Xu, Wenyu Liu: Mending barrier gaps via mobile
+sensor nodes with adjustable sensing ranges. WCNC 2013: 1493-1497
+[19]Xinggang Wang,
+Zhengdong Zhang, Yi Ma, Xiang Bai, Wenyu Liu, Zhuowen Tu: One-Class Multiple Instance Learning
+via Robust PCA for Common Object Discovery. ACCV 2012: 246-258
+[20]Xinggang
+Wang, Xiang Bai, Tianyang Ma, Wenyu Liu, Longin Jan Latecki: Fan Shape
+Model for object detection. CVPR 2012: 151-158
+[21]Cong Yao, Xiang Bai, Wenyu Liu, Yi Ma, Zhuowen Tu: Detecting texts of arbitrary
+orientations in natural images. CVPR 2012: 1083-1090
+[22]Nan Jiang, Wenyu Liu, Ying Wu: Order determination and
+sparsity-regularized metric learning adaptive visual tracking. CVPR 2012: 1956-1963
+[23]Wenping Liu,
+Hongbo Jiang, Xiang Bai, Guang Tan, Chonggang Wang, Wenyu Liu, Kechao Cai: Skeleton Extraction from Incomplete
+Boundaries in Sensor Networks Based on Distance Transform. ICDCS 2012: 42-51
+[24]Wenping Liu,
+Hongbo Jiang, Chonggang Wang, Chang Liu, Yang Yang, Wenyu Liu, Bo Li: Connectivity-based and Boundary-Free
+Skeleton Extraction in Sensor Networks. ICDCS 2012: 52-61
+[25]Quan Zhou, Nianyi Li, Yi Yang, Pan Chen, Wenyu Liu: Corner-surround Contrast for saliency detection. ICPR 2012: 1423-1426
+[26]Cong Rao, Cong Yao, Xiang Bai, Weichao Qiu, Wenyu Liu: Online Random Ferns for robust visual tracking. ICPR 2012: 1447-1450
+[27]Yueming
+Wang, Xinggang Wang, Shaojun Zhu, Xiang Bai, Wenyu Liu: Adjacent coding for image classification. ICPR 2012: 1459-1462
+[28]Zhijun Yao, Yu Zhou, Juntao Liu, Wenyu Liu: A fast and effective appearance
+model-based particle filtering object tracking algorithm. ICPR 2012: 1475-1478
+[29]Wenping Liu,
+Dan Wang, Hongbo Jiang, Wenyu Liu, Chonggang Wang
+Approximate convex decomposition based localization in wireless sensor
+networks. INFOCOM 2012: 1853-1861
+[30]Yu Zhou, Xiang Bai, Wenyu Liu, Longin Jan Latecki: Fusion
+with Diffusion for Robust Visual Tracking. NIPS 2012: 2987-2995
+[31]Changqing
+Wang, Bang Wang, Han Xu, Wenyu Liu
+Energy-Efficient Barrier Coverage in WSNs with Adjustable Sensing Ranges. VTC Spring 2012: 1-5
+[32]Xinggang Wang,
+Xiang Bai, Wenyu Liu, Longin Jan Latecki: Feature
+context for image classification and object detection. CVPR 2011: 961-968
+[33]Nan Jiang, Wenyu Liu, Ying Wu: Adaptive and discriminative metric
+differential tracking. CVPR 2011: 1161-1168
+[34]Nan Jiang, Wenyu Liu, Heng Su, Ying Wu: Tracking low resolution objects by metric
+preservation. CVPR 2011: 1329-1336
+[35]Zhongyuan Lai,
+Zhen Zuo, Zhe Wang, Wenyu Liu: A Hybrid Admissible Distortion
+Checking Algorithm for the B-Spline-Based Operational Rate-Distortion Optimal
+Shape Coding. DCC 2011: 464
+[36]Zhongyuan Lai,
+Zhen Zuo, Zhe Wang, Wenyu Liu: Accurate Distortion Measurement
+Using Analytical Model for the B-Spline-Based Shape Coding. DCC 2011: 465
+[37]Yi Wang, Chen Tian, Hongbo Jiang, Xue Liu, Jinhua Chen, Wenyu Liu: SHARP: A Scalable Framework for Dynamic Joint Replica
+Placement and Request Routing Scheduling. GLOBECOM 2011: 1-5
+[38]Lei Rao, Xue Liu, Kyoung-Don Kang, Wenyu Liu, Liang Liu, Ying Chen: Optimal Joint Multi-Path Routing and
+Sampling Rates Assignment for Real-Time Wireless Sensor Networks. ICC 2011: 1-5
+[39]Shuai Wang, Athanasios V. Vasilakos,
+Hongbo Jiang, Xiaoqiang Ma, Wenyu Liu, Kai Peng, Bo Liu, Yan Dong: Energy Efficient Broadcasting Using
+Network Coding Aware Protocol in Wireless Ad Hoc Network. ICC 2011: 1-5
+[40]Zuodong Wu,
+Chen Tian, Hongbo Jiang, Wenyu Liu: Minimum-Latency Aggregation
+Scheduling in Underwater Wireless Sensor Networks. ICC 2011: 1-5
+[41]Tianlong Yu, Chen Tian, Hongbo Jiang, Wenyu Liu: Measurements and Analysis of an
+Unconstrained User Generated Content System. ICC 2011: 1-5
+[42]Zhou Ren, Junsong Yuan, Chunyuan Li, Wenyu Liu: Minimum near-convex decomposition
+for robust shape representation. ICCV 2011: 303-310
+[43]Zhijun Yao, Zhongyuan Lai, Wenyu Liu: A symmetric KL divergence based spatiogram similarity measure. ICIP 2011: 193-196
+[44]Zhongyuan Lai,
+Zhen Zuo, Zhe Wang, Zhijun Yao, Wenyu Liu: Accurate distortion measurement
+for B-spline-based shape coding. ICIP 2011: 225-228
+[45]Quan Zhou, Canxiang Yan, Yingying Zhu, Xiang Bai, Wenyu Liu: Image labeling by multiple segmentation. ICIP 2011: 3129-3132
+[46]Yu Zhou,
+Cong Rao, Qin Lu, Xiang Bai, Wenyu Liu:Multiple Feature Fusion for
+Object Tracking. IScIDE 2011: 145-152
+[47]Xinggang
+Wang, Xiang Bai, Xingwei Yang, Wenyu Liu, Longin Jan Latecki: Maximal
+Cliques that Satisfy Hard Constraints with Application to Deformable Object
+Model Learning. NIPS 2011: 864-872
+[48]Junwei
+Wang, Yu Zhou, Xiang Bai, Wenyu Liu: Shape Matching and Recognition Using Group-Wised Points. PSIVT 2011: 393-404
+[49]Quan Zhou, Wenyu Liu: Inference Scene Labeling by
+Incorporating Object Detection with Explicit Shape Model. ACCV 2010: 382-395
+[50]Hairong Liu,
+Wenyu Liu, Longin Jan Latecki: Convex
+shape decomposition. CVPR 2010: 97-104
+[51]Zhongyuan Lai,
+Junhuan Zhu, Zhou Ren, Wenyu Liu, Baolan Yan: Arbitrary Directional Edge Encoding
+Schemes for the Operational Rate-Distortion Optimal Shape Coding Framework. DCC 2010: 20-29
+[52]Wenfei
+Jiang, Wenyu Liu, Longin Jan Latecki, Hui Liang, Changqing Wang, Bing Feng: Two-Step
+Coding for High Definition Video Compression. DCC 2010: 535
+[53]Bo Wang, Xiang Bai, Xinggang Wang, Wenyu Liu, Zhuowen Tu: Object Recognition Using Junctions. ECCV 2010: 15-28
+[54]Xiang Bai, Bo Wang, Xinggang Wang, Wenyu Liu, Zhuowen Tu: Co-transduction for Shape Retrieval.
+ECCV 2010: 328-341
+[55]Jie
+Cheng, Hongbo Jiang, Xiaoqiang Ma, Lanchao Liu, Lijun Qian, Chen Tian, Wenyu Liu: Efficient Data Collection with Sampling in WSNs: Making Use
+of Matrix Completion Techniques. GLOBECOM 2010: 1-5
+[56]Bo Wang, Wei Shen, Wenyu Liu, Xinge You, Xiang Bai: Shape Classification Using Tree
+Unions. ICPR 2010: 983-986
+[57]Lei Rao, Xue Liu, Le Xie, Wenyu Liu: Minimizing Electricity Cost
+Optimization of Distributed Internet Data Centers in a Multi-Electricity-Market
+Environment. INFOCOM 2010: 1145-1153
+[58]Zhenhua Tang,
+Tuanfa Qin, Wenyu Liu: A Novel Energy-Minimized
+Optimization Algorithm for Mobile Image Transmission. PCM 2010: 382-393
+[59]Yao Xu, Bo Wang, Wenyu Liu, Xiang Bai: Skeleton Graph Matching Based on
+Critical Points Using Path Similarity. ACCV 2009: 456-465
+[60]Xiang Bai, Quannan Li, Longin Jan Latecki, Wenyu Liu, Zhuowen Tu: Shape band: A deformable object
+detection approach. CVPR 2009: 1335-1342
+[61]Zhongyuan Lai,
+Wenyu Liu, Yuan Zhang: Perceptual Relevance Measure for
+Generic Shape Coding. DCC 2009: 453
+[62]Chen Tian, Hongbo Jiang, Xue Liu, Xinbing Wang, Wenyu Liu, Yi Wang: Tri-Message: A Lightweight Time Synchronization
+Protocol for High Latency and Resource-Constrained Networks. ICC 2009: 1-5
+[63]Xiang Bai, Xinggang Wang, Longin Jan Latecki, Wenyu Liu, Zhuowen Tu
+Active skeleton for non-rigid object detection. ICCV 2009: 575-582
+[64]Hongbo
+Jiang, Wenping Liu, Dan Wang, Chen Tian, Xiang Bai, Xue Liu, Ying Wu, Wenyu Liu: CASE
+Connectivity-Based Skeleton Extraction in Wireless Sensor Networks. INFOCOM 2009: 2916-2920
+[65]Chengqian Wu,
+Xiang Bai, Quannan Li, Xingwei Yang, Wenyu Liu: Contour Grouping with Partial
+Shape Similarity. PSIVT 2009: 167-178
+[66]Lei Rao, Xue Liu, Jian-Jia Chen, Wenyu Liu: Joint Optimization of System
+Lifetime and Network Performance for Real-Time Wireless Sensor Networks. QSHINE 2009: 317-333
+[67]Quannan Li,
+Yu Zheng, Xing Xie, Yukun Chen, Wenyu Liu, Wei-Ying Ma: Mining user similarity based on
+location history. GIS 2008: 34
+[68]Quannan Li,
+Xiang Bai, Wenyu Liu: Skeletonization of gray-scale
+image from incomplete boundaries. ICIP 2008: 877-880
+[69]Chen Tian, Hongbo Jiang, Xue Liu, Wenyu Liu, Yi Wang: Towards
+Minimum Traffic Cost and Minimum Response Latency: A Novel Dynamic Query
+Protocol in Unstructured P2P Networks. ICPP 2008: 1-8
+[70]Fan Zhang, Wenyu Liu, Chunxiao Liu: High Capacity Watermarking in Nonedge Texture Under Statistical Distortion Constraint. ACCV 2007: 282-291
+[71]Juntao Liu,
+Wenyu Liu, Caihua Wu: Objects Similarity Measurement Based
+on Skeleton Tree Descriptor Matching. CAD/Graphics 2007: 96-101
+[72]Hairong Liu,
+Longin Jan Latecki, Wenyu Liu, Xiang Bai: Visual Curvature. CVPR 2007

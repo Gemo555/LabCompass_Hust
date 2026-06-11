@@ -1,0 +1,89 @@
+﻿
+吴伟民 副教授，硕士导师
+研究方向
+1. 无线通信系统与样机研发
+2. 4G/5G的L2协议创新性研究
+3. WiFi协议创新性研究，MAC传输优
+4. 异构融合组网
+通信方式
+邮箱：wuwm@hust.edu.cn
+已完成的项目
+1. 承担完成的国家项目
+a. 863计划子课题
+（1）深空信道模型、中继网络架构和通信传输协议，2012年，牵头单位北京理工大学
+（2）5G 高通量无线网络架构与关键技术研发，2014年，牵头单位华为技术有限公司
+b. 民口重大专项子课题
+（3）IMT-Advanced新型无线传输技术研发，2009年，牵头单位清华大学
+（4）基于TD-LTE公网集群业务系统研发与验证，2013年，牵头单位华为技术有限公司
+（5）面向LTE-Advanced的终端软基带技术，2013年，牵头单位中科院微电子所
+c. 支撑计划子课题
+（6）面向
+IMT-Advanced标 准化无线接口关键技术研究，2008年，牵头单位清华大学
+d. 教育部-中国移动科研基金
+（7）基于LTE本地接入增强与3D-MIMO增强技术研究课题的子任务《本地接入物理层及高层技术和方案设计》，2013年，牵头单位电子科技大学
+e. 国家重点研发计划
+（8）基于广电体系的融合应急通信关键技术研究与应用示范，2017年，子课题2的第二负责人
+2. 企业合作 (中国移动研究院)
+2008年到2013年，与中国移动研究院无线所在LTE/LTE-A领域进行了5个年度（2012年没有合作项目）的合作研究，在LTE/LTE-A的标准化创新性研究和仿真评估方面进行长期合作，合作完成了十余项专利的合作申请，为中国移动研究院RAN2的标准化提案提供了坚实的仿真平台和评估支撑。2009年度合作项目获得中国移动研究院最优合作项目。
+3. 企业合作 (华为公司)
+a. 网络产品线
+（1）NG-CABLE接入信道建模（一期），2010年
+（2）NG-CABLE接入样机合作——MAC层开发（二期），2011年
+（3）TDD EPOC及DOCSIS MAC样机FPGA开发，2013年
+（4）FlexPON&CPRI回传样机开发合作，2014年
+b. 无线产品线
+（5）用户面FPGA加速，2012年
+（6）Wi-Fi无线回传关键技术研究和原型验证，2013年
+c. 2012实验室：作为项目技术负责人，与2012 CTLAB进行了4年的下一代WiFi标准化的创新性研究，项目已产出30+项专利（大部分为国际专利），本人作为第一发明人的专利占到40%+，2018年开始第五期合作研究。
+（7）海量Wi-Fi STA并发上下线模拟技术，2013年
+（8）下一代WLAN干扰管理技术研究，2013年（作为技术负责人参与，刘应状教授牵头担任项目负责人）
+（9）下一代WiFi干扰管理及无线资源管理关键技术研究，2014年（作为技术负责人参与，刘应状教授牵头担任项目负责人）
+（10）4.5G海量UE实时调度框架研究技术合作项目，2015年
+（11）WLAN高密场景解决方案研究及验证，2015年
+（12）EiFi创新功能AP侧开发合作项目，2017年
+（13）EiFi样机上行链路合作项目，2019年
+d. 消费者BG
+（14）EMUI Router 智联组网技术（AllMesh）合作项目，2018年
+（15）WiFi协议测试系统技术合作项目,2018年
+（16）Hisi短距芯片PC化技术合作项目，2019年（2020年获得华为终端公司合作大奖）
+在研项目
+华为2012实验室，高可靠WiFi样机开发项目，2020年
+华为终端公司，WiFi6协议仿真测试系统，2020年
+华为终端公司，Hisi短距芯片PC化技术合作项目，2020年
+华为网络产品线，家庭网络多用户多业务体验保障方案，2021年
+上海海思公司，高品质WiFi研究项目，2021年
+社会职务
+华中科技大学—华为技术有限公司 先进接入联合创新中心执行秘书，负责联合创新中心的日常事务
+华为终端有限公司-华中科技大学 Wi-Fi领域合作协议框架下的技术决策委员会主任
+发表论文
+(1) Xiaoqing Peng, Weimin Wu, Jun Sun, Yingzhuang Liu. Sparsity-Boosted Detection for Large MIMO Systems. IEEE Communications Letters, 2015.2.6, 19(2): 191~194.
+(2) Bo Yang, Guangxi Zhu, Weimin Wu. The Impact of Speed on the Convergence of Gossip Algorithms with Mobility in
+Wireless Sensor Networks. IEEE Communications Letters, 2014.01.01, 18(2):221~224.
+(3) Yang Bo, Wu Weimin, Zhu Guangxi, Yu Hongtao. TCP Traffic
+Performance Improving in LTE-A
+Networks. Journal of Electronics(China), 2013.01.01, 2(2): 159~165.
+(4) Bo Yang, Guangxi Zhu, Weimin Wu, Youjun Gao. M2M access
+performance in LTE-A system. Transactions on Emerging Telecommunications Technologies, 2014.01.01, 25(1): 3~10.
+(5) Ping Ji, Liujuan
+Cao, Xiguang Zhang, Longfei Zhang, Weimin Wu. News videos anchor person
+detection by shot clustering[J]. Neurocomputing, 2014, 123(123): 86-99.
+(6) Chen Tian, Jingdong
+Sun, Weimin Wu, et al. Optimal bandwidth allocation for hybrid Video-on-Demand
+streaming with a distributed max flow algorithm[J]. Computer Networks the
+International Journal of Computer & Telecommunications Networking, 2015, 91(C): 483-494.
+(7) Bo Yang, Weimin Wu,
+Guangxi Zhu. Distributed averaging in wireless sensor networks with triplewise
+gossip algorithms[C]. Tencon Spring
+Conference. IEEE, 2013:178-182.
+(8) Xiaoqing Peng,
+Weimin Wu, Jun Sun, et al. Sparsity-aware, channel order-blind pilot placement
+with channel estimation in orthogonal frequency division multiplexing
+systems[J]. Iet Communications, 2015, 9(9):1182-1190.
+发明专利
+与华为2012 CTLab合作，以第一作者在WiFi标准化领域申请了20多项标准化发明专利，其中多项国际发明专利
+与中国移动研究院合作，在4G/5G领域申请了十余项发明专利
+研究团队特点
+产学研合作项目多，横向科研经费充足，近3年每年到帐横向经费大于200万
+与华为多个部门长期深度合作，毕业生被华为多个部门提前锁定
+WiFi领域研究国内领先，培养人才被国内网络设备公司和手机公司青睐
+专业硕士提供住宿

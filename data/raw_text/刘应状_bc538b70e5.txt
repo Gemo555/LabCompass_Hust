@@ -1,0 +1,113 @@
+﻿
+电子信息与通信学院教师资料
+基本信息
+姓名
+刘应状
+性别
+男
+籍贯
+湖北咸丰
+出生年月日
+相片
+专业职称
+教授
+导师代码
+1421
+导师类别
+博士生导师
+学术兼职
+欧洲核子中心CERN/LHC/ALICE合作组中国组技术协调人
+兼职导师
+社会兼职
+一级学科代码
+810
+一级学科名称
+信息与通信工程
+二级学科代码
+81001
+二级学科名称
+通信与信息系统
+联系方式
+固定电话
+传真
+手机
+邮件
+liuyz@hust.edu.cn
+即时通信
+网站
+个人简介
+个人介绍
+刘应状：男，2000年毕业于华中科技大学电信系，获博士学位，2000－2001年法国巴黎十一大学博士后。现任华中科技大学电子与信息工程系教授、博士生导师、宽带无线通信学术带头人，科技部863计划和国家自然科学基金项目评审专家，中国电子学会高级会员，湖北省通信学会学术委员会成员，欧洲核子中心CERN/LHC/ALICE国际合作组中国分组技术负责人，美国布鲁克海汶国家实验室BNL/RHIC/PHENIX国际合作组成员
+授课课程
+现代通信理论与技术（博士生），空间通信（硕士生），数据结构（本科生），信息技术导论（本科生）
+研究领域
+现代移动通信，包括：LTE/LTE+/5G
+等
+宽带无线接入，包括：WiFi/下一代WiFi 等
+卫星通信与深空通信
+博导研究方向
+08100106 无线通信技术与系统
+硕导研究方向
+08100001 无线通信技术与系统
+主要业绩
+主要科研项目
+1）主持国家自然科学基金重点项目：无线网络干扰管理与容量研究（执行时间：2013.01-2017.12）
+2）主持国家自然科学基金面上项目：基于小区间协作与分布式干对齐的多天线系统干扰协调技术研究（执行时间：2010.01-2012.12）
+3）主持国家科技重大专项：IMT
+Advanced新型无线资源管理研究及验证（执行时间：2009.01－2011.12）
+4）主持国家科技重大专项：TD-LTE-Advanced终端综合测试仪表开发
+（子课题，执行时间：2013.01-2015.12）
+5）主持国家科技重大专项：BBU-RRU接口数据压缩方案研究（子课题，执行时间：2014.1-2016.12）
+6）主持科技部国际合作项目：下一代绿色无线网络联合研究（执行时间:2012.05-2015.04）
+7）主持国家863课题：具有公平性和QoS保障的高效MIMO-OFDM传输技术研究(执行时间:2006.12-2008.11)
+8）主持国家863课题：空天综合接入技术（执行时间：2011.06-2012.06）
+9）主持企业合作项目：下一代WiFi无线资源管理与干扰管理技术(执行时间2013.11-2014.12)
+10）主持重大国际合作项目:欧洲核子中心CERN/LHC/ALICE/PHOS探测器FEE前端电子学系统研究（执行时间：2006.01-2006.12）
+主要论文
+1）Haifan Yin, David Gesbert, Miltiades Filippou, Yingzhuang
+Liu: A Coordinated Approach to Channel Estimation in Large-Scale
+Multiple-Antenna Systems. IEEE Journal on Selected Areas in Communications
+31(2): 264-273 (2013)
+2）Jun Sun, Yingzhuang Liu,
+Guangxi Zhu, On the Degrees of Freedom of the Cellular Network, 中国科学F辑（英文版），2010年第4期
+3）Mohammed Teeti,Jun Sun,
+David Gesbert and YingZhuang Liu,Impact of Physical Channel Model on the
+Performance of Subspace-Based Channel Estimation in Massive MIMO, submmited
+to IEEE trans.on wireless communication
+4）Haifan Yin, David
+Gesbert, Miltiades Filippou, Yingzhuang Liu，Decontaminating Pilots in Massive MIMO Systems，IEEE International
+Conference on Communications（ICC）,June ,2013, Budapest
+5）Jun Sun, Yingzhuang Liu
+and Guangxi Zhu, On the Capacity of the Interference Channel with Half-Duplex
+Source Cooperation, submitted to IEEE Transaction on Information Theory.
+6)Mohammed
+Teeti,Yingzhuang Liu, Jun Sun, A New MIMO detection algorithm based on the
+Gaussian graphical model, IEEE VTC , May 2012
+7)Hans
+Muller, Rui Pimenta, Zhongbao Yin, Daicui Zhou, Xi Cao, Qingxia Li,
+Yingzhuang Liu, FeiFei Zou, Bernhard Skaali，Configurable electronics with low noise and 14-bit dynamic
+range for photodiode-based photon detector, Nuclear Instruments and Methods
+in Physics Research Section A, Volume 565, Issue 2, Pages 768–78,
+Sept.2006(CERN/LHC/ALICE Collaboration)
+8）S.S. Adler…Y
+Liu…,Measurement of Non-Random Event-by-Event Average Transverse Momentum
+Fluctuations in sqrt(sNN)=200 GeV Au+Au Collisions, Physical Review Letters
+Vol:93,No:9,August. 2004(PHENIX Collaboration )
+9）S.S. Adler…Y Liu…,
+Elliptic Flow of Identified Hadrons in Au+Au Collisions at sqrt(s_NN) = 200
+GeV, Physical Review Letters Vol:91,No:18,Oct. 2003(PHENIX Collaboration
+10）S.S. Adler…Y Liu…,
+Scaling properties of proton and anti-proton production in sqrt(s_NN) = 200
+GeV Au+Au collisions, Physical Review Letters Vol:91,No:17,Oct. 2003(PHENIX
+Collaboration )
+主要成果
+1）2008年湖北省技术发明一等奖
+2）2009年华中科技大学“最喜爱导师”称号
+3）通过3GPP/LTE/IMT
+A/CCSA等国际（国内）移动标准化组织提案10余项
+4）在国内外核心刊物上发表论文100余篇
+5）专利30余项，其中授权专利20余项
+6）参与中国的B3G系统研发，2006年成功在上海建立中国的B3G验证示范系统
+7）2007年成功研制出欧洲核子中心CERN/LHC/ALICE
+PHOS探测器前端快电子学系统
+8）2012年成功研制出LTE+与WLAN异构融合的宽带无线通信系统及其先进的无线资源管理系统

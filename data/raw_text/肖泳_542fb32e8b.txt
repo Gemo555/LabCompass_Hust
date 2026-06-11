@@ -1,0 +1,240 @@
+﻿
+Yong Xiao's Homepage
+Yong Xiao (肖泳)
+Professor 教授/博士生导师
+IMT-2030 (6G) 推进组网络智能方向 副组长
+5G联创行业应用开发实验室 副主任
+Associate Group Leader, IMT-2030 (6G) Network Intelligence Group
+Vice Director, 5G Verticals Innovation Laboratory
+School of Electronic Information and Communications
+Huazhong University of Science and Technology
+Luoyu Road 1037, Wuhan, China, 430074
+E-mail: y o n g x i a o (AT) h u s t . e d u . c n
+English Website: https://sites.google.com/site/xyong2007/
+电子信息与通信学院
+华中科技大学
+湖北省武汉市洪山区珞喻路1037号，430074
+电子邮箱：y o n g x i a o (AT) h u s t . e d u . c n
+英文版个人主页：https://sites.google.com/site/xyong2007/
+通告
+课题组目前正积极招收硕士和博士，欢迎数学基础好且有志于从事科学研究的同学报考。也非常欢迎本校大二或大三同学来课题组交流学习。
+I am always looking for self-motivated master and Ph.D. students.
+Research Interest 研究兴趣
+Next-generation wireless technology, semantic communications, game theory, machine learning, distributed optimization, economic modeling and their applications in cloud computing, fog/mobile edge computing, green communication networks, wireless communication networks, internet of things (IoT), smart grid and energy harvesting networks, wireless power transfer, Tactile Internet.
+下一代网络技术、通信网络博弈论、语义信息论、低碳网络智能、机器学习与人工智能、分布式优化、无线通信网络、云/雾/边缘智能、传感器网络与物联网、智能电网、无线能量获取、触觉互联网、超低延迟通信技术等
+Education 教育经历
+Ph.D. in Nanyang Technological University, Singapore
+M. Sc. in Telecommunications, Hong Kong University of Science and Technology, Hong Kong, China
+B. Sc. in Information Engineering, China University of Geosciences, Wuhan, China
+博士学位：新加坡南洋理工大学
+硕士学位：香港科技大学
+学士学位：中国地质大学（武汉）
+Research Experience 研究经历
+Professor (School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China) Sep 2018 ~ Present
+Research Assistant Professor (Department of Electrical and Computer Engineering, University of Arizona, AZ, USA) Sep 2016 ~ Aug 2018
+Center Manager (NSF IUCRC Broadband Wireless Access & Applications Center, AZ, USA) Sep 2016 ~ Aug 2018
+Postdoctoral Fellow II (Department of Electrical and Computer Engineering, University of Houston, Houston, TX, USA) Nov 2014 ~ Aug 2016
+MIT-SUTD Postdoctoral Researcher (Singapore University of Technology and Design, Singapore) Nov 2013 ~ Oct 2014
+Postdoctoral Fellow (CSAIL, Massachusetts Institute of Technology, Cambridge, USA) Nov 2012 ~ Oct 2013
+Research Fellow (CONNECT Centre, School of Computer Science and Statistics, Trinity College Dublin, Dublin, Ireland) May 2011 ~ Oct 2012
+Research Associate (School of EEE, Nanyang Technological University, Singapore) Aug 2010 ~ Apr 2011
+Service 服务
+IEEE Senior Member
+ACM Member
+China Institute of Communications (CIC) Senior Member
+Associate Editor, IEEE Transactions on Mobile Computing
+China Computer Federation (CCF) Member
+China Institute of Electronics (CIE) Member
+China Institute of Electronics (CIE) Young Scientists Club Member
+Chinese Association for Artificial Intelligence (CAAI) Member
+Editor, International Telecommunication Union (ITU)-Study Group 20 (SG20): IoT and Smart Cities and Communities (SC&C)
+Publicity Chair, International Conference on Computer and Communication System 2022 (ICCCS'22)
+Publicity Chair, ACM Workshop on Mobile and Wireless Sensing for Smart Healthcare (in conjunction with ACM MobiCom 2022)
+Member of Technical Program Committee for over 20 Journals and conferences including IEEE Journal on Selected Areas in Communications (JSAC) Series on Network Softwarization & Enablers 2017 and Special Issue on Recent Advances in Heterogeneous Cellular Networks published in June 2015, IEEE ICC 2017, GLOBECOM 2016, 2017, and 2018, WCNC 2017 and 2018, VTC 2012 Fall, 2013 Fall, 2015 Fall, 2016 Spring, 2017 Spring, 2018 Spring, and 2018 Fall.
+IEEE资深会员
+ACM会员
+中国通信学会CIC高级会员
+中国通信学会CIC算力网络专业委员会委员
+中国电子学会CIE会员
+中国电子学会CIE青年科学家俱乐部会员
+中国计算机学会CCF会员
+中国计算机学会CCF服务计算专委会委员
+中国人工智能学会CAAI会员
+中国人工智能学会CAAI智能融合专委会委员
+副编辑，IEEE Transactions on Mobile Computing
+国际标准提案编辑, 国际电信联盟ITU第13和第20工作组
+宣传主席，2022年计算机与通信系统国际会议
+宣传主席，2022年ACM面向智慧医疗的移动与无线感知国际研讨会
+特邀编辑，《物联网学报》 “智能物联网中的边缘与雾计算技术”专题，2021年3月出版
+华中科技大学欧美同学会（留学人员联谊会）第三届理事会理事
+科创中国·湖北省碳达峰碳中和科技服务团专家
+超过20个国际主流期刊和会议的技术委员会TPC成员
+Publications 发表论文
+COPYRIGHT NOTICE: Electronic copies of the papers listed below are provided by authors as a means to ensure timely dissemination of technical work on a non-commercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's or owner's copyright.
+Journal Papers 期刊论文
+Yong Xiao, Yiwei Liao, Yingyu Li, Guangming Shi, H. Vincent Poor, Walid Saad, Merouane Debbah, and Mehdi Bennis, "Reasoning over the Air: A Reasoning-based Implicit Semantic Communication Framework," under revision at IEEE Transactions on Wireless Communications (TWC).
+Cong T. Nguyen, Dinh Thai Hoang, Diep N. Nguyen, Yong Xiao*, Hoang-Anh Pham, Eryk Dutkiewicz, and Nguyen Huynh Tuong, "FedChain: Secure Proof-of-Stake-based Framework for Federated-blockchain Systems," accepted at IEEE Transactions on Services Computing (TSC). [URL] [PDF]
+Yong Xiao, Rong Xia, Yingyu Li, Guangming Shi, Diep N. Nguyen, Dinh Thai Hoang, Dusit Niyato, and Marwan Krunz, "Distributed Traffic Synthesizing and Classification Over Network Edge: A Federated Self-supervised Learning Approach," accepted at IEEE Transactions on Mobile Computing (TMC). [URL] [PDF]
+Yong Xiao, Xiaohan Zhang, Guangming Shi, Marwan Krunz, Diep N. Nguyen, and Dinh Thai Hoang, "Time-sensitive Learning for Heterogeneous Federated Edge Intelligence," accepted at IEEE Transactions on Mobile Computing (TMC). [URL] [PDF]
+Yong Xiao, Zijian Sun, Guangming Shi, Dusit Niyato, "Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning," IEEE Journal on Selected Areas in Communications (JSAC), vol. 41, no. 3, pp. 639 - 658, March 2023. [URL] [PDF] [Code]
+Yang Yang, Mulei Ma, Hequan Wu, Quan Yu, Ping Zhang, Xiaohu You, Jianjun Wu, Chenghui Peng, Tak-Shing Peter Yum, Sherman Shen, Hamid Aghvami, Geoffrey Y Li, Jiangzhou Wang, Guangyi Liu, Peng Gao, Xiongyan Tang, Chang Cao, John Thompson, Kat-Kit Wong, Shanzhi Chen, Zhiqin Wang, Merouane Debbah, Schahram Dustdar, Frank Eliassen, Tao Chen, Xiangyang Duan, Shaohui Sun, Xiaofeng Tao, Qinyu Zhang, Jianwei Huang, Shuguang Cui, Wenjun Zhang, Jie Li, Yue Gao, Honggang Zhang, Xu Chen, Xiaohu Ge, Yong Xiao, Cheng-Xiang Wang, Zaichen Zhang, Song Ci, Guoqiang Mao, Changle Li, Ziyu Shao, Yong Zhou, Junrui Liang, Kai Li, Liantao Wu, Fanglei Sun, Kunlun Wang, Zening Liu, Kun Yang, Jun Wang, Teng Gao, Hongfeng Shu, "6G Network AI Architecture for Everyone-Centric Customized Services," accepted at IEEE Network Magazine, 2022. [URL] [PDF]
+Islam Samy, Xiao Han, Loukas Lazos, Ming Li, Yong Xiao, Marwan Krunz, "Misbehavior Detection in Wi-Fi/LTE Coexistence over Unlicensed Bands," accepted at IEEE Transactions on Mobile Computing (TMC). [URL] [PDF]
+Yong Xiao and Marwan Krunz, "AdaptiveFog: A Modelling and Optimization Framework for Fog Computing in Intelligent Transportation Systems," IEEE Transactions on Mobile Computing (TMC), vol. 21, no. 12, pp. 4187 - 4200, December 2022. [URL] [PDF]
+Cong T. Nguyen, Diep N. Nguyen, Dinh Thai Hoang, Hoang-Anh Pham, Nguyen Huynh Tuong, Yong Xiao*, and Eryk Dutkiewicz, "BlockRoam: Blockchain-based Roaming Management System for Future Mobile Networks," IEEE Transactions on Mobile Computing (TMC), vol. 21, no. 11, pp. 3880 - 3894, November 2022. [URL] [PDF]
+Rongping Lin, Tianze Xie, Shan Luo, Xiaoning Zhang, Yong Xiao, Bill Moran, and Moshe Zukerman, "Energy-Efficient Computation Offloading in Collaborative Edge Computing," IEEE Internet of Things Journal (IoTJ), vol. 9, no. 21, 21305- 21322, November 2022. [URL] [PDF]
+Shuang Zheng, Yuna Jiang, Xiaohu Ge, Yong Xiao, Yang Huang, Yuan Liu, "Cooperative Spectrum Sensing and Fusion Based on Tangle Networks," IEEE Transactions on Network Science and Engineering, vol. 9, no. 5, pp. 3614-3632 September-October 2022. [URL] [PDF]
+Qingyang Zhou, Rongpeng Li, Zhifeng Zhao, Yong Xiao, and Honggang Zhang, "Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-based HARQ," IEEE Open Journal of the Communications Society, no. 3, July 2022. [URL] [PDF]
+Xiao Lu, Nguyen Cong Luong, Dinh Thai Hoang, Dusit Niyato, Yong Xiao, and Ping Wang, "Secure Wirelessly-Powered Networks at the Physical Layer: Challenges, Countermeasures, and Road Ahead," Proceedings of the IEEE, vol. 110, no. 1, pp. 193-209, January 2022. [URL] [PDF]
+Guangming Shi, Yong Xiao, Yingyu Li, and Xuemei Xie, "From Semantic Communication to Semantic-aware Networking: Model, Architecture, and Open Problems," IEEE Communications Magazine, vol. 59, no. 8, pp. 44-50, August 2021. [URL] [PDF]
+Shan Luo, Yuwei Zhao, Yong Xiao, Rongping Lin, and Yao Yan, "A Temporal-Spatial Spectrum Prediction Using the Concept of Homotopy Theory for UAV Communications," IEEE Transactions on Vehicular Technology (TVT), vol. 70, no. 4, pp. 3314-3324, April 2021. [URL] [PDF]
+Jing Hou, Li Sun, Tao Shu, Yong Xiao, and Marwan Krunz, "Economics of Strategic Network Infrastructure Sharing: A Backup Reservation Approach," IEEE/ACM Transactions on Networking (ToN), vol. 29, no. 2, pp. 665-680, April 2021. [URL] [PDF]
+Yong Xiao, Guangming Shi, Yingyu Li, Walid Saad, and H. Vincent Poor, "Toward Self-learning Edge Intelligence in 6G," IEEE Communications Magazine, vol. 58, no. 12, pp. 34-40, December 2020. [URL] [PDF]
+Rongping Lin, Zhijie Zhou, Shan Luo, Yong Xiao, Xiong Wang, Sheng Wang, and Moshe Zukerman, "Distributed Optimization for Computation Offloading in Edge Computing," IEEE Transactions on Wireless Communications (TWC), vol. 19, no. 12, pp. 8179-8194, December 2020. [URL] [PDF]
+Huaqing Zhang, Yong Xiao, Shengrong Bu, Richard Yu, Dusit Niyato, and Zhu Han, "Distributed Resource Allocation for Data Center Networks: A Hierarchical Game Approach," IEEE Transactions on Cloud Computing (TCC), vol. 8, no. 3, pp. 778-789, July-September 2020. [URL] [PDF]
+Qiang Li, Yuanmei Zhang, Yingyu Li, Yong Xiao, Xiaohu Ge, "Capacity-Aware Edge Caching in Fog Computing Networks," IEEE Transactions on Vehicular Technology (TVT), vol. 69, no. 8, pp. 9244-9248, August 2020. [URL] [PDF]
+Shan Luo, Yong Xiao, Rongping Lin, Xiangdong Xie, Guoan Bi, Yuwei Zhao, and Jiyan Huang, "Opportunistic Spectrum Access for UAV Communications Towards Ultra Dense Networks," IEEE Access, vol. 7, pp. 175021-175032, 2019. [URL] [PDF]
+Mohammed Hirzallah, Marwan Krunz, and Yong Xiao, "Harmonious Cross-Technology Coexistence with Heterogeneous Traffic in Unlicensed Bands: Analysis and Approximations," IEEE Transactions on Cognitive Communications and Networking (TCCN), vol. 5, no. 3, pp. 690 - 701, September 2019. [URL] [PDF]
+Ahmed Salama, Ming Li, Loukas Laos, Yong Xiao, and Marwan Krunz, "Trading Privacy for Utility in Database-assisted Dynamic Spectrum Access," IEEE Transactions on Cognitive Communications and Networking (TCCN), vol. 5, no. 3, September 2019. [URL] [PDF]
+Xiaohu Ge, Haoming Jia, Yi Zhong, Yong Xiao, Yonghui Li, Branka Vucetic, "Energy Efficient Optimization of Wireless-powered 5G Full Duplex Cellular Networks: A Mean Field Game Approach," IEEE Transactions on Green Communications and Networking (TGCN), vol. 3, no. 2, pp. 455-467, June 2019. [URL] [PDF]
+Yong Xiao, Marwan Krunz, and Tao Shu, "Multi-operator Network Sharing for Massive IoT," IEEE Communication Magazine, vol. 57, no. 4, pp. 96-101, April 2019. [URL] [PDF]
+Yong Xiao and Marwan Krunz, "Dynamic Network Slicing for Scalable Fog Computing
+Systems with Energy Harvesting," IEEE Journal on
+Selected Areas in Communications (JSAC) Special Issue on Scalability
+Issues and Solutions for Software Defined Networks, vol. 36, no. 12, pp. 2640 - 2654, December 2018. [URL] [PDF]
+Yong Xiao and Marwan Krunz, "Distributed Optimization for Energy-efficient Fog Computing in the Tactile Internet," IEEE Journal on Selected Areas in Communications (JSAC) Special Issue on Emerging Technologies in Tactile Internet and Backhaul/Fronthaul Networks, vol. 36, no. 11, pp. 2390 - 2400, November 2018. [URL] [PDF] (IEEE Tactile Internet Emerging Technical Subcommittee Best Reading)
+Yong Xiao, Mohammed Hirzallah, and Marwan Krunz, "Distributed Resource Allocation for Network Slicing over Licensed and Unlicensed Bands," IEEE Journal on Selected Areas in Communications (JSAC) Special Issue on Network Softwarization & Enablers, vol. 36, no. 10, pp. 2260 - 2274, October 2018.[URL] [PDF]
+Xiao Lu, Dusit Niyato, Hai Jiang, Dong In Kim, Yong Xiao and Zhu Han, "Ambient Backscatter Assisted Wireless Powered Communications," IEEE Wireless Communications, vol. 25, no. 2, pp. 170-177, April 2018. [URL] [PDF]
+Irmak Aykin, Marwan Krunz and Yong Xiao, "Adaptive Frequency Hopping Schemes for CR-based Multi-link Satellite Networks," International Journal of Satellite Communications and Networking, vol. 36, no. 4, July/August 2018. [URL] [PDF]
+Xianfu Chen, Zhu Han, Honggang Zhang, Guoliang Xue, Yong Xiao, and Mehdi Bennis, "Wireless Resource Scheduling in Virtualized Radio Access Networks Using Stochastic Learning," IEEE Transactions on Mobile Computing (TMC), vol. 17, no. 4, pp. 961-974, April 2018. [URL] [PDF]
+Huaqing Zhang, Yong Xiao, Shengrong Bu, Dusit Niyato, Richard Yu and Zhu Han, "Computing Resource Allocation in Three-Tier IoT Fog Networks: a Joint Optimization Approach Combining Stackelberg Game and Matching," IEEE Internet of Things Journal (IoTJ), vol. 4, no. 5, 1204-1215, October 2017. [URL] [PDF]
+Rongping Lin, Xingqiu He, Sheng Wang, Shan Luo, Yong Xiao， “Estimating End-to-End Available Bandwidth with Noises," IEEE Access, vol. 5, pp. 22584-22589, Aug. 2017. [URL] [PDF]
+Fahira Sangare, Yong Xiao, Dusit Niyato, and Zhu Han, "Mobile Charging in Wireless-Powered Sensor Networks: Optimal Scheduling and Experimental Implementation," IEEE Transactions on Vehicular Technology (TVT), vol. 66, no. 8, pp. 7400-7410, August 2017. [URL] [PDF]
+Shan Luo, Guoan Bi, Yong Xiao and Rongping Lin, "A Keystone-Based Cosine Transform," Circuits, Systems and Signal Processing, vol. 36, no. 8, pp 3438–3447, August 2017. [URL] [PDF]
+Pu Yuan, Yong Xiao, Guoan Bi, and Liren Zhang, “Towards Cooperation by Carrier Aggregation in Heterogeneous Networks: A Hierarchical Game Approach,” IEEE Transactions on Vehicular Technology (TVT), vol. 66, no. 2, February 2017. [PDF]
+Huaqing Zhang, Yong Xiao, Lin X. Cai, Dusit Niyato, Lingyang Song, and Zhu Han, "A Multi-Leader Multi-Follower Stackelberg Game Approach for Resource Management With LTE Unlicensed Technology," IEEE Transactions on Wireless Communications (TWC), vol. 16, No. 1, January 2017. [URL] [PDF]
+Yong Xiao, Dusit Niyato, Ping Wang, and Zhu Han, "Dynamic Energy Trading for Wireless Powered Communication Networks," IEEE Communications Magazine, vol. 54, no. 11, pp. 158-164, November 2016. [URL] [PDF]
+Yong Xiao, Dusit Niyato, Kwang-Cheng Chen, and Zhu Han, "Enhance Device-to-Device Communication with Social-Awareness: A Belief-based Stable Marriage Game Framework," IEEE Wireless Communications, vol. 23, no. 4, pp. 36-44, August 2016. [URL] [PDF]
+Shao-Chou Hung, Yong Xiao, and Kwang-Cheng Chen, "Transmission Strategy with Cooperative Sensors in Cognitive Radio Networks," IEEE Transactions on Vehicular Technology (TVT), vol. 65, no. 5, pp. 3416-3429, May 2016. [URL] [PDF]
+Ping Wang, Wei Song, Dusit Niyato, and Yong Xiao, "QoS-Aware Cell Association in 5G Heterogeneous Networks with Massive MIMO," IEEE Network Magazine, vol. 29, No. 6, pp. 76-82, November/December 2015. [URL] [PDF]
+Yong Xiao, Zhu Han, Chau Yuen, and Luiz A. DaSilva, "Carrier Aggregation between Operators in Next Generation Cellular Networks: A Stable Roommate Market," IEEE Transactions on Wireless Communications (TWC), vol. 15 , no. 1, pp. 633 - 650, January 2016. [URL] [PDF]
+Yong Xiao, Dusit Niyato, Zhu Han and Luiz A. DaSilva, “Dynamic Energy Trading for Energy Harvesting Communication Networks: A Stochastic Energy Trading Game,” IEEE Journal on Selected Areas in Communications (JSAC) Special Issue on Green Communications and Networking, vol. 33 , No. 12, pp. pp. 2718-2734, December 2015. [URL] [PDF]
+Yong Xiao, Kwang-Cheng Chen, Chau Yuen, Zhu Han, and Luiz A. DaSilva, “A Bayesian Overlapping Coalition Formation Game for Device-to-Device Spectrum Sharing in Cellular Networks,” IEEE Transactions on Wireless Communications (TWC), vol. 14 , no. 7, pp. 4034-4051, July 2015. [URL] [PDF]
+Yong Xiao, Zhu Han, Kwang-Cheng Chen, and Luiz A. DaSilva, “Bayesian Hierarchical Mechanism Design for Cognitive Radio Networks,” IEEE Journal on Selected Areas in Communications (JSAC): Cognitive Radio Series, vol. 33, no. 5, pp. 986-1001, May 2015.[URL] [PDF]
+Yong Xiao, Dusit Niyato, Zhu Han, and Kwang-Cheng Chen, "Secondary Users Entering the Pool: A Joint Optimization Framework for Spectrum Pooling," IEEE Journal on Selected Areas in Communications (JSAC): Cognitive Radio Series, vol. 32, no. 3, pp. 572 - 588, March 2014. [URL] [PDF]
+Yong Xiao, Guoan Bi, Dusit Niyato, and Luiz A. Dasilva, "A Hierarchical Game Theoretic Framework for Cognitive Radio Networks," IEEE Journal on Selected Areas in Communications (JSAC): Cognitive Radio Series, vol. 30, no. 10, pp. 2053-2069, November 2012. (Acceptance rate: 14 %) [URL] [PDF]
+Yong Xiao, Luiz A. Dasilva, and X. J. Zhang, "On the Diversity-Multiplexing Tradeoff of an Improved Amplify-and-forward Relaying Strategy," IEEE Communications Letters (CL), vol. 16, no. 4, pp. 482 - 485, April 2012. [URL] [PDF]
+Yong Xiao, Guoan Bi, and Dusit Niyato, "A Simple Distributed Power Control Algorithm for Cognitive Radio networks," IEEE Transactions on Wireless Communications (TWC), vol. 10, no. 11, pp. 3594-3600, Nov. 2011. [URL] [PDF]
+Yong Xiao, Guoan Bi, and Dusit Niyato, "Game Theoretic Analysis for Spectrum Sharing with Multi-hop Relaying," IEEE Transactions on Wireless Communications (TWC), vol. 10, no. 5, pp. 1527 -1537, May 2011. [URL][PDF]
+Conference Papers 会议论文
+Zhimin Lu, Yong Xiao, Zijian Sun, Yingyu Li, Guangming Shi, Xianfu Chen, Mehdi Bennis, and H. Vincent Poor, "Adversarial Learning for Implicit Semantic-Aware Communications," IEEE International Conference on Communications (ICC), Rome, Italy, May 2023. [URL] [PDF]
+Yong Xiao, Xu Zhang, Yingyu Li, Guangming Shi, and Tamer Başar, "Rate-distortion Theory for Strategic Semantic Communication," IEEE Information Theory Workshop (ITW), Mumbai, India, November 2022. [URL] [PDF]
+Yong Xiao, Yingyu Li, Guangming Shi, and H. Vincent Poor, "Reasoning on the Air: An Implicit Semantic Communication Architecture," IEEE International Conference on Communications (ICC) Workshop, Seoul, South Korea, May 2022. [URL] [PDF]
+Jingming Liang, Yong Xiao, Yingyu Li, Guangming Shi, and Mehdi Bennis, "Life-Long Learning for Reasoning-Based Semantic Communication," IEEE International Conference on Communications (ICC) Workshop, Seoul, South Korea, May 2022. [URL] [PDF]
+Qu Wang, Yong Xiao, Huixiang Zhu, Zijian Sun, Yingyu Li, and Xiaohu Ge, "Towards Energy-efficient Federated Edge Intelligence for IoT Networks," IEEE International Conference on Distributed Computing Systems (ICDCS) Workshop on Next-Generation Mobile Networking and Computing, Virtual conference, July 2021. [URL] [PDF]
+Dongzi Jin, Yong Xiao, Yingyu Li, Guangming Shi, and Dusit Niyato, "Optimizing Intelligent Reflecting Surface-Base Station Association for Mobile Networks," IEEE International Conference on Communications (ICC), Virtual conference, June 2021. [URL] [PDF]
+Juntong Liu, Yong Xiao, Yingyu Li, Guangming Shi, Walid Saad, and H. Vincent Poor, "Spatio-temporal Modeling for Large-scale Vehicular Networks Using Graph Convolutional Networks," IEEE International Conference on Communications (ICC), Virtual conference, June 2021. [URL] [PDF]
+Chenxin Xu, Rong Xia, Yong Xiao, Yingyu Li, Guangming Shi, and Kwang-cheng Chen, "Federated Traffic Synthesizing and Classification Using Generative Adversarial Networks," IEEE International Conference on Communications (ICC), Virtual conference, June 2021. [URL] [PDF]
+Yong Zhang, Yong Xiao, Yuna Jiang and Xiaohu Ge, "A Hierarchical Blockchain Framework for Fog Computing-supported IoT Networks," IEEE International Conference on Computer and Communications (ICCC), Chengdu, China, December 2020. [URL][PDF]
+Yong Xiao, Yingyu Li, Guangming Shi, and H. Vincent Poor "Optimizing Resource Efficiency for Federated Edge Intelligence in IoT Networks," International Conference on Wireless Communications and Signal Processing (WCSP), Nanjing, China, October 2020. [URL] [PDF] (Best Paper Award)
+Rong Xia, Yong Xiao, Yingyu Li, Marwan Krunz, and Dusit Niyato, "A Generative Learning Approach for Spatio-temporal Modeling in Connected Vehicular Network," IEEE International Conference on Communications (ICC), Dublin, Ireland, June 2020. [URL] [PDF]
+Maohong Chen, Yong Xiao, Qiang Li, and Kwang-cheng Chen, "Minimizing Age-of-Information for Fog Computing-supported Vehicular Networks with Deep Q-learning," IEEE International Conference on Communications (ICC), Dublin, Ireland, June 2020. [URL] [PDF]
+Xiaohan Zhang, Yong Xiao, Qiang Li, and Walid Saad, "Deep Reinforcement Learning for Fog Computing-based Vehicular System with Multi-operator Support," IEEE International Conference on Communications (ICC), Dublin, Ireland, June 2020. [URL] [PDF]
+Anqi Huang, Yingyu Li, Yong Xiao, Xiaohu Ge, Sumei Sun, and Han-Chieh Chao, "Distributed Resource Allocation for Network Slicing of Bandwidth and Computational Resource," IEEE International Conference on Communications (ICC), Dublin, Ireland, June 2020. [URL] [PDF]
+Ahmed M. Salama, Ming Li, Loukas Lazos, Yong Xiao, Marwan Krunz, "Privacy-Utility Tradeoff in Dynamic Spectrum Sharing with Non-Cooperative Incumbent Users," IEEE International Conference on Communications (ICC), Dublin, Ireland, June 2020. [URL] [PDF]
+Zhiwu Guo, Ming Li, and Yong Xiao, "Enhancing LAA/WiFi Coexistence via Concurrent Transmissions and Interference Cancellation," IEEE International Symposium on New Frontiers in Dynamic Spectrum Access Networks (DySPAN), Newark, NJ, USA, November 2019.
+Yong Xiao, Marwan Krunz, Haris Volos, and Takashi Bando, "Driving in the Fog: Latency Measurement, Modeling, and Optimization of LTE-based Fog Computing for Smart Vehicles," IEEE SECON conference, Boston, MA, June 2019. (Acceptance rate: 28%) [URL] [PDF] Presentation Slides [PDF]
+Mohammed Hirzallah, Yong Xiao, and Marwan Krunz, "MatchMaker: An Inter-operator Network Sharing Framework in Unlicensed Bands," IEEE SECON conference, Boston, MA, June 2019. (Acceptance rate: 28%) [URL] [PDF] Presentation Slides [PDF]
+Jing Hou, Li Sun, Tao She, Yong Xiao, and Marwan Krunz, "Strategic Network Infrastructure Sharing through Backup Reservation in a Competitive Environment," IEEE SECON conference, Boston, MA, June 2019. (Acceptance rate: 28%)
+Qiang Li, Yuanmei Zhang, Ashish Pandharipande, Yong Xiao, Xiaohu Ge, "Edge Caching in Wireless Infostation Networks: Deployment and Cache Content Placement," IEEE INFOCOM Workshop on Integrating Edge Computing, Caching, and Offloading in Next Generation Networks, Paris, France, April 2019
+Ahmed Salama, Ming Li, Loukas Lazos, Yong Xiao, and Marwan Krunz, "On the Privacy and Utility Tradeoff in Database-Assisted Dynamic Spectrum Access," IEEE International Symposium on New Frontiers in Dynamic Spectrum Access Networks (DySPAN), Seoul, South Korea, October 2018.
+Mohammed Hirzallah, Yong Xiao, and Marwan Krunz, “On Modeling and Optimizing LTE/Wi-Fi Coexistence with Prioritized Traffic Classes,” IEEE International Symposium on New Frontiers in Dynamic Spectrum Access Networks (DySPAN), Seoul, South Korea, October 2018. [URL] [PDF]
+Qiang Li, Wennian Shi, Yong Xiao, Xiaohu Ge, and Ashish Pandharipande, "Content Size-Aware Edge Caching: A Size-Weighted Popularity-Based Approach," IEEE Global Communications Conference (GLOBECOM), Abu Dhabi, UAE, December 2018. [URL]
+James Oyedokun, Shengrong Bu, Yong Xiao, and Zhu Han, "Smart Meter Data Characterization and Clustering for Peak Demand Targeting in Smart Grids," IEEE PES Innovative Smart Grid Technologies Coneference Europe (ISGT Europe), Sarajevo, Bosnia and Herzegovina, October 2018. [URL]
+Islam Samy, Loukas Lazos, Yong Xiao, Ming Li, and Marwan Krunz “LTE Misbehavior Detection in Wi-Fi/LTE Coexistence Under the LAA-LTE Standard,” ACM Conference on Security and Privacy in Wireless and MobileNetworks (WiSec 2018), Stockholm, Sweden, June 2018. (Full Paper Acceptance rate: 25.6%) [URL] [PDF]
+Yong Xiao, Mohammed Hirzallah, and Marwan Krunz, “Optimizing Inter-operator Network Slicing over Licensed and Unlicensed Bands,” IEEE International Conference on Sensing, Communication and Networking (SECON), Hong Kong, June 2018. (Acceptance rate: 23 %) [URL] [PDF] Presentation Slides [PDF]
+Yong Xiao and Marwan Krunz, “QoE and Power Efficiency Tradeoff for Fog Computing Networks with Fog Node Cooperation,” IEEE International Conference on Computer Communications (INFOCOM), Atlanta, GA, May 2017. (Acceptance rate: 20%) [URL] [PDF] Presentation Slides [PDF]
+Fahira Sangare, Duy H. N. Nguyen, Yong Xiao and Zhu Han, “Opportunistic Sensing for Joint Energy Harvesting and Channel Access,” IEEE Global Conference on Signal and Information Processing (GlobalSIP), Washington, D.C., December 7-9, 2016.[URL] [PDF]
+Huaqing Zhang, Yong Xiao, Shengrong Bu, Richard Yu, Dusit Niyato, and Zhu Han, "Fog Computing in Multi-Tier Data Center Networks: A Hierarchical Game Approach," IEEE International Conference on Communications (ICC), Kuala Lumpur, Malaysia, May 23-27, 2016. [URL] [PDF] Presentation Slides [PDF]
+Yong Xiao, Zixiang Xiong, Dusit Niyato, Zhu Han and Luiz A. DaSilva, “Full-Duplex Machine-to-Machine Communication for Wireless-Powered Internet-of-Things,” IEEE International Conference on Communications (ICC), Kuala Lumpur, Malaysia, May 23-27, 2016. [URL] [PDF] Presentation Slides [PDF]
+Yong Xiao, Zixiang Xiong, Dusit Niyato, Zhu Han, "Distortion Minimization via Adaptive Digital and Analog Transmission for Energy Harvesting-based Wireless Sensor Networks," IEEE Global Conference on Signal and Information Processing (GlobalSIP), Orlando, FL, December 2015. [URL] [PDF]
+Huaqing Zhang, Yong Xiao, Lin X. Cai, Dusit Niyato, Lingyang Song and Zhu Han, "A Hierarchical Game Approach for Multi-Operator Spectrum Sharing in LTE Unlicensed," IEEE Global Communications Conference (GLOBECOM), San Diego, CA, December 2015. [URL] [PDF] Presentation Slides [PDF]
+Yong Xiao, Dusit Niyato, Zhu Han and Luiz A. DaSilva, "Joint Optimization for Power Scheduling and Transfer in Energy Harvesting Communication Systems," IEEE Global Communications Conference (GLOBECOM), San Diego, CA, December 2015. [URL] [PDF]
+Yong Xiao, Zhu Han, Dusit Niyato, and Chau Yuen, "Bayesian Reinforcement Learning for Energy Harvesting Communication Systems with Uncertainty," IEEE International Conference on Communications (ICC), London, UK, June 8-12, 2015. [URL] [PDF]
+Yong Xiao, Zhu Han, and Luiz A. DaSilva, “Opportunistic Relay Selection for Cooperative Energy Harvesting Communication Networks,” IEEE Global Communications Conference (GLOBECOM), Austin, TX, December 8-12, 2014. [URL] [PDF]Presentation Slides [PDF]
+Yong Xiao, Kwang-Cheng Chen, Chau Yuen, and Luiz A. DaSilva, “Spectrum Sharing for Device-to-Device Communications in Cellular Networks: A Game Theoretic Approach,” IEEE International Symposium on New Frontiers in Dynamic Spectrum Access Networks (DySPAN), Mclean, VA, USA, April 1-4, 2014. (Acceptance rate: 27.7 %) [URL] [PDF]Presentation Slides [PDF]
+Yong Xiao, Chau Yuen, Paolo Di Francesco, and Luiz A. DaSilva, “Dynamic Spectrum Scheduling for Carrier Aggregation: A Game Theoretic Approach,” IEEE International Conference on Communications (ICC), Budapest, Hungary, June 9-13, 2013. [URL] [PDF]
+Yong Xiao, Jianwei Huang, Chau Yuen, and Luiz A. DaSilva, “Fairness and Efficiency Tradeoffs for User Cooperation in Distributed Wireless Networks,” IEEE International Conference on Computer Communications (INFOCOM), Turin, Italy, April 14-19, 2013. [URL] [PDF]
+Yong Xiao, Tim Forde, Irene Macaluso, Luiz A. DaSilva, and Linda Doyle, "Spatial Spectrum Sharing-based Carrier Aggregation for Heterogeneous Networks", IEEE Global Communications Conference (GLOBECOM), Anaheim, CA, December 3-7, 2012. [URL] [PDF]
+Yong Xiao and Luiz A. DaSilva, "Dynamic Pricing Coalitional Game for Cognitive Radio Networks", IFIP Networking 2012 Workshop, Prague, Czech Republic, 25 May 2012. in Lecture Notes in Computer Science, vol 7291, pp. 19-26. [URL] [PDF] Presentation Slides [PDF]
+Yong Xiao and Guoan Bi, "Spectrum Sharing with Multi-hop Relaying", APSIPA Annual Summit and Conference, Singapore, 15-17 Dec., 2010. [URL] [PDF]
+Yong Xiao, Guoan Bi, and Dusit Niyato, "Distributed optimization for cognitive radio networks using Stackelberg game", IEEE International Conference on Communication Systems (ICCS), Singapore, 17-19 Nov., 2010.
+Yong Xiao and Guoan Bi, "An Improved Amplify-and-Forward Strategy for User Cooperation Channels", ISCIT 2009, Korea, 10-13 Oct., 2009.
+Yong Xiao and Guoan Bi, "On the Capacity of Frequency Division Gaussian MIMO Relay Channels", ICICS 2007, Singapore, 10-13 Dec., 2007.
+Peer-Reviewed Publications in Chinese 中文期刊论文
+朱慧翔、柴靖轩、肖泳、石光明、高大化，"基于感算通融合的语义认知通信网络", 移动通信，2023年3月。 [PDF]
+Huixiang Zhu, Jinxuan Chai, Yong Xiao, Guangming Shi, Dahua Gao, "Sensing-computing-communication integrated semantic-aware communication networks," Mobile Communications, March 2023.
+朱光喜、杨铀、万凯、肖泳、王兴刚、喻莉、邱才明，"特色元宇宙体系架构与典型应用分析", 中国图象图形学学会通讯，第1卷第2期，2022年12月。
+石光明、肖泳、李莹玉、高大化、谢雪梅, "面向万物智联的语义通信网络", 物联网学报, 第5卷第1期，2021年3月。(优秀论文) [URL] [PDF]
+Guangming Shi, Yong Xiao, Yingyu Li, Dahua Gao, Xuemei Xie, "Semantic networking for the intelligence of everything," Chinese Journal on Internet of Things, vol. 5, no. 1, March 2021. (Best Paper Award)
+Book 专著
+Yang Yang, Xu Chen, Rui Tan and Yong Xiao, Intelligent Internet of Things for the Digital World: Incorporating 5G Communications and Fog/Edge Computing Technologies, John Wiley & Sons Ltd., 2021. [Wiley] [Amazon]
+Book Chapter 书籍章节
+Pu Yuan, Yong Xiao, Guoan Bi and Shan Luo, "Spectrum Sharing Games," invited chapter in Spectrum Sharing in Wireless Networks: Fairness, Efficiency, and Security, (Book Editors: Fei Hu, Sunil Kumar and John D. Matyjas), CRC Press, Taylor & Francis Group, Aug 2016. [URL]
+Book Translation 书籍翻译
+Xiumei Li, Yong Xiao, and Guoan Bi, An Interactive Multimedia Introduction to Signal Processing (Author: Urich Karrenbeng, English Version Published by Springer-Verlag Berlin and Heidelberg GmbH & Co. K, August 2002), Chinese translated version published by Tsinghua University Press, Beijing, 2008.
+英文经典教材《信号处理的交互式多媒体教程》中文版翻译，原著：U. Karrenberg，译者：李秀梅，肖泳，毕国安，清华大学出版社，2008年。[URL]
+Other Publications 其他论文
+Danny Finn, Luiz A. DaSilva and Yong Xiao, "Playing Games in Cognitive Radio Networks," invited, IEEE COMSOC MMTC E-Letter, Vol. 7, No. 6, pp. 22-25, July 2012. Available at URL: http://committees.comsoc.org/mmc/e-news/E-Letter-July12.pdf
+Luiz A. DaSilva, Linda E. Doyle, Jacek Kibilda, Timothy K. Forde, and Yong Xiao , "An Inter-operator Spectrum Market", European Cooperation in Science and Technology (COST) IC0902 Newsletter, issue 7, pp. 3-4, November 2012. Available at URL: http://newyork.ing.uniroma1.it/IC0902/
+Projects 项目
+International Cooperation Project (Department of Science and Technology of Hubei Province) Grant No. 2021EHB015: Network AI Technology and Platform for Next Generation Communication Networks, PI, August 2021-July 2023.
+湖北省国际科技合作计划项目（批准号：2021EHB015）: 下一代通信网络AI 关键技术及云平台研发，主持，2021年8月-2023年7月
+China Unicom Research Institute Key Technology and Application Research for Blockchain Project: Blockchain and AI Convergence Research, PI, July-December, 2021.
+中国联合网络通信有限公司研究院区块链关键技术研究和应用项目: 区块链与人工智能融合技术研究，主持，2021年7月-2021年12月
+International Research Collaboration Project (HUST): Cloud and Fog Convergence for Intelligence-of-Everything, PI, January 2021-December 2023.
+华中科技大学"双一流"建设国际合作专项：基于云/雾计算融合的大规模智能机物互联网络研究，主持，2021年1月-2023年12月 [项目主页]
+2020年度电子信息类专业教学指导委员会教学改革研究项目：一流科研引领无线通信专业课程教学方法研究，主持，2021年1月-2021年10月 [项目主页]
+National Natural Science Foundation of China (NSF China) Grant No. 62071193: Game Theoretic Modeling and Optimization for Resource Sharing of Massive Intelligent Things in 6G, PI, January 2021- December 2024
+国家自然科学基金常规面上项目 (批准号：62071193)：面向6G群体智能资源共享博弈基础理论研究，主持，2021年1月-2024年12月 [项目主页]
+Key R & D Program of Hubei Province of China Grant No. 2020BAA002: Platform Development and Application of Cloud/Fog Converged Intelligent IoT, Co-PI, July 2020- December 2021
+湖北省重点研发计划项目 (批准号：2020BAA002)：面向云雾端深度融合的智慧物联网平台开发与应用，华科方负责人，2020年7月-2022年12月 [项目主页]
+Fundamental Research Funds for the Central Universities Grant No. 2019KFYXJJS180: Network Resrouce Sharing and Allocation for Next Generation Communication Systems, PI, January 2019- December 2021
+中央高校科研启动经费 (批准号：2019KFYXJJS180)：下一代通信网络资源共享与分配，主持，2019年1月-2021年12月
+国家青年人才科研启动经费，2019年1月-2021年12月
+NSF USA: A Stochastic Resource Allocation and Task Assignment Framework for Mobile Edge Computing, International Collaborator, October 2019-September 2022
+美国国家科学基金NSF项目：面向移动边缘计算的统计资源分配与任务安排架构，国际合作者，2019年10月-2022年9月 [项目主页]
+Participation in International Standardization Activity 国际标准
+"Requirements of semantic-aware networking in future networks" (contacts: Yong Xiao and Guangming Shi), ITU-T Technical Report TR.Reqts-SAN, Jul. 2022. [新闻报道] [Press Release]
+"Requirement and framework for Customer-oriented Network Auto Optimization with Artificial Intelligence", (contacts: Xin Wang, Liya Yuan, Yong Xiao, Jiajia Zhu, and Yongsheng Liu, led by China Unicom, in collaboration with HUST and ZTE), ITU-T Recommendation ITU-T Y.CNAO, Jul. 2022. [Press Release]
+"Architectural Framework for Semantic Communication Services for IoT and Smart City & Community" (contacts: Guangming Shi and Yong Xiao), ITU-T Technical Report YSTR.SemComm.IoT, Oct. 2021. [新闻报道1] [新闻报道2] [Press Release]
+"Requirements and Reference Architecture of IoT and Smart City & Community Service based on Federated Machine Learning" (lead contacts: Yong Xiao, Xiaohu Ge, Robert Caiming Qiu, et al., in collaboration with CICT, ZTE, China Unicom, China Mobile), ITU-T Recommendation Y.RA-FML, Jul. 2020. [新闻报道1] [新闻报道2] [Press Release]
+"Framework of monitoring of water system for smart fire protection" (participating contact, led by CICT, in collaboration with MIIT China, China Unicom, ZTE), ITU-T Recommendation Y.water-SFP, Nov. 2019.
+Patents 专利
+葛晓虎; 喻可; 李强; 钟祎; 肖泳，一种基于智能反射面的时间反演无线通信系统和方法
+肖泳; 石光明; 李燕; 李莹玉，语义信息表示方法、语义编码器、解码器和语义通信框架. [已授权] 授权号: ZL202210058567.9
+肖泳; 石光明; 梁静明; 李莹玉，语义知识库自动构建与更新方法、语义编码器和通信架构. [已授权] 授权号: ZL202210070546.9
+张鹏; 肖泳，一种光传送网OTU k帧误码概率预测方法和系统. [已授权]，授权号：202111496120.1
+肖泳; 葛晓虎；李莹玉；张晓寒, 一种网络切换方法和网络切换装置. [已授权] 授权号: ZL202110529784.7
+石光明; 肖泳; 李莹玉; 高大华; 谢雪梅, 基于知识图谱共享的语义编/解码方法、设备和通信系统. [已授权] 授权号: ZL202110382108.1
+肖泳; 石光明; 葛晓虎; 夏荣; 李莹玉, 一种基于联邦生成模型的多业务数据生成和分类方法. [已授权] 授权号: ZL202110100171.1
+肖泳; 石光明; 葛晓虎; 朱慧翔; 李莹玉; 李强, 一种基于环境背景无线射频信号的运动识别方法. [已授权] 授权号: ZL202011411399.4
+葛晓虎; 陈凯; 胡沈奇; 李强; 肖泳; 黄晓庆, 一种基于机器学习的无线频谱资源分配方法.
+葛晓虎; 郭杨万里; 钟祎; 肖泳, 一种基于改进遗传算法的车联网AoI优化任务卸载方法. [已授权] 授权号: ZL202010324289.8
+李强; 张雪艳; 娄瀚琼; 葛晓虎; 肖泳; 黄晓庆, 一种基于深度强化学习DDPG算法的D2D用户资源分配方法. [已授权] 授权号: ZL201910013868.8
+李强; 张雪艳; 葛晓虎; 肖泳; 张靖; 韩涛; 钟祎, 一种基于信号重传的频谱共享方法和系统. [已授权] 授权号: ZL201910032114.7
+李强; 张雪艳; 葛晓虎; 肖泳; 张靖; 韩涛; 钟祎, 一种基于信号重传的频谱共享方法和系统. [已授权] 授权号: ZL201910032114.7
+李强; 张智宣; 陶叶; 葛晓虎; 肖泳, 一种端到端功率分配方法、装置、全双工中继系统及计算机可读存储介质 [已授权] 授权号: ZL202011169995.6
+Invited Talks (Selected) 部分邀请报告
+中国人工智能产业年会6G智慧内生专题论坛邀请报告《语义通信网络的内涵、架构与开放问题》, 2022年7月17日。 [Youku URL]
+Invited speaker at ITU-T AI for Good 2022 webinar: “Semantic-aware Networking: Model, Architecture, and Open Problems”, April 22 2022. [ITU URL] [Youtube URL] [Bilibili URL]
+国际电信联盟 (ITU-T) AI for Good系列专题讲座《语义认知网络的模型、架构与开放问题》 2022 年4月22 日 [ITU URL] [Youtube URL] [Bilibili URL]
+Invited speaker at ITU-T AI for Good 2021 webinar on “Living with AI: past, present and future”, December 9 2021.[URL]
+国际电信联盟 (ITU-T) AI for Good峰会“AI 之上，过去、现在和将来”圆桌论坛邀请嘉宾, 2021年12月9日 [URL]
+Invited speaker at IMT-2030 6G Conference: “Towards Self-learning Edge Intelligence in 6G,” 2021 September 17.
+IMT-2030 6G推进组6G研讨会《面向6G智能边缘的自学习优化方法与理论》，2021 年9月17日
+Group 课题组
+@September 2022
+@June 2021
+@Janurary 2020
+@November 2019
+Last Updated: June 2, 2022.

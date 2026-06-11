@@ -1,0 +1,156 @@
+﻿
+Welcome to Yayu Gao's Homepage
+HOME
+PROFILE
+NEWS
+RESEARCH
+MY GROUP
+PUBLICATIONS
+TEACHING
+ACTIVITIES
+Yayu Gao 高雅玙
+Ph.D., Associate Professor
+School of Electronic Information and Communications 电子信息与通信学院
+Huazhong University of Science and Technology 华中科技大学
+东校区 启明学院 亮胜楼 712室
+yayugao@hust.edu.cn
+PROFILE
+NEWS
+RESEARCH
+TEACHING
+PUBLICATIONS
+SERVICES
+Dr. Yayu Gao received her BS degree from Nanjing University of Posts and Telecommunications in 2009, and the PhD degree in Electronic Engineering from City University of Hong Kong in 2014, supervised by Prof. Lin Dai. Since 2014, she has been with Huazhong University of Science and Technology, where she is currently an associate professor. She is also a supervisor of Dian Group. From Oct. 2017 to Sept. 2018, she visited FuNLab at Univeristy of Washington, Seattle, United States, where she collaborated with Prof. Sumit Roy on heterogeneous networks coexistence. Her current research interests mostly focus on next-generation wireless communications and networking, 6G, Future WiFi, network intelligence and AI+.
+HUST Faculty Personal Homepage: Click Here
+Recent News 近期消息
+Mar. 2023, a full research paper “Spectrum Sharing Mechanisms in the Unlicensed Band: Performance Limit and Comparison,” has been accepted by IET Communications (JCR 4区期刊).
+Feb. 2023, a full research paper “Fair and Efficient Spectrum Sharing in Unlicensed Bands: Does Number of Links Matter?,” has been accepted by IEEE Transactions on Vehicular Technology (JCR 1区期刊).
+Sept. 2022, WELCOME! Yuxuan He and Jikun Dong joined our lab as master students.
+Apr. 2022, a full research paper “When Aloha and CSMA Coexist: Modeling, Fairness and Throughput Optimization,” has been accepted by IEEE Transactions on Wireless Communications (JCR 1区期刊).
+Mar. 2022, a full research paper “Designing high efficiency asymmetric polarization converter for blue light: a deep reinforcement learning approach,” first authored by Mr. Chuqiao Yi, has been accepted by Optics Express (JCR 1区期刊).
+Jan. 2022, a full research paper “Synchronous Multi-Link Access in IEEE 802.11be: Modeling and Network Sum Rate Optimization,” first authored by Mr. Jie Zhang, has been accepted by IEEE ICC 2022.
+Dec. 2021, a full research paper “3GPP Fairness Constrained Throughput Optimization for 5G NR-U and WiFi Coexistence in the Unlicensed Spectrum,” first authored by Mr. Jiangwei Peng, has been accepted by IEEE WCNC 2022.
+Research Interests 研究方向
+Distributed Multiple Access
+分布式多址接入
+Next-Generation Wireless Networks
+6G & 未来WiFi
+Network Intelligence
+网络智能
+AI+
+AI赋能垂直领域
+Research Fundings 研究项目
+Ongoing 在研
+Enterprise Cooperation Project with Huawei, Principal Investigator, 2023.1-.
+Enterprise Cooperation Project with State Grid Corporation of China Nanrui III, Principal Investigator, 2023.1-.
+Enterprise Cooperation Project with State Grid Corporation of China Nanrui II, Principal Investigator, 2022.4-.
+Enterprise Cooperation Project with China Electric Power Research Institute, Principal Investigator, 2022.3-2024.3.
+International Research Cooperation Program of Hubei Province, Partner, 2021.9-2023.9.
+Closed 已结题
+Natural Science Foundation of Hubei Province, Principal Investigator, 2020.3-2022.3.
+Key Research and Development Program of Hubei Province, Partner, 2020.6-2022.12.
+Enterprise Cooperation Project with Huawei, Co-Principal Investigator, 2021.1-2022.9.
+National Key Research and Development Program of China, Co-Principal Investigator, 2018.12-2021.12.
+Enterprise Cooperation Project with China Unicom, Principal Investigator, 2021.9-2021.12.
+Enterprise Cooperation Project on Smart Traffic, Principal Investigator, 2021.3-2021.9.
+Enterprise Cooperation Project with State Grid Corporation of China Nanrui, Principal Investigator, 2020.12-2021.6.
+Enterprise Cooperation Project with Huawei, Co-Principal Investigator, 2020.6-2021.6.
+Enterprise Cooperation Project on Smart Traffic, Principal Investigator, 2019.12-2020.12.
+International Cooperation Project with Intel on 5G, Partner, 2019.04-2020.03.
+National Natural Science Foundation of China, Principal Investigator, 2015.01-2017.12.
+My Group 实验室
+Looking for Students
+We are always looking for highly motivated and determined graduate/undergraduate students to work on research topics related to wireless communications, data analytics, and machine learning.
+Candidates are expected to have solid background in mathematical modeling, wireless communications, and/or machine learning.
+Passion, collaboration, hard work, and strong motivation towards academic excellence should be necessary.
+If interested and have the right background, please email me at yayugao@hust.edu.cn.
+我目前正在招收研究生。感兴趣的同学欢迎与我电邮联系。
+Selected Publications 论文精选
+Book Chapter 书籍章节
+Yayu Gao, Wen Zhan and Lin Dai, "Random Access: Connection-Free or Connection-Based?", invited chapter in Future Communications, World Scientific, 2022.
+Journals 期刊论文
+Yingqi Lin, Xinghua Sun, Yayu Gao, Wen Zhan, and Yitong Li, “Spectrum Sharing Mechanisms in the Unlicensed Band: Performance Limit and Comparison,” to appear in IET Communications.
+Yingqi Lin, Xinghua Sun, Yayu Gao, Wen Zhan, Xijun Wang, and Xiang Chen, "Fair and Efficient Spectrum Sharing in Unlicensed Bands: Does Number of Links Matter?" to appear in IEEE Trans. Veh. Tech..
+Yayu Gao, Shuangfeng Fang, Xiangchen Song and Lin Dai, “When Aloha and CSMA Coexist: Modeling, Fairness and Throughput Optimization,” IEEE Trans. Wireless Commun., vol. 21, no. 10, pp. 8163-8178, Oct. 2022.
+Chuqiao Yi, Zhiwei Chen, Yayu Gao*, Qingguo Du*, "Designing high efficiency asymmetric polarization converter for blue light: a deep reinforcement learning approach," Optics Express, vol. 30, no. 6, pp. 10032-10049, 2022.
+Chuqiao Yi, Yuliang Wu, Yayu Gao*, Qingguo Du*, "Tandem Solar Cells Efficiency Prediction and Optimization via Deep Learning," Physical Chemistry Chemical Physics, vol.23, pp. 2991-2998, 2021.
+Yayu Gao and Sumit Roy, “Achieving Proportional Fairness for LTE-LAA and Wi-Fi Coexistence in Unlicensed Spectrum,” IEEE Trans. Wireless Commun., vol. 19, no. 5, pp. 3390-3404, May 2020.
+彭俊卿，高雅玙*，黑晓军. 在部分饱和的异构无线局域网中实现服务质量保证.[J]. 郑州大学学报, 2019, 51(04):81-87.
+方双凤, 高雅玙*, 黑晓军. 在非授权频段下实现LTE-U与Wi-Fi网络的公平共存 [J]. 小型微型计算机系统, 2019, 40(12):2566-2570.
+Yayu Gao and Lin Dai, “Random Access: Packet-Based or Connection-Based?” IEEE Trans. Wireless Commun., vol. 18, no. 5, pp. 2664-2678, May 2019.
+Yayu Gao, Xinghua Sun, and Lin Dai, “Sum Rate Optimization of Multi-Standard IEEE 802.11 WLANs,” IEEE Trans. Commun., vol. 67, no. 4, pp. 3055-3068, Apr. 2019.
+Xinghua Sun and Yayu Gao, “Distributed throughput optimization for heterogeneous IEEE 802.11 DCF networks,” Wireless Networks, vol. 24, no. 4, pp. 1205-1215, May 2018.
+Yayu Gao, Lin Dai, and Xiaojun Hei, “Throughput Optimization of Multi-BSS IEEE 802.11 Networks with Universal Frequency Reuse,” IEEE Trans. Commun, vol. 65, no. 8, pp. 3399-3414, Aug. 2017.
+Yayu Gao, Xinghua Sun, and Lin Dai, “IEEE 802.11e EDCA Networks: Modeling, Differentiation and Optimization,” IEEE Trans. Wireless Commun., vol. 13, no. 7, pp. 3863-3879, July 2014.
+Yayu Gao and Lin Dai, “Optimal Downlink/Uplink Throughput Allocation for IEEE 802.11 DCF Networks,” IEEE Wireless Commun. Letters, vol. 2, no. 6, pp. 627-630, Dec. 2013.
+Yayu Gao, Xinghua Sun, and Lin Dai, “Throughput Optimization of Heterogeneous IEEE 802.11 DCF Networks,” IEEE Trans. Wireless Commun., vol. 12, no. 1, pp. 398-411, Jan. 2013.
+Conferences 会议论文
+Jie Zhang, Yayu Gao* et. al., "Synchronous Multi-Link Access in IEEE 802.11be: Modeling and Network Sum Rate Optimization," in IEEE ICC, June 2022.
+Jiangwei Peng, Yayu Gao* et. al., "3GPP Fairness Constrained Throughput Optimization for 5G NR-U and WiFi Coexistence in the Unlicensed Spectrum," in IEEE WCNC, May 2022.
+Chenming Zhou and Yayu Gao*, "Throughput Optimization of CSMA with Imperfect Sensing," in IEEE ICC, June 2021.
+Yan Li, Junjie He, and Yayu Gao*, "Intelligent Traffic Signal Control with Deep Reinforcement Learning at Single Intersection," in ACM 7th International Conference on Computing and Artificial Intelligence (ICCAI), May 2021.
+Hao Yin, Pengyu Liu, Keshu Liu, Liu Cao, Lytianyang Zhang, Yayu Gao, and Xiaojun Hei, NS3-AI: Fostering Artificial Intelligence Algorithms for Networking Research, Workshop on ns-3 (WNS3), June 17-18, 2020.
+Yayu Gao, "LTE-LAA and WiFi in 5G NRUnlicensed: Fairness, Optimization and Win-Win Solution," in IEEE Smart World Congress 2019, Leicester, UK, Aug. 2019.
+Yachao Yin, Yayu Gao*, Sohaib Manzoor, and Xiaojun Hei, “Optimal RTS Threshold for IEEE 802.11 WLANs: Basic or RTS/CTS?,” in IEEE Smart World Congress 2019, Leicester, UK, Aug. 2019.
+Kazi Md. Shahiduzzaman, Junqing Peng, Yayu Gao, Xiaojun Hei and Wenqing Cheng, "Towards Accurate and Robust Fall Detection for the Elderly in a Hybrid Cloud-Edge Architecture," in IEEE Smart World Congress 2019, Leicester, UK, Aug. 2019.
+Yachao Yin, Yayu Gao*, and Xiaojun Hei, “Performance Evaluation of a Unified IEEE 802.11 DCF Model in NS-3,” in International Conference on Simulation Tools and Techniques (SIMUTools2018), Chengdu, China, July 2019.
+Junqing Peng, Yayu Gao*, Xiaojun Hei, Chengwei Zhang, "Low-Latency Guarantee of Wireless Body Area Networking for Fall Detection and Protection," IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW 2019), Taiwan, China, May 20-22 2019.
+(Best Paper Award 3rd) Shuangfeng Fang, Yayu Gao*, Chengwei Zhang and Xiaojun Hei,"Achieving 3GPP Fairness for LTE-U and WiFi Coexisting Networks in Unlicensed Spectrum" in 2019 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), Taiwan, China, May 2019.
+Hanni Cheng, Jin Zhang, Yayu Gao and Xiaojun Hei, "Deep Learning Wi-Fi Channel State Information for Fall Detection," IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW 2019), Taiwan, China, May 20-22 2019.
+Yayu Gao*, Junqing Peng, Yachao Yin, Xiaojun Hei, Di Wu, "Developing Wireless Networking Labs for MOOC Learners on an Online Programming Platform," in IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE2018), Wollongong, NSW, Australia, 4-7 December 2018.
+Yayu Gao*, Junqing Peng, Yachao Yin, Xiaojun Hei, Xiaoyan Wang, "Improving a Software/Hardware Integrated Computer Networking Laboratory Course," in IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE2018), Wollongong, NSW, Australia, 4-7 December 2018.
+Shuangfeng Fang, Yayu Gao*, Xiaojun Hei,"Performance Evaluation of Fair Coexistence of LTE-U and Wi-Fi Networks in the Unlicensed Bands," in National Data Communication Conference (NDCC2018), Jiangsu, China, Nov. 2018.
+Junqing Peng, Yayu Gao*, Xiaojun Hei,"Achieving Quality of Service Guarantee in Partially-saturated IEEE 802.11e EDCA Heterogeneous Wireless Local Area Networks," in National Data Communication Conference (NDCC2018), Jiangsu, China, Nov. 2018.
+Yachao Yin, Yayu Gao*, and Xiaojun Hei, “Dynamic Tuning of RTS Threshold in DCF networks,” in National Data Communication Conference (NDCC2018), Nanjing, China, Nov. 2018.
+Yayu Gao, Xinghua Sun, and Lin Dai, "Coexisting 802.11a/n and 802.11ac Clients in WLANs: Optimization and Differentiation," accepted in IEEE ICC 2017.
+Ze Chen, Ding Fu, Yayu Gao, Xiaojun Hei, "Constructing a low-cost high-density WiFi network testbed," in National Data Communication Conference (NDCC2016), Hebei, China, Sept. 2016.
+Yayu Gao, Lin Dai, and Xiaojun Hei, “Throughput Optimization of Non-real-time Flows with Delay Guarantee of Real-time Flows in IEEE 802.11e EDCA Networks,” in Proc. IEEE ICC, London, UK, June 2015.
+Yayu Gao, Xinghua Sun, and Lin Dai, “Achieving Optimum Network Throughput and Service Differentiation for IEEE 802.11e EDCA Networks,” in Proc. IEEE WCNC, Shanghai, China, Mar. 2013.
+Yayu Gao, Xinghua Sun, and Lin Dai, “Throughput Optimization of Heterogeneous IEEE 802.11 DCF Networks,” in Proc. IEEE CISS, Princeton, United States, Mar. 2012.
+Yayu Gao and Lin Dai, “On the Throughput of CSMA,” in Proc. IEEE CISS, Baltimore, United States, Mar. 2011.
+Patents 专利
+高雅玙；张杰，一种多链路同步接入吞吐量优化方法、系统终端及介质.【已授权】，授权号：ZL202110759085.1
+高雅玙；彭江伟；方双凤，5G新空口与WiFi网络在未授权频段共存优化方法及系统.【已授权】，授权号：ZL202110759085.1
+徐爱波、肖泳、张玉泉、高雅玙、李莹玉、李海涛、胡记伟、张鹏，一种沉浸式虚拟网络会议方法和装置. 【已受理】，受理号：202211592781.9
+PhD Thesis 博士论文
+From Heterogeneous IEEE 802.11 DCF Networks to IEEE 802.11e EDCA Networks: Modeling, Differentiation, Optimization and Quality-of-Service Guarantee.
+Teaching 教授课程
+Fundamentals of Information Theory 基础信息论
+Computer Networks Labs 计算机网络实验
+Fundamental of Wireless Communications 无线通信基础
+2020年，获得2019～2020学年度华中科技大学教学质量优秀奖二等奖。
+2019年10月，获得全国高等学校电子信息类专业青年教师授课竞赛决赛一等奖。查看全文
+2019年8月，获得全国高等学校电子信息类专业青年教师授课竞赛初赛华南赛区一等奖。
+2016年10月，获得华中科技大学青年教师教学竞赛一等奖。
+Academic Services 学术服务
+Membership
+IMT 2030 6G 网络智能组 成员
+Member, IEEE
+Member, China Computer Federation (CCF)
+Session Chair
+IEEE/CIC lnternational Conference on Communications in China (ICCC'22)
+IEEE Information Communication Technology Conference (ICTC'21)
+IEEE Information Communication Technology Conference (ICTC'20)
+Technical Program Committee (TPC)
+Computer Communications (Journal, Impact Factor 2.613)
+IEEE Information Communication Technology Conference (WCNC'22)
+IEEE Information Communication Technology Conference (ICTC'20)
+IEEE Wireless Communications and Networking Conference (WCNC'19)
+IEEE International Conference on Communications (ICC'18)
+IEEE International Conference on Communications (ICC'17)
+IEEE International Conference on Communications (ICC'15)
+Reviewer
+IEEE Wireless Communications Magazine (WCM)
+IEEE Transactions on Networking (ToN)
+IEEE Transactions on Wireless Communications (TWC)
+IEEE Transactions on Mobile Computing (TMC)
+IEEE Transactions on Communications (TCOM), Exemplary Reviewer 2017
+IEEE Transactions on Vehicular Technology (TVT)
+IEEE Access
+Computer Communications
+IET Communications
+IEEE Wireless Communications and Networking Conference (WCNC)
+IEEE International Conference on Communications (ICC)
+IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)
+IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)
+Last updated on June 2022. Copyright © All rights reserved.

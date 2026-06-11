@@ -1,0 +1,39 @@
+﻿
+姓名: 周波
+电子信息与通信学院副教授
+个人简介
+周波，男，博士，华中科技大学电子信息与通信学院副教授。
+个人网站
+http://xxxxxx
+个人邮箱
+zhoubo@hust.edu.cn
+代表性论文
+• Zhou Bo, Wang Shengqing, Ma Yong, Mei Xiaoguang, Li Bin, Li
+Hao, Fan Fan, An infrared image impulse noise suppression algorithm based on
+fuzzy logic, INFRARED PHYSICS & TECHNOLOGY, 2013,60,346-358
+• Yu Yin, Ma Yong, Li Hao, Huang Jun, Fang Yu, Liang Kun, Zhou
+Bo*, Simulation of simultaneously obtaining ocean temperature and salinity
+using dual-wavelength Brillouin lidar, LASER PHYSICS LETTERS, 2014,11(3),
+通讯作者
+• Ma Yong, Fan Fan, Liang Kun, Li Hao, Zhou Bo*, An analytical
+model for Rayleigh-Brillouin scattering spectra in gases, JOURNAL OF OPTICS,
+2012,14(9), 通讯作者
+• Bo Zhou, Yong Ma, Kun Liang, Zhiqiang Tu
+and Hongyuan Wang, A novel system for modulated lidar parameter optimization,
+Chinese Optics Letters, 2011,9(6),062802
+• Bo Zhou, Yong Ma, Hao Li, and Kun Liang, A study of two-point
+multi-section non-uniformity correction auto division algorithm for infrared
+images, SPIE, 2010, v 7658, p 76583X
+• Bo Zhou, Yong Ma, Kun Liang and Zhiqiang Tu, The impact of
+pulse parameter on modulated lidar performance, SPIE, 2011,v8192,81921M
+主要奖励或荣誉
+• 2009年 湖北省科技进步一等奖 基于HFC和IP混合网络的互动电视系统
+• 2011年 总装备部军队科技进步二等奖
+• 2012年 第八届中国研究生电子设计竞赛优秀指导老师
+• 2013年 湖北省科技进步一等奖 高性能红外成像关键技术研究及其应用
+• 2014年 教育部技术发明二等奖 高帧频、大面阵红外成像关键技术及装备
+• 2014年 第九届中国研究生电子设计竞赛优秀指导老师
+承担课程
+• 数字电路与逻辑设计
+• 电子线路设计、测试与实验
+• 现代电路系统讲座

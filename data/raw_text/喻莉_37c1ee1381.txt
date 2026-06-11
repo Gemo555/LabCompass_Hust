@@ -1,0 +1,93 @@
+Li Yu's Homepage
+Li Yu, PhD, Professor
+School of Electronics Information and Communications (EIC)
+Huazhong University of Science and Technology (HUST)
+E-mail: hustlyu AT hust dot edu dot cn
+Address: B303, WNLO, Wuhan 430074, China
+Group Website: Multimedia and Communication Network Center (MCNC)
+Short Bio
+Dr. Yu received her B.Sc., M.Sc. and Ph.D. degrees in communication and information system from HUST in 1992, 1996 and 1999, respectively. Since 1999 she has been with the School of EIC, HUST, where she is now a full professor and the director of Multimedia and Communication Network Center. From Dec. 2013 to June 2014, she was a visiting professor in the Department of Electrical and Computer Engineering at University of Waterloo, hosted by Prof. Sherman Shen. Her research focuses on image processing, video coding/decoding, wireless networking, etc.
+Dr. Yu is an IEEE member and served as the secretary of IEEE Wuhan Section from 2007 and was elected as the award chair in 2013. She also worked as the co-chair of Audio Video coding Standard workgroup of China. She has published more than 100 papers in prestigious international journals and conference proceedings.
+Reasearch Areas
+Multimedia information processing
+focuses on image sampling, image/video coding and 3-D image/video re-construction. Our objective is to develop efficient image/video codec that is of high quality and low bitrate, friendly for video streaming across the wireless networks.
+Wireless networking focuses on 5G cellular systems, with special interests in mobile edge architecture design and analysis, software defined networking. Our objective is to design advanced cellular system architectures and efficient resource allocation algorithms that meet the user requirement in the coming 5G era. We are also interested in transport layer protocols, especially congestion control and queue management algorithms for multimedia streaming.
+Honors and Awards
+Huazhong Scholar Distinguished Professor
+Excellent Youth Scientist of Hubei Province
+Most Welcome Supervisor Award in HUST
+First Prize for Technical Innovation in Hubei Province
+New Century Excellent Scholar of Ministry of Education
+Excellent Young Teachers in HUST
+First Prize for China Standard Innovation
+Prize of "Ten Major Technological Inventions for Information Industry"
+New Century Excellent Scholar of Hubei Province
+Awarded Huawei Prize for Teaching of HUST
+Experts in Communications of Hubei Province
+Excellent Teacher in Chinese Universities
+Selected Projects (as Principal Investigator)
+2015-2017: Light field based true 3D video sampling and generation, funded by National High-tech R&D Program (863 Program) of Ministry of Science and Technology.
+2015-2017: Compact representation and efficient compression of true 3D video, funded by National High-tech R&D Program (863 Program) of Ministry of Science and Technology.
+2013-2017: Multi-view sampling and reconstruction based on multiple depth cameras in complex scenes, funded by State Key Program of National Natural Science Foundation of China.
+2013-2015: Multi-view depth sampling and depth reconstruction, funded by the Ph.D. Programs Foundation of Ministry of Education of China.
+2010-2012: Performance analysis model for wireless communication system based on generalized stochastic network calculus, funded by National Natural Science Foundation of China.
+2010-2012: Study of pervasive service and application in future mobile communication, funded by the Project of International Cooperation of Ministry of Science and Technology.
+2010-2012: Next Generation of Mobile Broadband Communication Networks, funded by Major Program for the Fundamental Research of Chinese Ministry of Science and Technology.
+2009-2011: Trust Routing Protocol with independent trust mechanism in ad hoc networks, funded by National High-tech R&D Program (863 Program) of Ministry of Science and Technology.
+Selected Journal Publications
+Yi Chen, Li Yu, Kaoru Ota, and Mianxiong Dong, Robust Activity Recognition for Aging Society, IEEE Journal of Biomedical and Health Informatics, accepted.
+Changjian Zhu, Hong Zhang, and Li Yu, Structure Models for Image-Assisted Geometry Measurement in Plenoptic Sampling, IEEE Transactions on Instrumentation and Measurement, vol. 67, no. 1, pp. 150-166, 2018.
+Changjian Zhu, Li Yu, and Zixiang Xiong, A Non-Coverage Field Model for Improving the Rendering Quality of Virtual Views, IEEE Transactions on Multimedia, vol. 20, no. 3, pp. 738-753, 2018.
+Ning Zhang, Peng Yang, Ju Ren, Dajiang Chen, Li Yu, and Xuemin Shen, Synergy of Big Data and 5G Wireless Networks: Opportunities, Approaches, and Challenges, IEEE Wireless Communications, vol. 25, no. 1, pp. 12-18, 2018.
+Changjian Zhu, Li Yu, Zengqiang Yan, and Sen Xiang, Frequency Estimation of the Plenoptic Function Using the Autocorrelation Theorem, IEEE Transactions on Computational Imaging, vol. 3, no. 4, pp. 966-981, 2017.
+Changjian Zhu and Li Yu, Spectral Analysis of Image-Based Rendering Data with the Scene Geometry, Multimedia Systems, vol. 23, no. 5, pp. 627-644, 2017.
+Peng Yang, Ning Zhang, Shan Zhang, Kan Yang, Li Yu, and Xuemin Shen, Identifying the Most Valuable Workers in Fog-Assisted Spatial Crowdsourcing, IEEE Internet of Things Journal, vol. 4, no. 5, pp. 1193-1203, 2017.
+Peng Yang, Ning Zhang, Yuanguo Bi, Li Yu, and Xuemin Shen, Catalyzing Cloud-Fog Interoperation in 5G Wireless Networks: An SDN Approach, IEEE Network, vol. 31, no. 5, pp. 14-20, 2017.
+Jingjing Luo, Jinbei Zhang, Ying Cui, Li Yu, and Xinbing Wang, Asymptotic Analysis on Content Placement and Retrieval in MANETs, IEEE/ACM Transactions on Networking, vol. 25, no. 2, pp. 1103-1118, 2017.
+Sen Xiang, Huiping Deng, Li Yu, Jin Wu, You Yang, Qiong Liu, and Zhenwei Yuan, Hybrid Profilometry Using a Single Monochromatic Multi-Frequency Pattern, Optics Express, vol. 25, no. 22, pp. 27195-27209, 2017.
+Peng Zhou, Li Yu, and Gang Zhong, The Plenoptic Spectrum Analysis and Reconstruction Filter Design for The Occlusive Scene, Neurocomputing, vol. 215, pp. 53-62, 2016.
+Jun Zheng, Peng Yang, Jing Luo, Qiuming Liu, and Li Yu, Per-user Throughput Analysis for Secondary Users in Multi-hop Cognitive Radio Networks, Computer Networks, vol. 106, pp. 122-133, 2016.
+Jingjing Luo, Li Yu, Jinbei Zhang, and Xinbing Wang, Nonasymptotic Multicast Throughput and Delay in Multihop Wireless Networks, IEEE Transactions on Vehicular Technology, vol. 65, no. 7, pp. 5525-5537, 2016.
+Sen Xiang, Li Yu, and Changwen Chen, No-Reference Depth Assessment Based on Edge Misalignment Errors for T+ D Images, IEEE Transactions on Image Processing, vol. 25, no. 3, pp. 1479-1494, 2016.
+You Yang, Xu Wang, Qiong Liu, Mingliang Xu, and Li Yu, A Bundled-optimization Model for Multiview Dense Depth Map Synthesis, Information Sciences, vol. 320, pp. 306-319, 2015.
+Jingjing Luo, Jinbei Zhang, Li Yu, and Xinbing Wang, Impact of Location Popularity on Throughput and Delay in Mobile Ad Hoc Networks, IEEE Transactions on Mobile Computing, vol. 14, no. 5, pp. 1004-1017, 2015.
+Jingjing Luo, Jinbei Zhang, Li Yu, and Xinbing Wang, The Role of Location Popularity in Multicast Mobile Ad Hoc Networks, IEEE Transactions on Wireless Communications, vol. 14, no. 14, pp. 2131-2143, 2015.
+You Yang, Huiping Deng, Jin Wu, and Li Yu, Depth Map Reconstruction and Rectification through Coding Parameters for Mobile 3D Video System, Neurocomputing, vol. 151, no. 2, pp. 663-673, 2015.
+Jia Zhao, Li Yu, and Jingru Li, Identifying Influential Nodes Based on Graph Signal Processing in Complex Networks, Chinese Physics B, vol. 24, no. 5, 2015.
+Sen Xiang, Li Yu, You Yang, Qiong Liu, and Jialiang Zhou, Interfered Depth Map Recovery with Texture Guidance for Multiple Structured Light Depth Cameras, Signal Processing: Image Communication, vol. 31, pp. 34-46, 2015.
+You Yang, Xu Wang, Tao Guan, Jialie Shen, and Li Yu, A Multi-Dimensional Image Preference Prediction Model for User Generated Images in Social Networks, Information Sciences, vol. 281, pp: 601–610, 2014.
+Li Yu, Cong Liu, Wenwu Zhu, Sha Hu, and Wei Wang, Bandwidth Efficient and Rate-Adaptive Video Delivery in TV White Space, IEEE Transactions on Circuits and Systems for Video Technology, vol. 24, no. 9, pp. 1605-1619, 2014.
+Zengqiang Yan, Li Yu, You Yang, and Qiong Liu, Extending Interference Problem: Hierarchical Patterns for Multiple-projector Structured Light System, Applied Optics, vol. 53, no. 17, pp. 3621-3632, 2014.
+Qiong Liu, You Yang, Yue Gao, Rongrong Ji, and Li Yu, A Bayesian Framework for Dense Depth Estimation Based on Spatial-temporal Correlation, Neurocomputing, vol. 104, pp. 1-9, 2013.
+Huiping Deng, Li Yu, Juntao Zhang, Bin Feng, and Qiong Liu, Edge-preserving Down/Up-sampling for Depth Map Compression in High Efficiency Video Coding, Optical Engineering, vol. 52, no. 7, pp. 071509-1-8, 2013.
+Huiping Deng, Li Yu, Bin Feng, and Qiong Liu, Structural Similarity-based Synthesized View Distortion Estimation for Depth Map Coding, IEEE Transactions on Consumer Electronics, vol. 58, no. 4, pp. 1338-1344, 2012.
+Selected Conference Publications
+Tiansong Li, Li Yu, Shengwei Wang, and Hongkui Wang, Simplified Depth Intra Coding Based on Texture Feature and Spatial Correlation in 3D-HEVC, in Proc. of IEEE DCC, 2018.
+Peng Yang, Ning Zhang, Shan Zhang, Li Yu, Junshan Zhang, and Xuemin Shen, Dynamic Mobile Edge Caching with Location Differentiation, in Proc. of IEEE GLOBECOM, 2017.
+Pengfei He, Li Yu, Jingru Li, and Chaozhun Wen, CR-IIA: Collaborative Recommendation Algorithm Based on Implicit Item Associations, in Proc. of IEEE GLOBECOM, 2017.
+Jingru Li and Li Yu, A New Node Centrality Evaluation Model for Multi-Community Weighted Social Networks, in Proc. of IEEE VTC-Fall, 2017.
+Qiuming Liu and Li Yu, Control of Multi-Hop Wireless Networks with Security Constraints, in Proc. of IEEE VTC-Fall, 2017.
+Changjian Zhu, Hong Zhang, and Li Yu, An Occlusion Model for Improving Rendering Quality of View, in Proc. of IEEE ICIP, 2017.
+Shengwei Wang, Li Yu, Sen Xiang, and Zixiang Xiong, Fault-Tolerance Based Block-Level Bit Allocation and Adaptive RDO For Depth Video Coding, in Proc. of IEEE MMSP, 2017.
+Yi Chen, Li Yu, and Shengwei Wang, An Improved MRF Model for Robust Color Guided Depth Up-Sampling, in Proc. of IEEE VCIP, 2017.
+Changjian Zhu and Li Yu, Image-assisted Geometry Simplification for the Plenoptic Sampling, in Proc. of ICASSP, 2016.
+Shengwei Wang and Li Yu, Local Entropy Minimization and Measurement Rate Allocation for Compressed Sensing of Depth Video, in Proc. of PCS, 2016.
+Zengqiang Yan, Li Yu, and Zixiang Xiong, Texture-Free Large-Area Depth Recovery for Planar Surfaces, in Proc. of IEEE MMSP, 2015.
+Zengqiang Yan, Li Yu, and Zixiang Xiong, Large-area depth recovery for RGB-D camera, in Proc. of IEEE ICIP, 2015.
+Lianhua Li, Sen Xiang, You Yang, and Li Yu, Multi-Camera Interference Cancellation of Time-of-Flight (TOF) Cameras, in Proc. of ICIP, 2015.
+Sen Xiang, Jingteng Xue, Li Yu, and Changwen Chen, No-reference depth quality assessment for texture-plus-depth images, in Proc. of IEEE ICME, 2014.
+Jun Zheng, Li Yu, and Peng Yang, Throughput Analysis of Cognitive Radio Networks Via Stochastic Network Calculus, in Proc. of WCSP, 2014.
+Peng Zhou, Li Yu, and Cholung Pak, The Spectrum Broadening in the Plenoptic Function, in Proc. of ACM ICIMCS, 2014.
+Linze Wu, Li Yu, and Changjian Zhu, Camera position optimization using the effective area in light field rendering, in Proc. of ACM ICIMCS, 2014.
+Changjian Zhu, Li Yu, and Peng Zhou, Coverage field analysis to the quality of light field rendering, in Proc. Springer MMM, 2014.
+Sen Xiang, Li Yu, Qiong Liu, and Zixiang Xiong, A Gradient-based Approach for Interference Cancelation in Systems with Multiple Kinect Cameras, in Proc. of IEEE ISCAS, 2013.
+Peng Zhou, Li Yu, and Gang Zhong, The non-Lambertian Reflection in Plenoptic Sampling, in Proc. of IEEE ICIP, 2013.
+Jingjing Luo, Jinbei Zhang, Li Yu, and Xinbing Wang, Non-asymptotic Multicast Throughput Capacity in Multi-hop Wireless Networks, in Proc. of IEEE GLOBECOM, 2013.
+Jingjing Luo, Li Yu, Shiting Hu, and Chao Luo, Throughput and Delay of Mobile Hybrid Wireless Networks under K Length Routing Policy, in Proc of IEEE ICC, 2013.
+Yuan Gao, Li Yu, Zuhao Liu, Cong Liu, and Desheng Wang, On the Capacity of DMPR Wireless Networks, in Proc. of IEEE WCNC, 2013.
+Qin Zhu, Li Yu, and Sangsha Fang, Per-Flow End-To-End Delay Bounds in Hybrid Wireless Network, in Proc. of IEEE WCNC, 2013.
+Lie Jiang, Li Yu, Yan Dong, and Zilong Chen, Delay and Backlog Distribution Analysis of Amplify-And-Forward Cooperative Channels: A Stochastic Network Calculus Perspective, in Proc. of IEEE WCNC, 2013.
+You Yang, Qiong Liu, Yue Gao, Binbin Xiong, Li Yu, Huanbo Luan, Rongrong Ji, and Qi Tian, Stereotime, A Wireless 2D and 3D Switchable Video Communication System, in Proc. of ACM MM, 2013.
+Peng Zhou, Li Yu, and Gang Zhong, The non-Lambertian reflection in Plenoptic Sampling, in Proc. of IEEE ICIP, 2013.
+Shiting Hu, Li Yu, Qiuming Liu, and Peng Yang, Throughput Capacity of Wireless Networks with Social Features, in Proc. of IEEE WCSP, 2013.
+Last updated May 2018.

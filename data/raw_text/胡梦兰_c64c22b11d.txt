@@ -1,0 +1,95 @@
+胡梦兰 Menglan Hu
+HOME
+个人简介
+研究方向
+科研项目
+论文精选
+Menglan Hu 胡梦兰
+Ph.D., Associate
+Professor
+School of Electronic Information and Communications 电子信息与通信学院
+Huazhong University of Science and Technology 华中科技大学
+华中科技大学 南一楼西南204
+humenglan@hust.edu.cn / humenglan@gmail.com
+个人简介
+研究方向
+科研项目
+论文精选
+Dr. Menglan Hu received his BE degree from Huazhong University of Science and Technology in 2007. He obtained his PHD degree from National University of Singapore (NUS) in 2012 (supervised by Prof. Bharadwaj Veeravalli). He later worked as a post-doctoral research fellow in Nanyang Technological University (NTU) for two years, under the supervision of Prof. Jun Luo. He is currently an associate professor in the School of Electronic Information and Communications at Huazhong University of Science and Technology. His research interests are in the areas of distributed computing, mobile computing, cloud/edge computing, Internet of Things, scheduling and resource management, and wireless networks.
+研究方向
+Research Interests
+Mobile Cloud & Edge Computing
+云与边缘计算
+Internet of Things
+物联网
+Mobile Computing
+移动计算
+Distributed Computing
+分布式计算
+Wireless Network
+无线网络
+Unmanned Aerial Vehicle
+无人机
+科研项目
+Research Projects
+国家自然科学基金面上项目，61872415，车辆-无人机协同的调度和路径规划联合设计研究，79万元，2019-2022，主持。
+国家自然科学基金青年项目，61502193，部分可充电的无线传感器网络的布置、路由和无线充电，23.7万元，2016-2018，主持。
+武汉市应用基础研究项目，移动边缘计算中依赖性任务的自适应在线卸载研究，50万元，2019-2021，主持。
+华中科技大学自主创新研究项目（启动费），15万元，2014，主持。
+论文精选
+Selected Publications
+M. Hu, L. Luo, Y. Wang, and B. Veeravalli, Adaptive Scheduling of Task Graphs with Dynamic
+Resilience, IEEE Transactions on Computers, 2017, 66(1): 17~23. （第一作者、CCF推荐A类）
+M. Hu, W. Liu, K. Peng, X. Ma, W. Cheng, J. Liu, and B. Li, “Joint routing and scheduling for
+vehicle-assisted multi-drone surveillance,” IEEE Internet of Things Journal, DOI
+10.1109/JIOT.2018.2878602, 2018.（第一作者，中科院1区）
+M. Hu, W. Liu, J. Lu, R. Fu, K. Peng, X. Ma, and J. Liu, “On the joint design of routing and
+scheduling for vehicle-assisted multi-uav inspection,” Future Generation Computer Systems,
+2019, 94(5): 214-223.（第一作者，中科院2区）
+M. Hu, Z. Chen, K. Peng, X. Ma, P. Zhou, and J. Liu, “Periodic Charging for Wireless Sensor
+Networks with Multiple Portable Chargers,” IEEE Access, vol. 7, pp. 2612-2623, 2019.
+（第一作者，中科院2区）
+C. Cai, M. Hu, D. Cao, X. Ma, Q. Li, and J. Liu, “Self-deployable indoor localization with
+acoustic-enabled iot devices exploiting participatory ensing,” IEEE Internet of Things
+Journal, 2019, DOI: 10.1109/JIOT.2019.2900524.（通信作者，中科院1区）
+K. Peng, M. Hu, C. Cai, X. Ma, Y. Yang, and J. Liu, “On simultaneous power replenishment for
+wireless sensor networks with multiple portable chargers,” IEEE Access, vol. 6, pp.
+63120–63130, 2018. （通信作者，中科院2区）
+P. Zhou, G. Zhong, M. Hu, R. Li, Q. Yan, K. Wang, S. Ji, and D. Wu, “Privacy-Preserving and
+Residential Context-Aware Online Learning for IoT-Enabled Energy Saving with Big Data Support in
+Smart Home Environment,” IEEE Internet of Things Journal, 2019, DOI
+10.1109/JIOT.2019.2903341. （通信作者，中科院1区）
+K. Peng, W. Liu, Q. Sun, X. Ma, M. Hu, D. Wang, and J. Liu, "Wide-Area Vehicle-Drone
+Cooperative Sensing: Opportunities and Approaches," IEEE Access, vol. 7, pp.
+1818-1828, 2019. （通信作者，中科院2区）
+C. Cai, M. Hu, X. Ma, K. Peng, and J. Liu, "Accurate Ranging on Acoustic-enabled IoT
+Devices," IEEE Internet of Things Journal, DOI: 10.1109/JIOT.2018.2879371.
+X. Su, X. Qu, Z. Zou, P. Zhou, W. Wei, S. Wen, and M. Hu, “k-Reciprocal Harmonious Attention
+Network for Video-Based Person Re-Identification”. IEEE Access, vol. 7, pp.
+22457-22470, 2019.
+C. Cai, X. Ma, M. Hu, Y. Yang, Z. Li, and J. Liu, “SAP: A Novel Stationary Peers Assisted
+Indoor Positioning System.” IEEE Access, vol. 6, pp. 76475-76489, 2018.
+Kai Han，Chi Zhang，Jun Luo，Menglan Hu，Bharadwaj Veeravalli，Truthful Scheduling Mechanisms for
+Powering Mobile Crowdsensing，IEEE Transactions on Computers, 2016, 65(1): 294-307.
+（第一作者，中科院1区）
+Menglan Hu，Jun Luo，Yang Wang，Bharadwaj Veeravalli，Scheduling Periodic Task Graphs for
+Safety-Critical Time-Triggered Avionic Systems，IEEE Transactions on Aerospace and Electronic
+Systems, 2015, 51(3): 2294-2304。（第一作者，中科院2区）
+Yang Wang，Wei Shi，Menglan Hu，Virtual Servers Co-Migration for Mobile Accesses: Online vs.
+Ofine，IEEE Transactions on Mobile Computing，2015，14(12): 2576-2589. （通信作者，CCF推荐A类）
+Menglan Hu, Jun Luo, Yang Wang，Martin Lukasiewycz, Zeng Zeng. Holistic scheduling of
+real-time applications in time-triggered in-vehicle networks. IEEE Transactions on Industrial
+Informatics. 2014, 10(3): 1817-1828. （第一作者，中科院1区）
+Menglan Hu，Jun Luo，Yang Wang，Bharadwaj Veeravalli，Practical resource provisioning and caching
+with dynamic resilience for cloud-based content distribution networks，IEEE Transactions on
+Parallel and Distributed Systems，2014，25（8）：2169-2179. （第一作者，CCF推荐A类）
+Menglan Hu，Bharadwaj Veeravalli，Dynamic scheduling of hybrid real-time tasks on
+clusters，IEEE Transactions on Computers，2014，63（12）：2988-2997. （第一作者，CCF推荐A类）
+Menglan Hu，Bharadwaj Veeravalli，Requirement-aware scheduling of bag-of-tasks applications on
+grids with dynamic resilience，IEEE Transactions on Computers，2013，62（10）：2108-2114.
+（第一作者，CCF推荐A类）
+Menglan Hu，Bharadwaj Veeravalli，Requirement-aware strategies for scheduling real-time
+divisible loads on clusters，Journal of Parallel and Distributed Computing，2013，73（8）：1083-1091.
+Menglan Hu，Bharadwaj Veeravalli，Requirement-aware strategies with arbitrary processor release
+times for scheduling multiple divisible loads，IEEE Transactions on Parallel and Distributed
+Systems，2011，22（10）: 1697-1704. （第一作者，CCF推荐A类）

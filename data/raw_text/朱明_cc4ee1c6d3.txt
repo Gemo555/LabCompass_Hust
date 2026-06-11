@@ -1,0 +1,63 @@
+﻿
+姓名:朱明
+电子信息与通信学院教授
+个人简介
+朱明，男，博士，华中科技大学电子信息与通信学院教授。2008年获得华中科技大学信息与通信工程博士学位，师从王殊教授。2001年本科毕业于华中科技大学，2004年获得华中科技大学通信与信息系统硕士学位。于2014年至2015年，在美国西北大学机械工程系做访问学者，师从Richard
+M.
+Lueptow教授（McCormick工程和应用学院的资深副院长、产品设计和开发管理硕士项目联合创始人）。目前主持国家自然科学基金项目两项，国家重点研发项目一项。已发表顶级国际会议与杂志论文12篇。目前的主要研究方向包括超声信号处理、声学气体检测、火灾信号处理、嵌入式和DSP系统设计等。
+个人网站
+http://itec.hust.edu.cn/~zhuming
+个人邮箱
+zhuming@hust.edu.cn
+代表性论文
+• Tian Deng; Shu Wang; Ming Zhu ∗ . Dual-wavelength optical sensor for measuring the surface
+area concentration and the volume concentration of aerosols, Sensors &
+Actuators: B. Chemical, Jun, 2014, Vol.236, 334-342, 影响因子4
+• Hu, Yi ; Wang, Shu ; Zhu, Ming* ;
+Zhang, Kesheng ; Liu, Tingting ; Xu, Dongyu. Acoustic absorption spectral
+peak location for gas detection, Sensors & Actuators: B. Chemical, Nov,
+2014, Vol.203, p.1(8), 影响因子4
+• Long, Jiale ; Xi, Jiangtao ; Zhu,
+Ming ; Cheng, Wenqing ; Cheng, Rui ; Li, Zhongwei ; Shi, Yusheng. Absolute
+phase map recovery of two fringe patterns with flexible selection of fringe
+wavelengths, Applied Optics, 2014, Vol.53(9), pp.1794, 影响因子1.649
+• Ke-Sheng Zhang, Shu Wang, Ming Zhu*,
+Yi Ding, Yi Hu, Algorithm of capturing primary relaxation processes in
+excitable gases by two-frequency acoustic measurements, Measurement Science
+and Technology, 24(5): 1-8, 2013级, SCI&EI, 影响因子1.494
+• Zhang Ke-Sheng, Wang Shu, Zhu Ming*,
+Ding Yi, Hu Yi, Decoupling multimode vibrational relaxations in
+multi-component gas mixtures: Analysis of sound relaxational absorption
+spectra. Chin. Phys. B., 22(1)：014305-1-10, 2013级，SCI, 影响因子1.376
+• Y-Q Jia, S Wang, M Zhu* and F-G Yuan,
+Multi-relaxation time model and its application in construction of gas
+acoustic attenuation spectrum. Indian J Phys., 87(5): 419-424, 2013级, SCI
+• Du Guan-Zhen, Wang Shu, Zhu Ming*,
+Xia Tian, Duan Jing-pu, The Smoke Detectio Method Based on Structural
+Similarity of Video, Advanced Science Letter (ASL), 19(8): 2258-2261, 2013级
+• Hu Yi, Wang Shu, Zhu Ming*. A
+relaxation times coupling method to construct acoustic relaxation calibration
+for two-frequency measuring gas compositions，Applied
+Acoustics，
+2016, Vol . 113 , 102-108 , 影响因子1.068
+•
+张克声，王殊，朱明*，胡轶，贾雅琼，混合气体声复合弛豫频谱的解析模型，物理学报，第61卷，第17期：174301-1-11页，2012级，SCI，影响因子1.027
+•
+贾雅琼，王殊，朱明*，张克声，袁飞阁，气体声弛豫过程中有效比热容与弛豫时间的分解对应关系，物理学报，第69卷，第9期：095101-1-8页，2012级，SCI，影响因子1.027
+• Ming Zhu*, Shu Wang, Dong-hai Xia,
+Developed Acoustic Multi-Relaxation Algorithm for Carbon Monoxide
+Concentration Detection in Gas Mixtures, 14th International Conference on
+Automatic Fire Detection, 2009.9.8-10, Vol 1: 271-278, Duisburg, Germany,
+2009
+•
+朱明*，王殊，王菽韬，夏东海，基于混合气体分子复合弛豫模型的一氧化碳气体浓度检测算法，物理学报，第57卷，第9期：5749-5755页，2008，SCI&EI，影响因子1.165
+•
+朱明*，王殊，朱振宇，刘丽婧，微弱气体浓度检测的弛豫平滑处理算法，应用科学学报，第26卷，第2期：137-144页，2008，EI
+主要奖励或荣誉
+• 来华留学英语授课品牌课程《Digital Signal Processors and their Application》
+•
+•
+•
+承担课程
+• 本科《DSP处理器及应用》
+• 硕士全英文课程《嵌入式（含DSP）系统设计》

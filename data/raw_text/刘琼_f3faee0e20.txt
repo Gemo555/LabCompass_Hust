@@ -1,0 +1,76 @@
+Qiong Liu's Homepage
+Qiong Liu
+Home
+Research Interests
+Awards
+Funding and Projects
+Academic Services
+Publications
+Qiong Liu
+≡
+Qiong Liu
+Professor
+School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, 430074, P.R.China
+Email: q.liu@hust.edu.cn
+Research Interests
+3D video processing and understanding, interactive multimedia, 3D computer vision
+Awards
+2021, Second Prize Award for Technical Invention Award, China Society of Image and Graphics.
+The award is certificated for my academia and industrial contributions for innovation technologies in multi-view and scalable video coding techniques andcommunications.
+2009, Prize Award for Progress in Science and Technology, Chinese Ministry of Education, China
+The award is certificated for my academia and industrial contributions for innovation technologies in video coding techniques and multimedia communications. This award is the unique one in the field of 3D video granted in China so far.
+Funding and Projects
+2018-2021, Depth-based Attention Model and Natural Human-computer Interaction for Tri-Co Robots Reaction, granted by National Natural Science Foundation of China.
+Position: Independent PI.
+2015-2018, Multi-depth Fusion based MVD Joint Processing and Coding, granted by National Natural Science Foundation of China.
+Position: Independent PI.
+2013-2015, Multi-view depth of field based efficient video coding and accurate reconstruction for three dimensional video, granted by National Natural Science Foundation of China.
+Position: Independent PI.
+2009-2010, Key technologies and prototypes of 3DTV content generation, compression and reconstruction, granted as National High-tech R&D Program of China by China Ministry of Science and Technology
+Position: Main contributor
+2009-2010, Key technologies of 3DTV content generation and display, granted National Key Technology Research and Development Program by the China Ministry of Science and Technology
+Position: Main contributor
+Academic Services
+Associate Editor
+IET Image Processing, 2020.
+Special Issue organization
+Guest Editor of Special Issue on “Computation and Visualization for 3D Data” in Multimedia Tools and Applications, 2015.
+Conference organization
+Special Session co-Chair, ACM ICIMCS 2013 and 2014.
+Special Session co-Chair, ACM MMM 2014.
+Special Session co-Chair, ICME 2014.
+Reviewer of journals
+IEEE Transaction on Circuit System and Video Technology
+IEEE Transaction on Image Processing
+IEEE Transaction on Multimedia
+IEEE Transaction on Broadcasting
+IEEE Transactions on Cybernetics
+Applied Optics
+Optics Express
+Information Sciences
+Neurocomputing
+Journal of Visual Communication and Image Representation
+Multimedia System
+Signal Processing
+Multimedia Tools and Applications
+ETRI Journal
+PLoS ONE
+Publications
+Selected journal papers (* is marked as corresponding author)
+[1] Xiang Shi, You Yang, Qiong Liu*; I Understand You: Blind 3D Human Attention Inference From the Perspective of Third-Person, IEEE Transaction on Image Processing, vol. 20, July 2021, 6212-6225.
+[2] Kejun Wu, You Yang, Qiong Liu*, Xiaoping Zhang, Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images, IEEE Transactions on Circuits and Systems for Video Technology, DOI: 10.1109/TCSVT.2021.3066523
+[3] Qiong Liu, Zhengjun Zha, Yang Yang; Gradient-domain-based enhancement of multi-view depth video, Information Sciences, vol. 281, 2014, pp. 750-761.
+[4] Zengqiang Yan, Li Yu, You Yang, Qiong Liu; Beyond the interference problem: hierarchical patterns for multiple-projector structured light system, Applied Optics, Vol. 53, No. 17, June 2014, 3621-3632
+[5] Qiong Liu, You Yang, Rongrong Ji, Yue Gao, and Li Yu; Cross-View Down/Up-Sampling Method for Multiview Depth Video Coding, IEEE Signal Processing Letters, May 2012, Volume 19 , Issue 5, 295- 298.
+Selected conference papers
+[1] Qiong Liu, You Yang, Xu Wang, Liujuan Cao; Quality Assessment on User Generated Image for Mobile Search Application, Multimedia Modeling, MMM 2013, Part II, Lecture Notes in Computer Science, vol. 7733, 2013, pp. 1-11.
+[2] Qiong Liu, XiangyangJi, Yongbing Zhang, QionghaiDai, Geometric mapping assisted multiview depth video coding, ICASSP, 2012, pp. 1-4.
+[3] Qiong Liu, Ruimin Hu, “Perceptually motivated adaptive quantization algorithm for region-of-interest coding in H.264”, PCM, Lecture Notes in Computer Science, vol. 5353, 2008, pp. 129-137.
+[4] Hongjiang Xiao, Qiong Liu, Qionghai Dai, Cooperative cross-layer transmission for scalable video to resource-constrained receiver, MUM, Beijing, China, 2011.
+[5] Dong Li, Yongbing Zhang, Qiong Liu, XiangyangJi, Qionghai Dai, Joint block prediction in stereoscopic video coding, 3DTV-Conference 2011, Antalya, Turkey, 2011.
+Patents(Selected)
+[1] Qiong Liu, You Yang, Li Yu, Weimin Wu, Yue Gao, Guoxing Yu; A method and system for video fingerprint detection and video sequence matching based on visual features, 201310608893.3 (Chinese patent)
+[2] Qiong Liu, Xin He, You Yang, Li Yu, A multi-viewpoint compressed depth video enhancement method based on viewpoint consistency.201810646992.3 (Chinese patent)
+[3] Qiong Liu, Wanyu Hua, You Yang, Li Yu, Panoramic video concentration method, device and equipment and storage medium,201910648517.4 (Chinese patent)
+[4] Qiong Liu, Bei Li, You Yang, Li Yu, A Graph-Based Saliency Fusion Method For 3d Gaze Point Prediction,201810643503.9 (Chinese patent)
+[5] Qiong Liu, Guoxing Yu, You Yang, Li Yu, A Method Of Image Drawing Using Depth Map, 201410092452.7(Chinese patent)
