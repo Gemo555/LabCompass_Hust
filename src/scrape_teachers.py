@@ -35,7 +35,7 @@ TEACHER_URL_PATTERNS = ("professor/", "aprofessor/", "faculty.hust.edu.cn")
 LIST_PAGE_MARKERS = ("/xygk/szdw/",)
 LIST_PAGE_EXTENSIONS = (".htm", ".html")
 
-AI_CV_KEYWORDS = [
+AI_RELATED_KEYWORDS = [
     "计算机视觉",
     "图像处理",
     "视频处理",
@@ -67,6 +67,13 @@ AI_CV_KEYWORDS = [
     "multimodal",
     "deep learning",
     "machine learning",
+    "智能系统",
+    "智能计算",
+    "数据挖掘",
+    "知识图谱",
+    "强化学习",
+    "自然语言处理",
+    "智能优化",
 ]
 
 DIRECTION_RULES = [
@@ -98,6 +105,10 @@ COLUMNS = [
     "research_plain_explanation",
     "recommendation_priority",
     "confidence",
+    "undergrad_openness",
+    "publication_potential",
+    "interest_match",
+    "fit_summary",
     "来源URL",
     "发现来源URL",
     "原始HTML路径",
@@ -116,10 +127,13 @@ SUMMARY_COLUMNS = [
     "项目/论文关键词摘要",
     "本科生切入点",
     "方向标签",
-    "AI/CV相关度",
-    "AI/CV关键词",
+    "AI方向原始线索分",
+    "AI关键词",
     "推荐优先级",
     "置信度",
+    "本科生接纳程度",
+    "论文产出潜力",
+    "个人方向匹配",
     "抓取状态",
     "人工核验提示",
     "来源URL",
@@ -463,10 +477,10 @@ def normalize_title(title: str, title_hint: str) -> str:
     return title if title and title != NOT_FOUND else NOT_FOUND
 
 
-def score_ai_cv_relevance(research: str, project_keywords: str, intro: str, full_text: str) -> tuple[int, list[str]]:
+def score_ai_relevance(research: str, project_keywords: str, intro: str, full_text: str) -> tuple[int, list[str]]:
     research_text = "\n".join(value for value in [research, project_keywords, intro] if value and value != NOT_FOUND)
     all_text = "\n".join(value for value in [research_text, full_text] if value)
-    matched = collect_matching_keywords(all_text, AI_CV_KEYWORDS)
+    matched = collect_matching_keywords(all_text, AI_RELATED_KEYWORDS)
     score = 0
 
     strong_keywords = [
@@ -517,6 +531,86 @@ def score_ai_cv_relevance(research: str, project_keywords: str, intro: str, full
     return min(score, 100), matched
 
 
+def qualitative_from_score(score: int, high_at: int, medium_at: int) -> str:
+    if score >= high_at:
+        return "high"
+    if score >= medium_at:
+        return "medium"
+    return "low"
+
+
+def assess_undergrad_openness(row: dict[str, str], full_text: str) -> str:
+    text = "\n".join(
+        value
+        for value in [
+            row.get("个人简介", ""),
+            row.get("研究方向", ""),
+            row.get("团队介绍关键词", ""),
+            row.get("代表性项目或论文关键词", ""),
+            full_text,
+        ]
+        if value and value != NOT_FOUND
+    )
+    if re.search(r"本科生|大创|创新创业|实习|招收.*本科|欢迎.*本科|竞赛|开放课题", text):
+        return "high"
+    if re.search(r"团队|课题组|招生|硕士|博士|项目|实验平台|软件|系统|数据|算法", text):
+        return "medium"
+    return "low"
+
+
+def assess_publication_potential(row: dict[str, str], full_text: str) -> str:
+    text = "\n".join(
+        value
+        for value in [
+            row.get("个人简介", ""),
+            row.get("研究方向", ""),
+            row.get("代表性项目或论文关键词", ""),
+            full_text,
+        ]
+        if value and value != NOT_FOUND
+    )
+    score = 0
+    score += len(re.findall(r"论文|SCI|SSCI|EI|IEEE|ACM|期刊|会议|Pattern Recognition|CVPR|ICCV|ECCV|NeurIPS|AAAI|ICASSP", text, flags=re.I)) * 2
+    score += len(re.findall(r"国家自然科学基金|重点研发|863|973|项目负责人|主持|课题|基金|横向项目", text)) * 2
+    score += len(re.findall(r"detection|segmentation|recognition|image|video|learning|visual", text, flags=re.I))
+    return qualitative_from_score(score, high_at=16, medium_at=6)
+
+
+def assess_interest_match(row: dict[str, str]) -> str:
+    score = int(row.get("relevance_score", 0) or 0)
+    tags = row.get("direction_tags", "")
+    if score >= 70 or ("CV/图像处理" in tags and "AI/机器学习" in tags):
+        return "high"
+    if score >= 30 or "AI/机器学习" in tags or "CV/图像处理" in tags:
+        return "medium"
+    return "low"
+
+
+def build_fit_summary(row: dict[str, str]) -> str:
+    parts = []
+    if row.get("undergrad_openness") == "high":
+        parts.append("公开文本中出现本科生/竞赛/实习等友好信号")
+    elif row.get("undergrad_openness") == "medium":
+        parts.append("有团队/项目/招生线索，但本科生接纳需核验")
+    else:
+        parts.append("本科生接纳信息不足")
+
+    if row.get("publication_potential") == "high":
+        parts.append("论文或项目产出线索较多")
+    elif row.get("publication_potential") == "medium":
+        parts.append("有一定论文/项目线索")
+    else:
+        parts.append("公开页面产出线索较少")
+
+    if row.get("interest_match") == "high":
+        parts.append("与 AI/智能方向明显相关")
+    elif row.get("interest_match") == "medium":
+        parts.append("与 AI/智能方向可能相关")
+    else:
+        parts.append("与 AI/智能方向相关性较弱或待核验")
+    return "；".join(parts)
+
+
 def confidence_for_profile(row: dict[str, str], text_length: int) -> str:
     score = int(row.get("relevance_score", 0) or 0)
     if row.get("抓取状态") != "成功" or text_length < 300:
@@ -528,10 +622,13 @@ def confidence_for_profile(row: dict[str, str], text_length: int) -> str:
     return "low"
 
 
-def priority_for_score(score: int, confidence: str) -> str:
-    if score >= 70 and confidence in {"high", "medium"}:
+def priority_for_profile(row: dict[str, str]) -> str:
+    levels = [row.get("undergrad_openness"), row.get("publication_potential"), row.get("interest_match")]
+    high_count = levels.count("high")
+    medium_or_high = sum(level in {"high", "medium"} for level in levels)
+    if high_count >= 2 and row.get("confidence") in {"high", "medium"}:
         return "A"
-    if score >= 40:
+    if medium_or_high >= 2:
         return "B"
     return "C"
 
@@ -556,18 +653,24 @@ def infer_undergrad_tasks(research: str, project_keywords: str, team_keywords: s
     source = " ".join(v for v in [research, project_keywords, team_keywords] if v and v != NOT_FOUND)
     if not source:
         return NOT_FOUND
-    tasks: list[str] = ["文献阅读与论文精读"]
+    tasks: list[str] = []
     rules = [
-        (r"算法|智能|机器学习|深度学习|图像|视频|感知|识别", "算法复现、数据处理、模型评测"),
-        (r"通信|网络|无线|毫米波|信号|雷达|定位", "通信/信号处理仿真、实验数据分析"),
-        (r"芯片|电路|硬件|FPGA|集成|天线", "硬件测试、仿真建模、实验平台辅助"),
-        (r"安全|隐私|攻防|密码", "安全论文阅读、实验复现、工具链整理"),
-        (r"系统|平台|软件|工程", "原型系统开发、脚本工具与工程实现"),
+        (r"目标检测|图像检测|视觉检测|图像识别|模式识别|图像分割|计算机视觉|图像|视频", "围绕检测/识别/分割论文做复现，对公开图像或视频数据集做标注、训练和误差分析"),
+        (r"医学图像|医疗|影像", "整理医学影像数据处理流程，复现分割/诊断模型并做可视化评估"),
+        (r"遥感|雷达|SAR|成像|海洋", "处理遥感/雷达成像数据，复现实验中的滤波、检测或目标识别模块"),
+        (r"多模态|大模型|视觉语言|自然语言", "整理多模态数据和提示词实验，复现视觉语言模型基线并做案例分析"),
+        (r"机器学习|深度学习|人工智能|智能|算法", "复现机器学习/深度学习基线，做消融实验、参数对比和结果可视化"),
+        (r"通信|网络|无线|频谱|信号|信号检测", "搭建通信或信号处理仿真脚本，分析频谱/信道/传输实验数据"),
+        (r"芯片|电路|硬件|FPGA|嵌入式|天线", "做硬件平台资料整理、测试脚本、FPGA/嵌入式小模块或实验记录自动化"),
+        (r"安全|隐私|攻防|密码", "复现安全论文实验，整理数据集、攻击/防御流程和评测指标"),
+        (r"系统|平台|软件|工程", "开发小型实验工具、数据处理脚本、Web 可视化或原型系统模块"),
     ]
     for pattern, task in rules:
         if re.search(pattern, source, flags=re.I) and task not in tasks:
             tasks.append(task)
-    return "推测：" + "；".join(tasks[:4])
+    if not tasks:
+        tasks.append("先做 3-5 篇代表性论文精读，整理术语表、数据集和可复现实验清单")
+    return "基于公开方向推测：" + "；".join(tasks[:3])
 
 
 def collect_external_evidence(row: dict[str, str]) -> list[dict[str, str]]:
@@ -605,7 +708,7 @@ def parse_profile(html: str, link: ProfileLink, html_path: Path, text_path: Path
     team_keywords = extract_keywords(text, ["团队展示", "团队介绍", "课题组"])
     undergrad_tasks = infer_undergrad_tasks(research, project_keywords, team_keywords)
     direction_tags = collect_direction_tags(research, project_keywords, team_keywords, intro)
-    relevance_score, ai_cv_keywords = score_ai_cv_relevance(research, project_keywords, intro, text)
+    relevance_score, ai_cv_keywords = score_ai_relevance(research, project_keywords, intro, text)
 
     note = ""
     if len(text) < 300:
@@ -627,6 +730,10 @@ def parse_profile(html: str, link: ProfileLink, html_path: Path, text_path: Path
         "research_plain_explanation": "",
         "recommendation_priority": "",
         "confidence": "",
+        "undergrad_openness": "",
+        "publication_potential": "",
+        "interest_match": "",
+        "fit_summary": "",
         "来源URL": link.url,
         "发现来源URL": link.source_url,
         "原始HTML路径": str(html_path.relative_to(ROOT)),
@@ -635,7 +742,11 @@ def parse_profile(html: str, link: ProfileLink, html_path: Path, text_path: Path
         "备注": note,
     }
     row["confidence"] = confidence_for_profile(row, len(text))
-    row["recommendation_priority"] = priority_for_score(relevance_score, row["confidence"])
+    row["undergrad_openness"] = assess_undergrad_openness(row, text)
+    row["publication_potential"] = assess_publication_potential(row, text)
+    row["interest_match"] = assess_interest_match(row)
+    row["recommendation_priority"] = priority_for_profile(row)
+    row["fit_summary"] = build_fit_summary(row)
     row["research_plain_explanation"] = explain_research(row)
     row["external_evidence"] = collect_external_evidence(row)
     return row
@@ -668,10 +779,13 @@ def summary_row(row: dict[str, str]) -> dict[str, str]:
         "项目/论文关键词摘要": compact_cell(row.get("代表性项目或论文关键词", "")),
         "本科生切入点": compact_cell(row.get("可能适合本科生参与的任务类型", ""), 90),
         "方向标签": row.get("direction_tags", ""),
-        "AI/CV相关度": row.get("relevance_score", ""),
-        "AI/CV关键词": compact_cell(row.get("ai_cv_keywords", ""), 90),
+        "AI方向原始线索分": row.get("relevance_score", ""),
+        "AI关键词": compact_cell(row.get("ai_cv_keywords", ""), 90),
         "推荐优先级": row.get("recommendation_priority", ""),
         "置信度": row.get("confidence", ""),
+        "本科生接纳程度": row.get("undergrad_openness", ""),
+        "论文产出潜力": row.get("publication_potential", ""),
+        "个人方向匹配": row.get("interest_match", ""),
         "抓取状态": row.get("抓取状态", ""),
         "人工核验提示": compact_cell(row.get("备注", ""), 90),
         "来源URL": row.get("来源URL", ""),
@@ -689,7 +803,7 @@ def display_value(value: str, fallback: str = NEEDS_CHECK) -> str:
     return value
 
 
-def sorted_ai_cv_rows(rows: list[dict[str, str]], min_score: int = 25) -> list[dict[str, str]]:
+def sorted_ai_rows(rows: list[dict[str, str]], min_score: int = 25) -> list[dict[str, str]]:
     candidates = []
     for row in rows:
         try:
@@ -697,17 +811,25 @@ def sorted_ai_cv_rows(rows: list[dict[str, str]], min_score: int = 25) -> list[d
         except ValueError:
             score = 0
         keywords = row.get("ai_cv_keywords", "")
-        if score >= min_score or (keywords and score >= 20):
+        if score >= min_score or row.get("interest_match") in {"high", "medium"} or (keywords and score >= 20):
             candidates.append(row)
+    priority_rank = {"A": 3, "B": 2, "C": 1}
+    level_rank = {"high": 3, "medium": 2, "low": 1}
     return sorted(
         candidates,
         key=lambda item: (
+            priority_rank.get(item.get("recommendation_priority", "C"), 0),
+            level_rank.get(item.get("interest_match", "low"), 0),
+            level_rank.get(item.get("publication_potential", "low"), 0),
+            level_rank.get(item.get("undergrad_openness", "low"), 0),
             int(item.get("relevance_score", 0) or 0),
-            item.get("confidence") == "high",
-            item.get("recommendation_priority") == "A",
         ),
         reverse=True,
     )
+
+
+def sorted_ai_cv_rows(rows: list[dict[str, str]], min_score: int = 25) -> list[dict[str, str]]:
+    return sorted_ai_rows(rows, min_score)
 
 
 def write_readable_markdown(rows: list[dict[str, str]], path: Path) -> None:
@@ -775,8 +897,10 @@ def write_all_profiles_markdown(rows: list[dict[str, str]], path: Path) -> None:
                 f"- 院系/团队：{display_value(row.get('所属专业/院系'))}",
                 f"- 导师类别：{display_value(row.get('导师类别'))}",
                 f"- 方向标签：{display_value(row.get('direction_tags'))}",
-                f"- AI/CV 相关度：{score}/100",
-                f"- AI/CV 关键词：{display_value(row.get('ai_cv_keywords'))}",
+                f"- AI/智能方向匹配：{display_value(row.get('interest_match'))}",
+                f"- 本科生接纳程度：{display_value(row.get('undergrad_openness'))}",
+                f"- 论文产出潜力：{display_value(row.get('publication_potential'))}",
+                f"- AI/智能关键词：{display_value(row.get('ai_cv_keywords'))}",
                 f"- 研究方向摘要：{display_value(compact_cell(row.get('研究方向', ''), 220))}",
                 f"- 本科生切入点：{display_value(row.get('可能适合本科生参与的任务类型'))}",
                 f"- 置信度：{display_value(row.get('confidence'))}",
@@ -788,27 +912,32 @@ def write_all_profiles_markdown(rows: list[dict[str, str]], path: Path) -> None:
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
-def write_ai_cv_markdown(rows: list[dict[str, str]], path: Path) -> None:
-    candidates = sorted_ai_cv_rows(rows)
+def write_ai_markdown(rows: list[dict[str, str]], path: Path) -> None:
+    candidates = sorted_ai_rows(rows)
     lines = [
-        "# AI/CV 相关老师重点清单",
+        "# 人工智能相关老师重点清单",
         "",
-        "排序依据：`relevance_score`、AI/CV 关键词命中、公开主页文本完整度。请把本清单当作初筛，不要当作最终结论。",
+        "排序依据：本科生接纳程度、论文/项目产出潜力、与 AI/智能方向的匹配程度。请把本清单当作初筛，不要当作最终结论。",
+        "",
+        "说明：`interest_match` 目前只代表与“AI/智能相关方向”的通用匹配。等你提供个人期待方向后，可以进一步细化为你的个人匹配度。",
         "",
     ]
     if not candidates:
-        lines.append("本轮公开主页中没有筛出明显 AI/CV 候选，建议扩展学院新闻、实验室主页和论文库后复查。")
+        lines.append("本轮公开主页中没有筛出明显 AI 候选，建议扩展学院新闻、实验室主页和论文库后复查。")
     for row in candidates:
-        score = int(row.get("relevance_score", 0) or 0)
         lines.extend(
             [
-                f"## {display_value(row.get('姓名'))} - {display_value(row.get('recommendation_priority'), 'C')} / {score}",
+                f"## {display_value(row.get('姓名'))} - 优先级 {display_value(row.get('recommendation_priority'), 'C')}",
                 "",
                 f"- 姓名：{display_value(row.get('姓名'))}",
                 f"- 职称：{display_value(row.get('职称'))}",
                 f"- 院系/团队：{display_value(row.get('所属专业/院系'))}",
                 f"- 主页 URL：{display_value(row.get('来源URL'))}",
-                f"- AI/CV 相关关键词：{display_value(row.get('ai_cv_keywords'))}",
+                f"- 本科生接纳程度：{display_value(row.get('undergrad_openness'))}",
+                f"- 论文/项目产出潜力：{display_value(row.get('publication_potential'))}",
+                f"- AI/智能方向匹配：{display_value(row.get('interest_match'))}",
+                f"- 综合判断：{display_value(row.get('fit_summary'))}",
+                f"- AI/智能相关关键词：{display_value(row.get('ai_cv_keywords'))}",
                 f"- 研究方向人话解释：{display_value(row.get('research_plain_explanation'))}",
                 f"- 最近论文/项目关键词：{display_value(row.get('代表性项目或论文关键词'))}",
                 f"- 本科生可切入方向：{display_value(row.get('可能适合本科生参与的任务类型'))}",
@@ -821,11 +950,15 @@ def write_ai_cv_markdown(rows: list[dict[str, str]], path: Path) -> None:
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
+def write_ai_cv_markdown(rows: list[dict[str, str]], path: Path) -> None:
+    write_ai_markdown(rows, path)
+
+
 def write_scrape_report(rows: list[dict[str, str]], discovered_count: int, list_pages: list[str], path: Path) -> None:
     success = sum(1 for row in rows if row.get("抓取状态") == "成功")
     failed = len(rows) - success
     low_confidence = sum(1 for row in rows if row.get("confidence") == "low")
-    ai_cv_count = len(sorted_ai_cv_rows(rows))
+    ai_cv_count = len(sorted_ai_rows(rows))
     tag_counts: dict[str, int] = {}
     for row in rows:
         for tag in (row.get("direction_tags") or "其他/待核验").split("；"):
@@ -839,7 +972,7 @@ def write_scrape_report(rows: list[dict[str, str]], discovered_count: int, list_
         f"- 成功抓取人数：{success}",
         f"- 失败人数：{failed}",
         f"- 低置信度人数：{low_confidence}",
-        f"- 疑似 AI/CV 老师人数：{ai_cv_count}",
+        f"- 疑似 AI/智能方向老师人数：{ai_cv_count}",
         "",
         "## 已访问的师资列表页",
         "",
@@ -870,6 +1003,7 @@ def save_outputs(rows: list[dict[str, str]], discovered_count: int, list_pages: 
     readable_md_path = OUTPUT_DIR / "teachers_readable.md"
     raw_json_path = OUTPUT_DIR / "all_teachers_raw.json"
     all_profiles_path = OUTPUT_DIR / "all_teachers_profiles.md"
+    ai_path = OUTPUT_DIR / "ai_teachers.md"
     ai_cv_path = OUTPUT_DIR / "ai_cv_teachers.md"
     report_path = OUTPUT_DIR / "scrape_report.md"
 
@@ -887,6 +1021,7 @@ def save_outputs(rows: list[dict[str, str]], discovered_count: int, list_pages: 
     write_readable_markdown(rows, readable_md_path)
     raw_json_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
     write_all_profiles_markdown(rows, all_profiles_path)
+    write_ai_markdown(rows, ai_path)
     write_ai_cv_markdown(rows, ai_cv_path)
     write_scrape_report(rows, discovered_count, list_pages, report_path)
 
@@ -1018,6 +1153,10 @@ def failure_row(link: ProfileLink, html_path: Path, text_path: Path, exc: Except
         "research_plain_explanation": "当前主页抓取失败，无法判断方向。",
         "recommendation_priority": "C",
         "confidence": "low",
+        "undergrad_openness": "low",
+        "publication_potential": "low",
+        "interest_match": "low",
+        "fit_summary": "主页抓取失败，三个维度均需人工核验。",
         "来源URL": link.url,
         "发现来源URL": link.source_url,
         "原始HTML路径": str(html_path.relative_to(ROOT)),
@@ -1034,7 +1173,7 @@ def main() -> None:
     if hasattr(sys.stderr, "reconfigure"):
         sys.stderr.reconfigure(encoding="utf-8")
 
-    parser = argparse.ArgumentParser(description="Collect public HUST EIC teacher profiles and rank AI/CV relevance.")
+    parser = argparse.ArgumentParser(description="Collect public HUST EIC teacher profiles and rank AI-related fit.")
     parser.add_argument("--limit", type=int, default=0, help="Optional maximum number of teacher profiles to fetch; 0 means no limit.")
     parser.add_argument("--delay", type=float, default=DEFAULT_DELAY_SECONDS, help="Delay in seconds between requests.")
     parser.add_argument("--max-list-pages", type=int, default=DEFAULT_MAX_LIST_PAGES, help="Maximum staff-list pages to discover.")

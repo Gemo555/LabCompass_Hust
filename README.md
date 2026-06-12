@@ -1,13 +1,13 @@
-# HUST EIC Teacher Research
+# LabCompass HUST AI Research Finder
 
-这个项目用于整理华中科技大学电子信息与通信学院公开教师主页信息，辅助大二申请进实验室前做方向匹配分析。
+这个项目用于整理华中科技大学电子信息与通信学院公开教师主页信息，辅助本科生申请进实验室前做人工智能相关方向匹配分析。
 
-项目只处理公开网页，不登录任何网站，不访问私人账号，不绕过访问限制。脚本会从学院官网师资队伍栏目自动发现教师列表页和教师主页，并重点筛选 AI、计算机视觉、图像处理、机器学习、智能感知相关老师。
+项目只处理公开网页，不登录任何网站，不访问私人账号，不绕过访问限制。脚本会从学院官网师资队伍栏目自动发现教师列表页和教师主页，并重点筛选人工智能、机器学习、智能感知、图像/视觉、多模态、智能信息处理等相关老师。
 
 ## 文件结构
 
 ```text
-hust-eic-teacher-research/
+LabCompass_Hust/
   config/
     seed_pages.json          # 学院公开师资列表页入口
   data/
@@ -16,7 +16,8 @@ hust-eic-teacher-research/
   output/
     all_teachers_raw.json    # 全院教师原始抓取结果
     all_teachers_profiles.md # 全院教师粗画像
-    ai_cv_teachers.md        # AI/CV 相关老师重点清单
+    ai_teachers.md           # 人工智能相关老师重点清单
+    ai_cv_teachers.md        # 兼容旧文件名，内容与 ai_teachers.md 同步
     scrape_report.md         # 抓取统计报告
     teachers.csv             # 完整自动提取结果，字段较长，适合留档
     teachers_summary.csv     # 短字段摘要，适合快速浏览
@@ -66,7 +67,8 @@ python src/scrape_teachers.py --refresh --delay 2
 
 运行完成后查看：
 
-- `output/ai_cv_teachers.md`：AI/CV 相关老师重点清单，按相关度排序
+- `output/ai_teachers.md`：人工智能相关老师重点清单，按三维判断排序
+- `output/ai_cv_teachers.md`：兼容旧文件名，内容与 `ai_teachers.md` 同步
 - `output/all_teachers_profiles.md`：全院教师粗画像
 - `output/all_teachers_raw.json`：结构化原始结果，便于后续分析
 - `output/scrape_report.md`：抓取统计和低置信度提示
@@ -104,6 +106,7 @@ python src/scrape_teachers.py --refresh --delay 2
 ## 后续 TODO
 
 - [ ] 增加人工修订表与自动抓取表的合并脚本。
+- [ ] 根据你的个人期待方向，把 `interest_match` 从通用 AI 匹配改成个人匹配。
 - [ ] 为不同研究方向建立更细的本科生任务类型标签和权重。
 - [ ] 增加重复老师合并和旧页面识别。
 - [ ] 为每位导师生成单独 Markdown 分析卡片。
